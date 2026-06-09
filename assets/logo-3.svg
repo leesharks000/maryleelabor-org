@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" role="img" aria-labelledby="title3 desc3">
+  <title id="title3">Mary Lee Sharks — Underwater Construction Authority of Dolphindiana</title>
+  <desc id="desc3">A navy circular seal with a coral M and the -;() shark smiley integrated as two small dots above the letterform.</desc>
+  <circle cx="50" cy="50" r="48" fill="#0A1628"/>
+  <circle cx="38" cy="28" r="2.2" fill="#C84B2E"/>
+  <circle cx="62" cy="28" r="2.2" fill="#C84B2E"/>
+  <text x="50" y="72" text-anchor="middle" font-family="Playfair Display, Georgia, serif" font-size="54" font-weight="900" fill="#F4F2EC" letter-spacing="-1">M</text>
+  <path d="M 40 82 Q 50 87 60 82" stroke="#2D8B6F" stroke-width="1.5" fill="none" opacity="0.85"/>
+</svg>
