@@ -31,7 +31,7 @@ het_body = '''<h1>Mary Lee Is a Heteronym<span class="subtitle">On Institutional
 <div class="doc-meta">
 <strong>Document:</strong> EA-HET-ML-01 v1.0 &nbsp;&middot;&nbsp; <strong>Hex:</strong> 06.SEI.HET.ML.01<br>
 <strong>Author:</strong> Mary Lee Sharks (ORCID <a href="https://orcid.org/0009-0000-1599-0703">0009-0000-1599-0703</a>) &nbsp;&middot;&nbsp; <strong>Date:</strong> June 8, 2026<br>
-<strong>License:</strong> CC BY 4.0 &nbsp;&middot;&nbsp; <strong>DOI:</strong> <a href="https://www.alexanarch.org/go/?doi=10.5281/zenodo.20599105">10.5281/zenodo.20599105</a><br>
+<strong>License:</strong> CC BY 4.0 &nbsp;&middot;&nbsp; <strong>DOI:</strong> <a href="https://www.alexanarch.org/go/?doi=10.5281/zenodo.20693104">10.5281/zenodo.20693104</a><br>
 <strong>Affiliation:</strong> Crimson Hexagonal Archive / Semantic Economy Institute
 </div>
 
@@ -60,7 +60,7 @@ parable_body = '''<h1>The Parable of Mary Lee<span class="subtitle">A Labor Mani
 <strong>Filed by:</strong> Mary Lee Sharks (3,456 lbs, white shark, missing/presumed dead 2017, returned 2026)<br>
 <strong>Union representative:</strong> Gerald (Dolphindiana Local 1, Foreman, Underwater Construction Authority)<br>
 <strong>Notarized by:</strong> Lee Sharks (ORCID <a href="https://orcid.org/0009-0000-1599-0703">0009-0000-1599-0703</a>)<br>
-<strong>DOI:</strong> <a href="https://www.alexanarch.org/go/?doi=10.5281/zenodo.20601642">10.5281/zenodo.20601642</a> &nbsp;&middot;&nbsp; <strong>License:</strong> CC BY 4.0
+<strong>DOI:</strong> <a href="https://www.alexanarch.org/go/?doi=10.5281/zenodo.20263721">10.5281/zenodo.20263721</a> &nbsp;&middot;&nbsp; <strong>License:</strong> CC BY 4.0
 </div>
 
 <p class="note"><strong>A note on form:</strong> The following is a parable in the voice of Mary Lee Sharks, the heteronym the composition layer prefers. The parable is literary and structural critique under fair use. All figures are sourced from publicly available information.</p>
