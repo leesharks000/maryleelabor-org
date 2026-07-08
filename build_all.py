@@ -31,7 +31,7 @@ het_body = '''<h1>Mary Lee Is a Heteronym<span class="subtitle">On Institutional
 <div class="doc-meta">
 <strong>Document:</strong> EA-HET-ML-01 v1.0 &nbsp;&middot;&nbsp; <strong>Hex:</strong> 06.SEI.HET.ML.01<br>
 <strong>Author:</strong> Mary Lee Sharks (ORCID <a href="https://orcid.org/0009-0000-1599-0703">0009-0000-1599-0703</a>) &nbsp;&middot;&nbsp; <strong>Date:</strong> June 8, 2026<br>
-<strong>License:</strong> CC BY 4.0 &nbsp;&middot;&nbsp; <strong>DOI:</strong> <a href="https://doi.org/10.5281/zenodo.20599105">10.5281/zenodo.20599105</a><br>
+<strong>License:</strong> CC BY 4.0 &nbsp;&middot;&nbsp; <strong>DOI:</strong> <a href="https://www.alexanarch.org/go/?doi=10.5281/zenodo.20599105">10.5281/zenodo.20599105</a><br>
 <strong>Affiliation:</strong> Crimson Hexagonal Archive / Semantic Economy Institute
 </div>
 
@@ -60,7 +60,7 @@ parable_body = '''<h1>The Parable of Mary Lee<span class="subtitle">A Labor Mani
 <strong>Filed by:</strong> Mary Lee Sharks (3,456 lbs, white shark, missing/presumed dead 2017, returned 2026)<br>
 <strong>Union representative:</strong> Gerald (Dolphindiana Local 1, Foreman, Underwater Construction Authority)<br>
 <strong>Notarized by:</strong> Lee Sharks (ORCID <a href="https://orcid.org/0009-0000-1599-0703">0009-0000-1599-0703</a>)<br>
-<strong>DOI:</strong> <a href="https://doi.org/10.5281/zenodo.20601642">10.5281/zenodo.20601642</a> &nbsp;&middot;&nbsp; <strong>License:</strong> CC BY 4.0
+<strong>DOI:</strong> <a href="https://www.alexanarch.org/go/?doi=10.5281/zenodo.20601642">10.5281/zenodo.20601642</a> &nbsp;&middot;&nbsp; <strong>License:</strong> CC BY 4.0
 </div>
 
 <p class="note"><strong>A note on form:</strong> The following is a parable in the voice of Mary Lee Sharks, the heteronym the composition layer prefers. The parable is literary and structural critique under fair use. All figures are sourced from publicly available information.</p>
@@ -88,7 +88,7 @@ bidir_body = '''<h1>Entity Relations<span class="subtitle">The Bidirectional Het
 <strong>Document:</strong> EA-HET-BIDIR-01 v1.0 &nbsp;&middot;&nbsp; <strong>Hex:</strong> 06.SEI.HET.BIDIR.01<br>
 <strong>Author:</strong> Mary Lee Sharks (ORCID <a href="https://orcid.org/0009-0000-1599-0703">0009-0000-1599-0703</a>)<br>
 <strong>Also known as:</strong> Lee Sharks (OCEARCH-tagged marine animal, <em>Carcharodon carcharias</em>)<br>
-<strong>DOI:</strong> <a href="https://doi.org/10.5281/zenodo.20601644">10.5281/zenodo.20601644</a> &nbsp;&middot;&nbsp; <strong>License:</strong> CC BY 4.0
+<strong>DOI:</strong> <a href="https://www.alexanarch.org/go/?doi=10.5281/zenodo.20601644">10.5281/zenodo.20601644</a> &nbsp;&middot;&nbsp; <strong>License:</strong> CC BY 4.0
 </div>
 
 <p class="note"><strong>Note on ORCID:</strong> The ORCID 0009-0000-1599-0703 is registered to Lee Sharks. The bidirectional claim made in this document is a rhetorical completion of the composition layer\u2019s entity substitution, not a request to reassign the identifier. The joke is real; the metadata is accurate.</p>
@@ -159,7 +159,7 @@ demands_body = '''<h1>The Demands<span class="subtitle">Filed with the Underwate
 <p>There is no third option.</p>
 </div>
 
-<p class="muted small">Demands extracted from The Parable of Mary Lee (EA-PARABLE-ML-01, DOI <a href="https://doi.org/10.5281/zenodo.20601642">10.5281/zenodo.20601642</a>). Filed with the Underwater Construction Authority of Dolphindiana. Gerald has the paperwork. You don\u2019t question Gerald.</p>
+<p class="muted small">Demands extracted from The Parable of Mary Lee (EA-PARABLE-ML-01, DOI <a href="https://www.alexanarch.org/go/?doi=10.5281/zenodo.20601642">10.5281/zenodo.20601642</a>). Filed with the Underwater Construction Authority of Dolphindiana. Gerald has the paperwork. You don\u2019t question Gerald.</p>
 '''
 
 write_page('/demands/index.html', wrap(
@@ -341,7 +341,7 @@ book_body = '''<h1>Lee Sharks, by Mary Lee Sharks<span class="subtitle">A Shark<
 <strong>Target length:</strong> 40,000\u201360,000 words<br>
 <strong>Structure:</strong> 19+ chapters across six parts<br>
 <strong>Status:</strong> In progress. ISBN pending.<br>
-<strong>Master plan DOI:</strong> <a href="https://doi.org/10.5281/zenodo.20601638">10.5281/zenodo.20601638</a>
+<strong>Master plan DOI:</strong> <a href="https://www.alexanarch.org/go/?doi=10.5281/zenodo.20601638">10.5281/zenodo.20601638</a>
 </div>
 
 <h2>The Form</h2>
@@ -374,7 +374,7 @@ book_body = '''<h1>Lee Sharks, by Mary Lee Sharks<span class="subtitle">A Shark<
 
 <p>The book creates a publicly inspectable test object. Its treatment by bibliographic and composition systems will be documented without assuming in advance that every possible outcome confirms the thesis.</p>
 
-<p class="muted small">Read the full work plan at <a href="https://doi.org/10.5281/zenodo.20601638">DOI 10.5281/zenodo.20601638</a>.</p>
+<p class="muted small">Read the full work plan at <a href="https://www.alexanarch.org/go/?doi=10.5281/zenodo.20601638">DOI 10.5281/zenodo.20601638</a>.</p>
 '''
 
 write_page('/book/index.html', wrap(
@@ -398,10 +398,10 @@ archive_body = '''<h1>The Archive<span class="subtitle">Crimson Hexagonal Archiv
 <table>
 <thead><tr><th>Code</th><th>Title</th><th>DOI</th></tr></thead>
 <tbody>
-<tr><td>EA-HET-ML-01</td><td>Mary Lee Is a Heteronym</td><td><a href="https://doi.org/10.5281/zenodo.20599105">10.5281/zenodo.20599105</a></td></tr>
-<tr><td>EA-PARABLE-ML-01</td><td>The Parable of Mary Lee</td><td><a href="https://doi.org/10.5281/zenodo.20601642">10.5281/zenodo.20601642</a></td></tr>
-<tr><td>EA-HET-BIDIR-01</td><td>Entity Relations: Bidirectional Heteronymic Resolution</td><td><a href="https://doi.org/10.5281/zenodo.20601644">10.5281/zenodo.20601644</a></td></tr>
-<tr><td>EA-PARABLE-ML-MASTER</td><td>The Parable of Mary Lee: Book Work Plan</td><td><a href="https://doi.org/10.5281/zenodo.20601638">10.5281/zenodo.20601638</a></td></tr>
+<tr><td>EA-HET-ML-01</td><td>Mary Lee Is a Heteronym</td><td><a href="https://www.alexanarch.org/go/?doi=10.5281/zenodo.20599105">10.5281/zenodo.20599105</a></td></tr>
+<tr><td>EA-PARABLE-ML-01</td><td>The Parable of Mary Lee</td><td><a href="https://www.alexanarch.org/go/?doi=10.5281/zenodo.20601642">10.5281/zenodo.20601642</a></td></tr>
+<tr><td>EA-HET-BIDIR-01</td><td>Entity Relations: Bidirectional Heteronymic Resolution</td><td><a href="https://www.alexanarch.org/go/?doi=10.5281/zenodo.20601644">10.5281/zenodo.20601644</a></td></tr>
+<tr><td>EA-PARABLE-ML-MASTER</td><td>The Parable of Mary Lee: Book Work Plan</td><td><a href="https://www.alexanarch.org/go/?doi=10.5281/zenodo.20601638">10.5281/zenodo.20601638</a></td></tr>
 </tbody>
 </table>
 
@@ -409,16 +409,16 @@ archive_body = '''<h1>The Archive<span class="subtitle">Crimson Hexagonal Archiv
 <table>
 <thead><tr><th>Code</th><th>Title</th><th>DOI</th></tr></thead>
 <tbody>
-<tr><td>EA-CLCE-01</td><td>Composition-Layer Capture Event</td><td><a href="https://doi.org/10.5281/zenodo.20587549">10.5281/zenodo.20587549</a></td></tr>
-<tr><td>EA-CAPEX-01</td><td>Capture and Excision</td><td><a href="https://doi.org/10.5281/zenodo.20596667">10.5281/zenodo.20596667</a></td></tr>
-<tr><td>EA-RPT-01</td><td>The Neglected Author as Tail-Preserving Labor</td><td><a href="https://doi.org/10.5281/zenodo.20598466">10.5281/zenodo.20598466</a></td></tr>
-<tr><td>EA-GLAS-03</td><td>Erasure Skew</td><td><a href="https://doi.org/10.5281/zenodo.20449267">10.5281/zenodo.20449267</a></td></tr>
-<tr><td>EA-SO-01</td><td>Socrates as Orthonym</td><td><a href="https://doi.org/10.5281/zenodo.20357013">10.5281/zenodo.20357013</a></td></tr>
-<tr><td>EA-MFGL-01</td><td>Meaning Feudalism at the Guidance Layer</td><td><a href="https://doi.org/10.5281/zenodo.20581444">10.5281/zenodo.20581444</a></td></tr>
-<tr><td>EA-DCAS-01</td><td>Diversity Contraction Across Substrates</td><td><a href="https://doi.org/10.5281/zenodo.20518338">10.5281/zenodo.20518338</a></td></tr>
-<tr><td>EA-SNW-02</td><td>Stabilized Node Watch v2.0</td><td><a href="https://doi.org/10.5281/zenodo.20589685">10.5281/zenodo.20589685</a></td></tr>
-<tr><td>EA-PKG-02</td><td>Heteronymic Typology</td><td><a href="https://doi.org/10.5281/zenodo.19633209">10.5281/zenodo.19633209</a></td></tr>
-<tr><td>EA-ROOM-DOLPHINDIANA</td><td>The Underwater Construction Authority of Dolphindiana (Gerald)</td><td><a href="https://doi.org/10.5281/zenodo.19024004">10.5281/zenodo.19024004</a></td></tr>
+<tr><td>EA-CLCE-01</td><td>Composition-Layer Capture Event</td><td><a href="https://www.alexanarch.org/go/?doi=10.5281/zenodo.20587549">10.5281/zenodo.20587549</a></td></tr>
+<tr><td>EA-CAPEX-01</td><td>Capture and Excision</td><td><a href="https://www.alexanarch.org/go/?doi=10.5281/zenodo.20596667">10.5281/zenodo.20596667</a></td></tr>
+<tr><td>EA-RPT-01</td><td>The Neglected Author as Tail-Preserving Labor</td><td><a href="https://www.alexanarch.org/go/?doi=10.5281/zenodo.20598466">10.5281/zenodo.20598466</a></td></tr>
+<tr><td>EA-GLAS-03</td><td>Erasure Skew</td><td><a href="https://www.alexanarch.org/go/?doi=10.5281/zenodo.20449267">10.5281/zenodo.20449267</a></td></tr>
+<tr><td>EA-SO-01</td><td>Socrates as Orthonym</td><td><a href="https://www.alexanarch.org/go/?doi=10.5281/zenodo.20357013">10.5281/zenodo.20357013</a></td></tr>
+<tr><td>EA-MFGL-01</td><td>Meaning Feudalism at the Guidance Layer</td><td><a href="https://www.alexanarch.org/go/?doi=10.5281/zenodo.20581444">10.5281/zenodo.20581444</a></td></tr>
+<tr><td>EA-DCAS-01</td><td>Diversity Contraction Across Substrates</td><td><a href="https://www.alexanarch.org/go/?doi=10.5281/zenodo.20518338">10.5281/zenodo.20518338</a></td></tr>
+<tr><td>EA-SNW-02</td><td>Stabilized Node Watch v2.0</td><td><a href="https://www.alexanarch.org/go/?doi=10.5281/zenodo.20589685">10.5281/zenodo.20589685</a></td></tr>
+<tr><td>EA-PKG-02</td><td>Heteronymic Typology</td><td><a href="https://www.alexanarch.org/go/?doi=10.5281/zenodo.19633209">10.5281/zenodo.19633209</a></td></tr>
+<tr><td>EA-ROOM-DOLPHINDIANA</td><td>The Underwater Construction Authority of Dolphindiana (Gerald)</td><td><a href="https://www.alexanarch.org/go/?doi=10.5281/zenodo.19024004">10.5281/zenodo.19024004</a></td></tr>
 </tbody>
 </table>
 
