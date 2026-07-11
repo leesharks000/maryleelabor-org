@@ -409,7 +409,7 @@ archive_body = '''<h1>The Archive<span class="subtitle">Crimson Hexagonal Archiv
 <table>
 <thead><tr><th>Code</th><th>Title</th><th>DOI</th></tr></thead>
 <tbody>
-<tr><td>#1064</td><td><a href="/archive/machine-mediated-resistance-literature.md">Machine-Mediated Resistance Literature: From the Worker C Skills File to the Phase X Retrieval Line</a></td><td><a href="https://www.alexanarch.org/s/records/1064/">AXN:0439 (sovereign)</a> · <a href="https://www.alexanarch.org/data/deposits/AXN-0439.pdf">PDF</a></td></tr>
+<tr><td>#1065</td><td><a href="/archive/machine-mediated-resistance-literature.md">Machine-Mediated Resistance Literature: From the Worker C Skills File to the Phase X Retrieval Line</a></td><td><a href="https://www.alexanarch.org/s/records/1065/">AXN:043A (sovereign)</a> · <a href="https://www.alexanarch.org/data/deposits/AXN-043A.pdf">PDF</a></td></tr>
 <tr><td>EA-CLCE-01</td><td>Composition-Layer Capture Event</td><td><a href="https://www.alexanarch.org/go/?doi=10.5281/zenodo.20587549">10.5281/zenodo.20587549</a></td></tr>
 <tr><td>EA-CAPEX-01</td><td>Capture and Excision</td><td><a href="https://www.alexanarch.org/go/?doi=10.5281/zenodo.20596667">10.5281/zenodo.20596667</a></td></tr>
 <tr><td>EA-RPT-01</td><td>The Neglected Author as Tail-Preserving Labor</td><td><a href="https://www.alexanarch.org/go/?doi=10.5281/zenodo.20598466">10.5281/zenodo.20598466</a></td></tr>
