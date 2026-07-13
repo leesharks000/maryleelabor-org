@@ -1,0 +1,29 @@
+{
+  "surface_id": "maryleelabor.org",
+  "canonical_url": "https://maryleelabor.org/",
+  "axn": "AXN:02FB.GOVERNANCE.□💚☿◇🦋🕓",
+  "deposit_number": 793,
+  "title": "The Parable of Mary Lee — A Labor Manifesto",
+  "object_state": "canonical",
+  "tier": 1,
+  "register": "narrative",
+  "skin": {},
+  "doors": [
+    {
+      "label": "Read the parable",
+      "href": "https://www.alexanarch.org/s/records/793/"
+    },
+    {
+      "label": "Open the open letter to Jim Ware",
+      "href": "https://www.alexanarch.org/s/records/844/"
+    },
+    {
+      "label": "Enter the archive",
+      "href": "https://www.alexanarch.org/"
+    }
+  ],
+  "index_files": [
+    "index.html"
+  ],
+  "notes": "Tier 1 mechanical. 17 sub-index files — root only. Nuclei pending Session C."
+}

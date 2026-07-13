@@ -3,3 +3,6 @@ __pycache__/
 .DS_Store
 node_modules/
 .vercel
+.msp_state.json
+*.orig
+index.html.orig
