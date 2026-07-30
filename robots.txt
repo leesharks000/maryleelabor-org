@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://maryleelabor.org/sitemap.xml
+Sitemap: https://www.maryleelabor.org/sitemap.xml
