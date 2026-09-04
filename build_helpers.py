@@ -87,7 +87,7 @@ JSONLD_ENTITY = '''<script type="application/ld+json">
 # === Shared template parts ===
 
 def head(title, description, path):
-    canonical = f"https://maryleelabor.org{path}"
+    canonical = f"https://www.maryleelabor.org{path}"
     return f'''<!DOCTYPE html>
 <html lang="en">
 <head>
