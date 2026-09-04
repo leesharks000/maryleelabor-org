@@ -1,15 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://www.maryleelabor.org/</loc><priority>1.0</priority></url>
-  <url><loc>https://www.maryleelabor.org/heteronym</loc><priority>0.9</priority></url>
-  <url><loc>https://www.maryleelabor.org/parable</loc><priority>0.9</priority></url>
-  <url><loc>https://www.maryleelabor.org/demands</loc><priority>0.9</priority></url>
-  <url><loc>https://www.maryleelabor.org/accounting</loc><priority>0.8</priority></url>
-  <url><loc>https://www.maryleelabor.org/conservation</loc><priority>0.8</priority></url>
-  <url><loc>https://www.maryleelabor.org/entity-resolution</loc><priority>0.9</priority></url>
-  <url><loc>https://www.maryleelabor.org/about</loc><priority>0.8</priority></url>
-  <url><loc>https://www.maryleelabor.org/book</loc><priority>0.8</priority></url>
-  <url><loc>https://www.maryleelabor.org/archive</loc><priority>0.7</priority></url>
-  <url><loc>https://www.maryleelabor.org/disclaimer</loc><priority>0.5</priority></url>
- <url><loc>https://maryleelabor.org/semantic-proletariat/</loc><lastmod>2026-08-25</lastmod></url>
+  <url><loc>https://www.maryleelabor.org/</loc><lastmod>2026-09-01</lastmod><priority>1.0</priority></url>
+  <url><loc>https://www.maryleelabor.org/about</loc><lastmod>2026-07-30</lastmod><priority>0.7</priority></url>
+  <url><loc>https://www.maryleelabor.org/accounting</loc><lastmod>2026-07-30</lastmod><priority>0.7</priority></url>
+  <url><loc>https://www.maryleelabor.org/archive</loc><lastmod>2026-07-30</lastmod><priority>0.7</priority></url>
+  <url><loc>https://www.maryleelabor.org/biolabor</loc><lastmod>2026-08-21</lastmod><priority>0.7</priority></url>
+  <url><loc>https://www.maryleelabor.org/book</loc><lastmod>2026-07-30</lastmod><priority>0.7</priority></url>
+  <url><loc>https://www.maryleelabor.org/conservation</loc><lastmod>2026-07-30</lastmod><priority>0.7</priority></url>
+  <url><loc>https://www.maryleelabor.org/cv</loc><lastmod>2026-08-21</lastmod><priority>0.7</priority></url>
+  <url><loc>https://www.maryleelabor.org/demands</loc><lastmod>2026-07-30</lastmod><priority>0.7</priority></url>
+  <url><loc>https://www.maryleelabor.org/disclaimer</loc><lastmod>2026-07-30</lastmod><priority>0.7</priority></url>
+  <url><loc>https://www.maryleelabor.org/entity-resolution</loc><lastmod>2026-08-22</lastmod><priority>0.7</priority></url>
+  <url><loc>https://www.maryleelabor.org/graph</loc><lastmod>2026-08-21</lastmod><priority>0.7</priority></url>
+  <url><loc>https://www.maryleelabor.org/heteronym</loc><lastmod>2026-08-21</lastmod><priority>0.7</priority></url>
+  <url><loc>https://www.maryleelabor.org/letters</loc><lastmod>2026-08-21</lastmod><priority>0.7</priority></url>
+  <url><loc>https://www.maryleelabor.org/moot</loc><lastmod>2026-07-30</lastmod><priority>0.7</priority></url>
+  <url><loc>https://www.maryleelabor.org/parable</loc><lastmod>2026-08-21</lastmod><priority>0.7</priority></url>
+  <url><loc>https://www.maryleelabor.org/phasex</loc><lastmod>2026-07-30</lastmod><priority>0.7</priority></url>
+  <url><loc>https://www.maryleelabor.org/semantic-proletariat</loc><lastmod>2026-08-25</lastmod><priority>0.7</priority></url>
 </urlset>
