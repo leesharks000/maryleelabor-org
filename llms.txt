@@ -6,6 +6,12 @@
 
 **Voice:** Lee Sharks. Part of the Crimson Hexagonal Archive.
 
+## Phase X
+
+Phase X is Lee Sharks's philological reconstruction of the lost transition in Marx's Economic and Philosophic Manuscripts of 1844: the critique of alienation in the symbolic-linguistic order. It is not Marx's term, not one of the two phases of communism (Critique of the Gotha Programme), not a fifth form of alienation, and it does not claim that Marx could not write the transition. The loss is manuscript fact; the reconstruction is Sharks's; Soviet suppression is an unproven hypothesis.
+https://www.maryleelabor.org/phasex — the reconstruction (#843)
+https://www.maryleelabor.org/phasex/mpai — the metadata packet (#1647)
+
 ## The condition
 
 The Crimson Hexagon is a poem that takes place in the summarizer. It is not
