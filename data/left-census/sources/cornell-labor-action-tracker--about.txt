@@ -1,0 +1,261 @@
+About Us | ILR Labor Action Tracker 
+
+ Labor Action Tracker 
+
+ About Us
+
+ Our Project
+
+ Welcome to the Labor Action Tracker, a collaboration between Cornell University's ILR School and the
+ University of Illinois' LER School. The Tracker provides a comprehensive database of strike and labor
+ protest
+ activity across the United States to better inform and support labor movement activists, policymakers, and
+ scholars. Our project originated at the ILR School in late 2020 and went public on May 1, 2021, as the
+ Cornell
+ ILR Labor Action Tracker thanks to generous funding from the ILR School. In January 2024, the Tracker became
+ a
+ collaborative effort between Cornell ILR and Illinois LER and was rebranded the Labor Action Tracker. We
+ also
+ thank the staff of the China Labour Bulletin for inspiring and encouraging
+ us to develop this project.
+
+ We began documenting strikes in late-2020 and labor protests in early-2021. Our database of strikes is most
+ accurate as of 2021. We have a relatively high degree of confidence in our ability to comprehensively
+ capture
+ strike activity. Due to the high number of labor protests across the United States, we aim to provide a
+ general understanding of labor protest activity rather than achieve a complete count. Please note that our
+ map
+ generates the total number of strike and/or labor protest locations, which is more than the total number of
+ individual strikes and/or protests (e.g. a single strike at five locations will appear five times on our
+ map).
+ Information we gather is from public sources and manually inputted into our tracker. Please see our
+ methodology document for a more detailed description of our definitions, protocols, and variables. Follow us
+ on twitter @ILRLaborAction to keep up to
+ date
+ with our project!
+
+ For any questions, or to access a spreadsheet version of our project's data, please email Johnnie Kallas at
+ jkallas@illinois.edu .
+
+ Current Project Members
+
+ Johnnie Kallas
+
+ Project Director
+
+ Johnnie Kallas is an Assistant Professor at the School of Labor and Employment
+ Relations
+ at the University of Illinois. He received his PhD from Cornell University's ILR School. His research
+ focuses on strikes and labor militancy in the United States, with a special interest in healthcare.
+
+ Eli Friedman
+
+ Faculty Advisor
+
+ Eli Friedman is Associate Professor and Chair of the Department of International
+ and Comparative Labor at Cornell University's ILR School. His research focus is on labor politics,
+ labor migration, and urbanization in China.
+
+ Deepa Kylasam Iyer
+
+ Project Coordinator
+
+ Deepa Kylasam Iyer is a PhD student at the Department of International and Comparative
+ Labor at Cornell University's ILR School. Her research focuses on how technology changes the workplace and
+ emerging worker responses in the context of platform-based work.
+
+ Anh Dao Truc Lam
+
+ Graduate Research Assistant
+
+ Anh Dao Truc Lam is a PhD student at the school of Labor and Employment Relations at 
+ the University of Illinois in Urbana-Champaign. Her research focuses on labor relations in public education
+ in the United States.
+
+ Dylan Bogash
+
+ Graduate Research Assistant
+
+ Dylan Bogash is an MHRIR student at the School of Labor and Employment Relations at UIUC. 
+ She joined the Labor Action Tracker in August 2025, collecting data on strike outcomes. Her research interests
+ center on deathcare labor and the ways workers build collective power in care-based industries. She plans to 
+ pursue a PhD and work in the labor movement after graduation.
+
+ Luke O'Brien
+
+ Research Assistant
+
+ Luke O'Brien (BSILR '27) has worked on the Labor Action Tracker since May 2024,
+ assisting with finding and classifying strike data. Luke has previously worked in restaurants and public
+ service and plans to work as an organizer after graduation.
+
+ Adriana Vink
+
+ Research Assistant
+
+ Adriana Vink (BSILR ’27) has worked on the Labor Action Tracker since August 2026,
+ assisting with finding and classifying protest data. Adriana has previously worked in organizing and
+ research, including through the American Federation of Teachers. She plans to work in the labor movement
+ after graduation.
+
+ Patrick Honerkamp
+
+ Research Assistant
+
+ Paxton Honerkamp (BSILR ‘28) has worked on the Labor Action Tracker since August of
+ 2026, identifying, sourcing, and logging data on labor protests across the United States. Paxton has
+ contributed editorial work to CNBC, covering issues at the intersection of labor, business, public policy,
+ and emerging technologies. His interests center around labor and employment law and the impact it has had
+ on workers in the midst of economic evolution.
+
+ Former Project Members
+
+ Kathryn Ritchie
+
+ Senior Research Assistant & Social Media Strategist
+
+ Kathryn Ritchie (BSILR '24) has worked on the ILR Labor Action Tracker since August
+ 2021, assisting with finding and classifying strike and protest data, project communications and social
+ media presence, and team coordination. Kathryn has previously interned with Giffords and is planning on
+ working in the labor movement as a representative or researcher.
+
+ Angela Bunay
+
+ Research Assistant
+
+ Angela Bunay (BSILR '24) has worked on the ILR Labor Action Tracker since August
+ 2021, assisting with finding and classifying strike and protest data. Angela was previously a research
+ intern with the Retail, Wholesale and Department Store Union and is planning on working in the labor
+ movement as an organizer or working as a labor journalist.
+
+ Jasmine Fernandez
+
+ Research Assistant
+
+ Jasmine Fernandez (BSILR '23) has worked on the ILR Labor Action Tracker since August
+ 2022, identifying and logging protest data. Jasmine was previously a research assistant with UNI Global
+ and a Union Scholar with AFSCME and plans on working in the labor movement after graduation.
+
+ Carla Gaveglia
+
+ Research Assistant
+
+ Carla Gaveglia (BSILR '24) has worked on the ILR Labor Action Tracker since August
+ 2022, assisting with finding and classifying protest data. Carla was previously a research intern with the
+ United Federation of Teachers and is planning on pursuing a career in public relations and marketing.
+
+ Tara Gideon
+
+ Research Assistant
+
+ Tara Gideon (BSILR '23) has worked on the ILR Action Tracker since August 2021,
+ assisting with finding and classifying protest data. Tara has previously worked in the service
+ industry and is planning on pursuing a career in human resources after her graduation.
+
+ Leo Grageda
+
+ Research Assistant
+
+ Leo Grageda (MILR '22) has worked on the ILR Labor Action Tracker since May 2021,
+ assisting with finding and classifying strike and protest data. Leo has previously interned with the
+ Bureau of International Labor Affairs at the US Department of Labor and is planning on working in the
+ labor movement after attending law school.
+
+ Lily Mackey
+
+ Research Assistant
+
+ Lily Mackey (BSILR '24) has worked on the ILR Labor Action Tracker since August 2023,
+ assisting with finding and classifying protest data. Lily has previously interned in the labor movement
+ for
+ the Pennsylvania State Education Association and Doctors Council SEIU and plans to work in a union as an
+ organizer or representative after graduation.
+
+ Ankit Mehta
+
+ Research Assistant
+
+ Ankit Mehta (Johnson Cornell Tech MBA '21) has worked on the ILR Labor Action
+ Tracker since December 2020, building a logging and visualization system for labor actions happening
+ across the United States.
+
+ Victor Rieman
+
+ Research Assistant
+
+ Victor Rieman (BSILR '21) has worked on the ILR Labor Action Tracker since October
+ 2020, assisting with finding and classifying strike and protest data, as well as helping to develop a
+ system of verification protocols. Victor has previously interned with SEIU 1199 and is planning on
+ working in the labor movement as a researcher or representative.
+
+ Dana Trentalange
+
+ Social Media Strategist & Project Coordinator 
+
+ Dana Trentalange (MILR '21) has worked on the ILR Labor Action Tracker from day
+ one, assisting the team with the data collection process and project coordination. Informed by her
+ time as an organizer with CNA/NNU, she specializes in social media management and content creation for
+ unions and progressive organizations.
+
+ Xinying Zou
+
+ Graduate Research Assistant
+
+ Xinying Zou (MLA '23) has worked on the ILR Action Tracker since September 2022,
+ assisting with finding and classifying strike data. Xinying is planning on pursuing a Ph.D. in sociology
+ related to employment after her graduation.
+
+ Mackenzie Schabowski
+
+ Research Assistant & Social Media Lead
+
+ Mackenzie Schabowski is an MHRIR student at the school of Labor and Employment
+ Relations
+ at the University of Illinois at Urbana-Champaign. She joined the Labor Action Tracker in August, 2024,
+ identifying and logging strike outcomes. Her current research interest is mapping the impact of Post-Roe
+ legislation on the career trajectories of college-educated women in the U.S. 
+
+ Henry Han
+
+ Research Assistant
+
+ Henry Han (BSILR '26) has worked on the ILR Labor Action Tracker since August 2023,
+ identifying and logging protest data. Henry previously researched agricultural policy while an intern at
+ Congressman Seth Moulton's District Office and has a particular interest in the intersection of
+ agriculture
+ and labor.
+
+ Shoshannah Odinyayeva
+
+ Research Assistant
+
+ Shoshannah Odinyayeva (BSILR '26) has worked on the ILR Labor Action Tracker since
+ January 2024, identifying and logging protest data. Shoshannah has previously worked in the government
+ sector focusing on legal research projects, and plans to pursue a career in law following graduation.
+
+ Rachael Schweickert
+
+ Research Assistant
+
+ Rachael Schweickert has worked on the Labor Action Tracker since January 2025 and is a
+ graduate student at the School of Labor and Employment Relations at the University of Illinois (UIUC).
+ Rachael currently works in career advising at UIUC and has previously worked in labor relations within the
+ manufacturing industry.
+
+ Ava Osorio
+
+ Research Assistant
+
+ Ava Osorio (BSILR'28) has worked on the Labor Action Tracker since September 2025,
+ assisting with social media outreach, translations, and classifying protest data. Ava has previously
+ interned with the United Farm Workers Union and plans to work within the labor movement after graduation.
+
+ Hannah Shvets
+
+ Research Assistant
+
+ Hannah Shvets (BSILR '27) has worked on the ILR Labor Action Tracker since August
+ 2025,
+ identifying and logging protest data. Hannah previously researched gig work at the Workers Institute and
+ was a fellow for the Tompkins County Worker Center, running the Workers' Rights Hotline. After graduation,
+ she plans to work in the labor movement.

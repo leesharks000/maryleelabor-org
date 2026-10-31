@@ -1,0 +1,406 @@
+Labor and AI: the meta-aggregator — Labor Vector 
+ Labor Vector DSL Labor and AI Questions Captures 
+
+ Labor Vector / aggregators
+ Labor and AI: the meta-aggregator
+
+ The resources that observe the intersections of labor and AI, from data workers' own inquiries and contract inventories to employment trackers and records of how people use AI systems, each formalized as an entity. Every record answers one question: who supplies the labor, who directs it, and who receives its gains — and what kind of evidence does this resource bring to that question? 15 resources, compiled 2026-10-29.
+
+ Who supplies the labor workers, users, writers, raters Who directs it employer, platform, model, user Who receives its gains wages, credit, ownership, costs On what evidence estimate, outcome, testimony, contract 
+ Who supplies the labor : annotators and moderators, platform and warehouse workers, writers whose work enters training, the people commissioning a system and correcting it. Each record says whose work its evidence is about.
+ Who directs it : the employer, the platform, the vendor's software, the model, the user's commission. Where the direction is automated (hiring, scheduling, quotas, discipline) the record says by what.
+ Who receives its gains : wages and employment, workload, credit and ownership, and who bears the costs. A record states only what its resource measures or reports.
+ On what evidence : an exposure estimate, an observed employment outcome, a worker's testimony, a negotiated provision, a transcript of interactions, a rating against standards, a policy instrument. Each kind answers a different part of the question; the records keep them apart.
+
+ An exposure estimate, an employment outcome, a worker's testimony, a negotiated protection and a record of interactions each show a different part of the same labor question. Tap a step for the fields that answer it.
+
+ Five intersections
+ Labor producing AI : annotation, moderation, evaluation, maintenance, and creative or scholarly work entering training and retrieval
+ AI governing labor : hiring, surveillance, scheduling, quotas, evaluation and discipline
+ Labor performed with AI : assistance, delegation, task fidelity, correction burdens and user labor drag
+ Gains and losses : wages, employment, workload, credit, ownership, and who captures productivity gains
+ Worker power : bargaining, organizing, consent, refusal, contestation and enforceable protections
+
+ all Labor producing AI AI governing labor Labor performed with AI Gains and losses Worker power 
+ exposure estimate observed employment outcome worker testimony negotiated provision interaction data task benchmark rating against standards policy tracker product inventory data access organizing resource practitioner guidance 
+
+ Anthropic Economic Index 
+ Labor performed with AI Gains and losses report series active 
+ Anthropic Economic Index: a report series with data releases: six reports and their datasets, from the operator's own product usage. Operator: Anthropic (its Economics team). Its unit: a sampled Claude conversation (Claude.ai consumer chat and Cowork) or a 1P API prompt-response record, classified by Claude to an O*NET task and to economic primitives; since June 2026 also a survey respondent linked to up to 20 of their own sessions. Whose labor: the tasks people bring to Anthropic's own product Claude, mapped to the O*NET tasks of the occupations that typically perform them; observed on Claude.ai, Cowork, Claude Code and Anthropic's first-party API only.
+ interaction data exposure estimate worker testimony data access 
+
+ Bossware and Employment Tech Database 
+ AI governing labor Gains and losses database historical 
+ Bossware and Employment Tech Database: a database. Operator: Coworker.org. Its unit: a labor-focused technology product (one table row per product, with its parent company, category, type, targeted workers, investors, and assessments of its data practices against worker-rights criteria). Whose labor: the work of hourly, contract, salaried, non-management and management workers whose hiring, productivity, safety, benefits and pay pass through these products; the report centres low-wage and hourly workers.
+ product inventory rating against standards 
+
+ Canaries Dashboard 
+ Gains and losses working paper and dashboard active 
+ Canaries Dashboard: a working paper and monthly-updated dashboard, one of the Lab's AI Economic Indicators. Operator: Stanford Digital Economy Lab with ADP Research (paper by Erik Brynjolfsson, Bharat Chandar and Ruyu Chen). Its unit: monthly employment in a five-year balanced sample of firms using ADP payroll services, by occupation (over 730), age group, gender and AI-exposure group. Whose labor: the employment of workers in firms using ADP payroll services, matched to an occupation code, grouped by age and by their occupation's AI exposure.
+ observed employment outcome 
+
+ Data Workers' Inquiry 
+ Labor producing AI Worker power participatory research initiative active 
+ Data Workers' Inquiry: a global, radically participatory research initiative; community-based research project with a public repository of worker-made inquiries. Operator: Distributed AI Research Institute (DAIR) and the Weizenbaum Institute, with TU Berlin; project lead Milagros Miceli. Its unit: an inquiry: research by one or more data workers in their own workplaces, with their colleagues, published in a format the workers chose (zine, documentary, comic, essay, podcast, animation, report); several inquiries are co-authored ('Behind the Face of AI' by Clara and B; a podcast by two anonymous content moderators; a podcast by Aaliyah, Omar and the Data Labelers Association). Whose labor: data labeling, content moderation, data annotation, chatbot impersonation and other data processing that enables AI systems, done by workers at outsourcing companies and platforms (Sama, Cloud Factory, Remotasks, Telus International, Scale AI, Amazon Mechanical Turk, TikTok and Apple's outsourced workforce among those named); invited pieces extend it to artists, translators, writers, nurses and internet users who produce data for AI without compensation.
+ worker testimony organizing resource 
+
+ Digital Labour Platform Policy Tracker 
+ Worker power AI governing labor global policy tracker active 
+ Digital Labour Platform Policy Tracker: a global policy tracker (a database of legislation, policies and decisions, with a collective bargaining agreements component and a third category, Other initiatives). Operator: International Labour Organization (ILO), within its Observatory on AI and Work in the Digital Economy. Its unit: a national or regional legislative or policy initiative on platform work; in the CBA component, a collective bargaining agreement between trade unions and platform companies; in Other initiatives, a regional or local initiative (guidelines, protocols). Whose labor: work and employment on digital labour platforms.
+ policy tracker negotiated provision 
+
+ Fairwork Cloudwork Ratings 
+ Labor producing AI Gains and losses rating programme active 
+ Fairwork Cloudwork Ratings: a rating programme: a ratings report (league table) scoring cloudwork platforms against the five Fairwork Cloudwork Principles. Operator: the Fairwork project, based at the Oxford Internet Institute, University of Oxford, and the WZB Berlin Social Science Center; funded by BMZ, commissioned by GIZ; on fair.work, Fairwork describes itself as a non-profit spun out of the Oxford Internet Institute (OII) and the Berlin Social Science Center (WZB). Its unit: a cloudwork platform, scored out of 10 on ten thresholds (two per principle: fair pay, conditions, contracts, management, representation). Whose labor: cloudwork: online remote work through digital labour platforms, from microwork (data labelling and processing, AI training, image categorisation) to freelance work (translation, design, web development, writing); the report names AI data work for clients such as Amazon, Google, Microsoft and Nvidia.
+ rating against standards worker testimony 
+
+ GDPval 
+ Labor performed with AI Labor producing AI benchmark active 
+ GDPval: a benchmark (an evaluation dataset with an experimental automated grader). Operator: OpenAI: the paper's 19 authors (Tejal Patwardhan first; nine marked equal contribution) give OpenAI as their affiliation, with correspondence to an openai.com address; OpenAI's own post at this address answered 403 and is unread. Its unit: a task: a request (often with reference files) and a deliverable, constructed from actual work product of an expert professional; graded by blinded pairwise expert comparison of model and human deliverables (win rate). Whose labor: the work product of recruited industry professionals in 44 predominantly digital occupations across the 9 sectors contributing over 5% of U.S. GDP, recast as tasks for models; the same professionals' labor as task writers, reviewers and graders.
+ task benchmark 
+
+ Generative AI and Jobs: A Refined Global Index of Occupational Exposure 
+ Gains and losses index of occupational exposure active 
+ Generative AI and Jobs: A Refined Global Index of Occupational Exposure: an index of occupational exposure, published as a working paper with a research brief. Operator: International Labour Organization (ILO), whose Research department partnered with NASK, the National Research Institute of the Ministry of Digital Affairs in Poland; the expert group includes the ILO, NASK and the Polish Ministry of Family, Labour and Social Policy. Authors: the paper's title block lists seven, Paweł Gmyrek, Janine Berg, Karol Kamiński, Filip Konopczyński, Agnieszka Ładna, Konrad Rosłaniec, Marek Troszyński; the ILO's publication and brief pages list eight, adding Balint Nafradi. Its unit: a task's automation score, aggregated to a 4-digit ISCO-08 occupation (mean and standard deviation) and placed in one of four exposure gradients; employment shares then estimated by country income group, region and sex. Whose labor: the tasks of occupations in ISCO-08 and in Poland's 6-digit classification (29,753 tasks in 2,541 occupations), and the global employment in the 112 occupations classed as exposed.
+ exposure estimate 
+
+ Luddite Lab Resource Hub 
+ Worker power AI governing labor resource hub active 
+ Luddite Lab Resource Hub: a resource hub (case studies, primers and a resource library), one of the Luddite Lab's two offerings; the other is trainings for unions, labor organizations and worker organizations around automation and AI. Operator: Distributed AI Research Institute (DAIR); the hub's About page lists Alex Hanna (Director of Research), Adrienne Williams and Hannah Lipstein as its team, and AI Weekly reports the team as led by Alex Hanna and Hannah Lipstein. Its unit: a resource: a case study of worker organizers resisting AI, a primer, or a reviewed resource in the library (research and policy primers, organizing toolkits, political education, contract language, alternative technology projects). Whose labor: the work of union members and worker-organizers facing AI, automation and workplace surveillance, in industries the hub names as journalism, entertainment and nursing.
+ organizing resource worker testimony 
+
+ Negotiating Tech: An Inventory of U.S. Union Contract Provisions for the Digital Age 
+ Worker power AI governing labor searchable inventory active 
+ Negotiating Tech: An Inventory of U.S. Union Contract Provisions for the Digital Age: a searchable inventory. Operator: UC Berkeley Labor Center (Center for Labor Research and Education), Technology and Work Program; researched and compiled by Lisa Kresge. Its unit: a technology-related provision of a U.S. collective bargaining agreement (a direct excerpt or a paraphrased summary), linked to the full contract and coded by bargaining strategy, technology type and function, worker and union rights, and employer obligations. Whose labor: the work of union-represented workers in public and private sectors across a range of industries, where employers introduce or use workplace technologies.
+ negotiated provision 
+
+ Responsible Sourcing Across the Data Supply Line 
+ Labor producing AI Gains and losses workstream and resource library active 
+ Responsible Sourcing Across the Data Supply Line: a workstream and resource library: recommendations and practitioner tools (guidelines, checklist, templates, a case study, a white paper). Operator: Partnership on AI (PAI), AI, Labor, and the Economy programme; the guidelines developed in partnership with DeepMind. Its unit: a guideline or practical tool addressed to AI practitioners (five guidelines; six resources in the library). Whose labor: data enrichment work: data preparation and cleaning (annotation, intent recognition, sentiment analysis, image recognition, speech-to-text validation) and human-review work (content moderation, feedback loops, validating algorithmic outputs and models).
+ practitioner guidance 
+
+ Tracking the Impact of AI on the Labor Market 
+ Gains and losses interactive tool active 
+ Tracking the Impact of AI on the Labor Market: an interactive tool (tracker) with regular updates. Operator: The Budget Lab at Yale (Yale University); the first report by Martha Gimbel, Molly Kinder (Senior Fellow, Brookings Metro), Joshua Kendall and Maddie Lee. Its unit: monthly CPS microdata analysed in three sections: occupational churn (dissimilarity), AI metrics (including AI exposure among the unemployed and usage measures), and comparisons of AI-exposed and unexposed workers. Whose labor: the occupational mix of the labor force, employment and unemployment, as they relate to measures of AI exposure and AI usage.
+ observed employment outcome exposure estimate 
+
+ Turkopticon 
+ Worker power Labor producing AI worker-run organizing and advocacy… active 
+ Turkopticon: a worker-run organizing and advocacy project for platform data workers, with a review site and browser add-on that rated Amazon Mechanical Turk requesters until the platform closed (30 September 2026). Operator: Turkopticon: a worker-run committee of Turk workers, maintained with volunteers from Tech Workers Coalition; founded by Lilly Irani and Six Silberman. Its unit: a worker's review of a Mechanical Turk requester, rated on four attributes (communicativity, pay (now pay/hr), fairness, promptness), as recorded until Mechanical Turk's announced closure on 30 September 2026; the API returns a requester's average ratings and review counts. Whose labor: the work of Amazon Mechanical Turk workers (Turkers) on HITs posted by requesters, until Amazon's announced closure of Mechanical Turk on 30 September 2026; since the expansion, platform data workers wherever they work, including AI training and evaluation, data annotation, surveys, transcription and content moderation.
+ worker testimony rating against standards organizing resource data access 
+
+ Worker Info Exchange 
+ AI governing labor Worker power non-profit organisation active 
+ Worker Info Exchange: a non-profit organisation: data access requests, data investigations, data trusts and strategic litigation for gig workers. Operator: Worker Info Exchange, a non-profit in London (Director James Farrar; Research Lead Cansu Safak, as the foundation's post of 29 April 2026 names them); the Uber collective action is brought by Stichting WIE International, a Dutch foundation working in cooperation with Worker Info Exchange, and the foundation's post describes WIE as coordinating it. Its unit: a subject access or data portability request made on behalf of a worker; also a targeted data investigation or report. Whose labor: the work of gig economy workers managed by algorithms (Uber drivers in the UK and Europe named in its news; its reports include a Just Eat Report and a McMisery Report).
+ data access organizing resource 
+
+ Working with AI: Measuring the Applicability of Generative AI to Occupations 
+ Labor performed with AI paper active 
+ Working with AI: Measuring the Applicability of Generative AI to Occupations: a paper with results files (metrics aggregated at the work-activity and occupation level). Operator: Microsoft Research (Kiran Tomlinson, Sonia Jaffe, Will Wang, Scott Counts, Siddharth Suri). Its unit: an anonymized Bing Copilot conversation, classified by an LLM pipeline to the O*NET intermediate work activities (IWAs) it serves as a user goal and as an AI action; metrics aggregated to IWAs and to detailed 2018 SOC occupations. Whose labor: the O*NET work activities that Bing Copilot users seek help with (user goals) and that the AI performs (AI actions), mapped to the occupations whose tasks contain them.
+ interaction data exposure estimate data access 
+
+ No resource matches.
+
+ Worked questions
+ A research question, the kind of evidence that can answer it, and the resources that hold that evidence.
+ Where are actual negotiated protections against automated monitoring and discipline?
+ A protection is evidence when it is written into an agreement or a rule. Contract text and policy instruments hold it; estimates and testimony do not.
+ Negotiating Tech: An Inventory of U.S. Union Contract Provisions for the Digital Age U.S. union contract provisions on notice, information, monitoring, data rights and job security, each linked to its agreement
+
+ Digital Labour Platform Policy Tracker laws, policies and EU platform-work collective agreements, including rules on algorithmic management
+
+ Luddite Lab Resource Hub organizing toolkits and examples of pro-worker contract language on automation and AI
+
+ None of the three records whether a provision is enforced or what it changes at work.
+
+ Which sources observe employment change, and which estimate exposure?
+ An exposure estimate scores what AI could do to a task; an observed outcome counts what happened to jobs. They answer different questions and are often cited as if they answered the same one.
+ Canaries Dashboard observed: employment by age and AI exposure in ADP payroll records, monthly
+
+ Tracking the Impact of AI on the Labor Market observed: occupational churn and unemployment by exposure, from the CPS
+
+ Generative AI and Jobs: A Refined Global Index of Occupational Exposure estimated: the technical feasibility of GenAI automation, task by task, for occupations worldwide
+
+ Working with AI: Measuring the Applicability of Generative AI to Occupations estimated from use: an applicability score built from Bing Copilot conversations
+
+ Anthropic Economic Index observed use on one provider's product: the share of O*NET tasks performed with Claude
+
+ No record establishes that exposure causes the employment change; the two observed trackers reach different readings of the same period.
+
+ Who does the data work that trains AI, and on what terms?
+ The labor inside training and evaluation is recorded by the workers themselves, by ratings against labor standards, and by guidance to the companies that buy it. Each holds a different part.
+ Data Workers' Inquiry inquiries written by data workers on their own workplaces, pay and organizing
+
+ Fairwork Cloudwork Ratings platforms rated against five fair-work principles, with a survey of 776 cloudworkers
+
+ Turkopticon workers' ratings of Mechanical Turk requesters on pay, fairness and communication
+
+ Responsible Sourcing Across the Data Supply Line guidance to AI practitioners on paying and sourcing data enrichment workers
+
+ None gives wages or conditions at the scale of the industry, or how much of a given system's training data any reported work produced.
+
+ What does automated management of workers look like, and can a worker see the data it uses?
+ The products, the rules that govern them and the data a worker can recover are three different records of the same direction of labor.
+ Bossware and Employment Tech Database an inventory of workplace technology products, 2020 to 2021, with their stated terms on consent and worker access to data
+
+ Worker Info Exchange data obtained for gig workers from platforms, on how work was allocated, paid and assessed
+
+ Digital Labour Platform Policy Tracker the rules that address algorithmic management on platforms
+
+ The product inventory is a 2021 snapshot, and no record measures how often or with what effect a product is used at a workplace.
+
+ How do people use AI systems in their own work, and how is that use recorded?
+ A provider's record of its own users, a classification of one assistant's conversations, and a benchmark of constructed tasks each describe labor performed with AI from a different position.
+ Anthropic Economic Index Claude conversations mapped to tasks and collaboration modes, with task success as Claude assesses it: one provider's own product
+
+ Working with AI: Measuring the Applicability of Generative AI to Occupations Bing Copilot conversations, 2024, classified as user goals and AI actions
+
+ GDPval frontier models' deliverables on tasks built from professionals' work, graded against experts'
+
+ None records, from the commissioning side, whether the system's labor advanced the task the user set, or who receives the time it saves. That is the question DSL measures.
+
+ Who receives the gains of labor performed with or for AI, and who bears the costs?
+ The census's organizing question in its sharpest form. Its records hold costs more often than gains.
+ Canaries Dashboard costs as observed: employment of young workers in exposed occupations against its counterfactual
+
+ Fairwork Cloudwork Ratings pay and conditions on the platforms rated, against minimum standards
+
+ Anthropic Economic Index estimated time savings by task, without who captures them
+
+ Tracking the Impact of AI on the Labor Market no clear labor-market footprint yet, at the level the CPS can see
+
+ No record in the census measures the distribution of productivity gains between workers, employers, platforms and model providers.
+
+ Evidence by kind
+
+ exposure estimate
+ observed employment outcome
+ worker testimony
+ negotiated provision
+ interaction data
+ task benchmark
+ rating against standards
+ policy tracker
+ product inventory
+ data access
+ organizing resource
+ practitioner guidance
+
+ Anthropic Economic Index 
+ ●
+ · 
+ ●
+ · 
+ ●
+ · 
+ · 
+ · 
+ · 
+ ●
+ · 
+ · 
+
+ Bossware and Employment Tech Database 
+ · 
+ · 
+ · 
+ · 
+ · 
+ · 
+ ●
+ · 
+ ●
+ · 
+ · 
+ · 
+
+ Canaries Dashboard 
+ · 
+ ●
+ · 
+ · 
+ · 
+ · 
+ · 
+ · 
+ · 
+ · 
+ · 
+ · 
+
+ Data Workers' Inquiry 
+ · 
+ · 
+ ●
+ · 
+ · 
+ · 
+ · 
+ · 
+ · 
+ · 
+ ●
+ · 
+
+ Digital Labour Platform Policy Tracker 
+ · 
+ · 
+ · 
+ ●
+ · 
+ · 
+ · 
+ ●
+ · 
+ · 
+ · 
+ · 
+
+ Fairwork Cloudwork Ratings 
+ · 
+ · 
+ ●
+ · 
+ · 
+ · 
+ ●
+ · 
+ · 
+ · 
+ · 
+ · 
+
+ GDPval 
+ · 
+ · 
+ · 
+ · 
+ · 
+ ●
+ · 
+ · 
+ · 
+ · 
+ · 
+ · 
+
+ Generative AI and Jobs: A Refined Global Index of Occupational Exposure 
+ ●
+ · 
+ · 
+ · 
+ · 
+ · 
+ · 
+ · 
+ · 
+ · 
+ · 
+ · 
+
+ Luddite Lab Resource Hub 
+ · 
+ · 
+ ●
+ · 
+ · 
+ · 
+ · 
+ · 
+ · 
+ · 
+ ●
+ · 
+
+ Negotiating Tech: An Inventory of U.S. Union Contract Provisions for the Digital Age 
+ · 
+ · 
+ · 
+ ●
+ · 
+ · 
+ · 
+ · 
+ · 
+ · 
+ · 
+ · 
+
+ Responsible Sourcing Across the Data Supply Line 
+ · 
+ · 
+ · 
+ · 
+ · 
+ · 
+ · 
+ · 
+ · 
+ · 
+ · 
+ ●
+
+ Tracking the Impact of AI on the Labor Market 
+ ●
+ ●
+ · 
+ · 
+ · 
+ · 
+ · 
+ · 
+ · 
+ · 
+ · 
+ · 
+
+ Turkopticon 
+ · 
+ · 
+ ●
+ · 
+ · 
+ · 
+ ●
+ · 
+ · 
+ ●
+ ●
+ · 
+
+ Worker Info Exchange 
+ · 
+ · 
+ · 
+ · 
+ · 
+ · 
+ · 
+ · 
+ · 
+ ●
+ ●
+ · 
+
+ Working with AI: Measuring the Applicability of Generative AI to Occupations 
+ ●
+ · 
+ · 
+ · 
+ ●
+ · 
+ · 
+ · 
+ · 
+ ●
+ · 
+ · 
+
+ The census as data: census.json and questions.json , with every saved source in data/labor-census/sources .
+
+ The Labor Vector digest
+ New records in the labor and AI census, changes to the resources it follows, and new worked questions, by email, now and then.
+ Subscribe 
+ Email me from Labor Vector about this. My address is stored privately and never published; every email carries a one-click unsubscribe. Privacy 
+
+ Labor Vector · laborvector.org · editor Lee Sharks ( ORCID 0009-0000-1599-0703 ) · a sibling of the MMRS meta-aggregator and the provenance meta-aggregator

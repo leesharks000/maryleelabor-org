@@ -1,0 +1,477 @@
+Crowd Counting Consortium – Ash Center 
+
+ Skip to navigation [n] 
+
+ Skip to content [c] 
+
+ Skip to footer [f] 
+
+ Search 
+
+ Search 
+
+ What We Work On 
+
+ What We Work On 
+ [1] 
+
+ Multiracial Democracy 
+
+ Civic Engagement 
+
+ Civil Resistance 
+
+ Democracy 250 
+
+ Democracy and AI 
+
+ Institutional Reforms 
+
+ Electoral College 
+
+ Indigenous Governance 
+
+ Protest and Dissent 
+
+ Restorative Justice 
+
+ Sports, Democracy and Civic Health 
+
+ Voting and Elections 
+
+ Programs 
+
+ Programs 
+ [2] 
+
+ Allen Lab for Democracy Renovation 
+
+ Democracy and the Informed Public 
+
+ Nonviolent Action Lab 
+
+ Project on Indigenous Governance and Development 
+
+ Rajawali Foundation Institute for Asia 
+
+ Reimagining Democracy 
+
+ Research & Resources 
+ [3] 
+
+ Events 
+ [4] 
+
+ Democracy Exchange 
+ [5] 
+
+ Terms of Engagement 
+ [6] 
+
+ The Breakdown 
+ [7] 
+
+ For Students 
+
+ News & Analysis 
+
+ About 
+
+ Our Team 
+
+ What Can I Do? 
+
+ facebook 
+
+ x 
+
+ linkedin 
+
+ youtube 
+
+ instagram 
+
+ Crowd Counting Consortium
+
+ A public interest and scholarly project to document protests and demonstrations in the United States.
+
+ Download data from Harvard Dataverse 
+
+ Contact Info
+
+ crowdcountingconsortium@gmail.com 
+
+ x 
+
+ Links & Downloads
+
+ View and download the data 
+
+ Crowd Counting Commentary 
+
+ Part of
+
+ Nonviolent Action Lab 
+
+ Related Programs
+
+ Nonviolent and Violent Campaigns and Outcomes Data Project , Women in Resistance Data Project 
+
+ The Crowd Counting Consortium (CCC) is a joint project of Harvard Kennedy School and the University of Connecticut that collects publicly available data on political protest events reported in the United States, including rallies, marches, demonstrations, and acts of civil disobedience.
+
+ The CCC first emerged from a collaborative effort by Jeremy Pressman (UConn) and Erica Chenoweth (HKS) to estimate the number of participants in the Women’s March on Washington (and its affiliated sister marches nationwide) on January 21, 2017. Since then, the project has expanded to provide near-real-time information on trends in the occurrence, themes, and scale of American protest activity.
+
+ CCC data are published monthly on a publicly accessible Dataverse, for use by scholars, journalists, movement leaders, and others. The NVA Lab regularly publishes commentary and analysis pieces based on the CCC data, advancing both scholarly and public understandings of protest in the US.
+
+ Informing the Public
+
+ Since its inception, the CCC data has been a valued public resource that has informed important conversations about American politics. Among other uses:
+
+ CCC data were used to demonstrate that, at that time, the 2017 Women’s March was the largest single-day demonstration in US history.
+
+ CCC data were used to demonstrate that, at that time, the 2018 March for Our Lives and #Enough Walkouts were the broadest single day demonstration if U.S. history (occurring in over 4400 distinct locations).
+
+ CCC data underlie an influential New York Times analysis demonstrating that, at that time, protests in 2020 following George Floyd’s murder constituted the largest and broadest mobilization in U.S. history.
+
+ Relatedly, CCC data support the claim that the 2020 Black Lives Matter uprising was overwhelmingly peaceful , especially relative to the heavy-handed police response.
+
+ CCC data underpin an analysis of the 2023-2024 pro-Palestine protests, which were also generally peaceful , despite common narratives that the protests were violent.
+
+ Most recently, the CCC data have been used to rebut the narrative that there is “no resistance” to the second Trump administration. Instead, the CCC data demonstrate higher degrees of protest throughout 2025 than in 2017, a high degree of nonviolent discipline among anti-Trump protesters, and an increasing number of protests (and protest participants) in counties where Trump won majorities in 2024. The CCC data also demonstrated that the No Kings protests in June and October of 2025 were among the largest single-day demonstrations in US history.
+
+ Advancing Scholarship
+
+ Academics routinely turn to the CCC data to study protest, counter-protest, and state response. Articles and essays published by the CCC team since 2017 have collectively garnered more than 600 scholarly citations so far. See the links below for academic articles we have published that draw on CCC data.
+
+ Gratitude
+
+ We are grateful to the many staff, volunteers, research assistants, and collaborators who have contributed to this project over the years, as well as generous financial support that has helped to sustain this project.
+
+ If you would like to support, please click the down arrow and select Nonviolent Action Lab.  
+
+ Meet the Team
+
+ m -mb:0">
+
+ Erica Chenoweth 
+
+ Erica Chenoweth 
+
+ Frank Stanton Professor of the First Amendment
+
+ Soha Hammam 
+
+ Soha Hammam 
+
+ Research Project Manager, Nonviolent Action Lab
+
+ David Meyer 
+
+ David Meyer 
+
+ Senior Fellow, AY2025-2026
+
+ Jeremy Pressman 
+
+ Jeremy Pressman 
+
+ Senior Research Fellow, AY2025-2027
+
+ Amelia Roskin-Frazee 
+
+ Amelia Roskin-Frazee 
+
+ Predoctoral Fellow, AY2025-2027
+
+ Christopher Shay 
+
+ Christopher Shay 
+
+ Research Associate, Crowd Counting Consortium
+
+ Madison Lindsey 
+
+ Madison Lindsey 
+
+ Research Associate 
+
+ Download the Data 
+
+ Complete Dataset 
+
+ Protest event data from CCC’s three phases — 2017-2020, 2021-2024, and 2025 to the present — can be downloaded from the project’s Dataverse.
+
+ Access Dataverse 
+
+ Submit a Record
+ We only post records that we can confirm and verify through fact-checking. When you submit a record, be sure to provide a source that is publicly verifiable (e.g. a news report, a Facebook group, links to online photos with headcounts, etc) or describe the crowd-counting techniques used by onsite onlookers (e.g. sign-ins, counting through distributing flyers/handouts, counting from photos/videos, and/or other crowd density estimation techniques).
+
+ We will never post, release, or share identifying information that has not already been reported in the public domain.
+
+ Nevertheless, we urge you to avoid including personal identifying information in your submission.
+
+ Submit a Record 
+
+ Frequently Asked Questions 
+
+ What kind of actions are you collecting? 
+
+ We collect publicly available data on political crowds reported in the United States, including marches, protests, demonstrations, riots, and other actions. We do not count crowds at meetings, teach-ins or academic workshops, panel discussions, fundraisers, or town halls.
+
+ What do you intend to do with these data? 
+
+ Our goal is to make the aggregate data on crowd numbers publicly available for each event. We are collecting this data in the public interest and to further scholarly research.
+
+ Have your Human Research Subject boards approved this data collection? 
+
+ This is a public-interest project. The University of Denver’s Office of Research Integrity and Education determined that the project does not qualify as human subjects research and therefore does not require further review or oversight by its Institutional Review Board. The University of Connecticut made a similar determination.
+
+ Where can I get the data? 
+
+ The data and associated documentation are shared via the Harvard Dataverse:
+
+ https://dataverse.harvard.edu/dataverse/crowdcountingconsortium/
+
+ How should I cite these data? 
+
+ Please include a citation to the Crowd Counting Consortium such as: Crowd Counting Consortium, crowdcounting.org, accessed September 17, 2021.
+
+ Where does your funding come from? 
+
+ Funding is made possible in part by the Freedom Together Foundation, New Venture Fund, Humanity United, the John T. and Catherine D. MacArthur Foundation, the Ash Center for Democratic Governance and Innovation and the Carr Center for Human Rights Policy , the Weatherhead Center for International Affairs , the Radcliffe Institute for Advanced Study at Harvard University, the Human Rights Institute at the University of Connecticut, the Scheidt Family Foundation, Alan R. Bennett and the UConn POLS Honors Bennett RA program, and the Russell Sage Foundation. Previously, we received support from the Carnegie Corporation of New York through the Sié Chéou-Kang Center for International Security and Diplomacy at the Josef Korbel School of International Studies at the University of Denver and the Humility & Conviction in Public Life initiative, a project of the University of Connecticut’s Humanities Institute.
+
+ We have collaborated with countlove.org , a volunteer group that developed a webcrawler to identify protests and demonstrations on a daily basis.
+
+ All 
+
+ News & Analysis 
+
+ Research & Resources 
+
+ Filter by
+
+ Format 
+
+ Commentary 
+
+ Video 
+
+ Article 
+
+ Filters 
+
+ Close 
+
+ Filters 
+
+ Format 
+
+ Commentary 
+
+ Video 
+
+ Article 
+
+ Search 
+
+ Clear All 
+
+ New data shows No Kings was one of the largest days of protest in US history 
+
+ Commentary 
+
+ New data shows No Kings was one of the largest days of protest in US history
+
+ The historic number of No Kings Day protesters and their expansive geographic spread are signs of a growing and durable pro-democracy movement. This article was originally published in Waging Nonviolence. 
+
+ Aug 15, 2025 
+
+ American Spring? How nonviolent protest in the US is accelerating 
+
+ Commentary 
+
+ American Spring? How nonviolent protest in the US is accelerating
+
+ Contrary to conventional wisdom, the size and scale of anti-Trump protests this year have dwarfed those in 2017, and they have been extraordinarily peaceful. This article was originally published in Waging Nonviolence. 
+
+ Jun 26, 2025 
+
+ Protests in the United States on Palestine and Israel, 2023–2024 
+
+ Article 
+
+ Protests in the United States on Palestine and Israel, 2023–2024
+
+ From 7 October 2023 to 7 June 2024, the Crowd Counting Consortium recorded nearly 12,400 pro-Palestine protests and over 2,000 pro-Israel protests in the United States.
+
+ Oct 23, 2024 
+
+ The Student Palestine Solidarity Movement Resumes 
+
+ Commentary 
+
+ The Student Palestine Solidarity Movement Resumes
+
+ Crowd Counting Consortium data show a resurgence of pro-Palestinian activism at U.S. colleges and universities as students have returned to school and started probing the limits of new restrictions on campus protests.
+
+ Sep 4, 2024 
+
+ Overview of Protest Activity Around the 2024 Democratic National Convention 
+
+ Commentary 
+
+ Overview of Protest Activity Around the 2024 Democratic National Convention
+
+ As part of its regular work tracking political protest activity across the United States, the Crowd Counting Consortium (CCC) closely followed events around this year’s Democratic National Convention in Chicago.
+
+ Aug 23, 2024 
+
+ The Real Numbers: Tracking Crowd Sizes at Presidential Rallies 
+
+ Commentary 
+
+ The Real Numbers: Tracking Crowd Sizes at Presidential Rallies
+
+ This post uses the Crowd Counting Consortium’s data on U.S. protest activity since 2017 to estimate and compare the average size of the crowds at political rallies featuring Donald Trump, Joe Biden, and, since late July 2024, Kamala Harris.
+
+ Aug 12, 2024 
+
+ The latest nonviolent action research and events in your inbox. 
+
+ First Name 
+
+ Last Name 
+
+ Email Address 
+
+ Submit 
+
+ Crowd Counting Consortium: An Empirical Overview of Recent Pro-Palestine Protests at U.S. Schools 
+
+ Commentary 
+
+ Crowd Counting Consortium: An Empirical Overview of Recent Pro-Palestine Protests at U.S. Schools
+
+ Crowd Counting Consortium data show more than 3,700 days with pro-Palestinian protest activity at over 500 U.S. schools since October 7, 2023, including encampments at more than 130 of them.
+
+ May 30, 2024 
+
+ Crowd Counting Consortium: Three Things the Pro-Palestine Movement Is Not 
+
+ Commentary 
+
+ Crowd Counting Consortium: Three Things the Pro-Palestine Movement Is Not
+
+ New Crowd Counting Consortium analysis from Nonviolent Action Lab Program Director Jay Ulfelder sets the record straight on arrests numbers and claims of violence stemming from protests sparked by the war in Gaza.
+
+ May 10, 2024 
+
+ Crowd Counting Consortium: U.S. Protest Rhetoric Tracks Looming Famine in Gaza 
+
+ Commentary 
+
+ Crowd Counting Consortium: U.S. Protest Rhetoric Tracks Looming Famine in Gaza
+
+ The imminent famine in Gaza shows up in Crowd Counting Consortium (CCC)  data  as a sharp increase in references to hunger and starvation in protesters’ chants and signs.
+
+ Mar 30, 2024 
+
+ Crowd Counting Consortium: Israel/Palestine Protest Data Dashboards 
+
+ Commentary 
+
+ Crowd Counting Consortium: Israel/Palestine Protest Data Dashboards
+
+ To make it easier to find up-to-date information on pro-Palestine and pro-Israel protest activity in the United States since October 7, 2023, the Crowd Counting Consotium recently created a pair of interactive data dashboards separately covering the two.
+
+ Feb 26, 2024 
+
+ Crowd Counting Consortium – Data on Pro-Israeli and Pro-Palestinian Protests in the U.S. 
+
+ Video 
+
+ Crowd Counting Consortium – Data on Pro-Israeli and Pro-Palestinian Protests in the U.S.
+
+ On Tuesday, December 5th, 2023, experts from the Crowd Counting Consortium, a network of researchers tracking political demonstrations across the U.S., shared their most recent data on the multitude of pro-Israeli and pro-Palestinian protests held nationwide since October 7.
+
+ Dec 5, 2023 
+
+ Crowd Counting Consortium: Update on Israel/Palestine Protests 
+
+ Commentary 
+
+ Crowd Counting Consortium: Update on Israel/Palestine Protests
+
+ Since October 7, the Crowd Counting Consortium (CCC) has recorded nearly 2,300 U.S. protests, rallies, marches, caravans, demonstrations, vigils, banner drops, and direct actions in support of Palestine or Israel, with hundreds of thousands of total participants on different sides of this mass mobilization.
+
+ Nov 28, 2023 
+
+ Crowd Counting Consortium: Pro-Palestine Wave Persists and Grows 
+
+ Commentary 
+
+ Crowd Counting Consortium: Pro-Palestine Wave Persists and Grows
+
+ Over the past few weeks, the burst of pro-Palestine protests, rallies, demonstrations, vigils, and direct actions in the U.S. that followed Hamas’ October 7th attacks on Israel and Israel’s military response to them has swelled into a sustained wave that is almost certainly broader and larger than any previous pro-Palestine protest wave in U.S. history.
+
+ Nov 6, 2023 
+
+ Crowd Counting Consortium: Pro-Palestine Wave Accelerates 
+
+ Commentary 
+
+ Crowd Counting Consortium: Pro-Palestine Wave Accelerates
+
+ Over the past 10 days, the wave of U.S. street activism supporting Palestine has accelerated. Since October 7, 2023, when Palestinian militants launched attacks on Israel that  killed more than 1,400 people , CCC has logged 420 pro-Palestine rallies, protests, demonstrations, and vigils in more than 180 different cities and towns across 46 states, the District of Columbia,  Puerto Rico , and  Guam .
+
+ Oct 23, 2023 
+
+ Crowd Counting Consortium: Recent U.S. Protest Activity in Support of Israel and Palestine 
+
+ Commentary 
+
+ Crowd Counting Consortium: Recent U.S. Protest Activity in Support of Israel and Palestine
+
+ Since the October 7 attacks on Israel, the U.S. has seen hundreds of vigils, rallies, demonstrations, and protests in response to those attacks and the political and military reactions to them.
+
+ Oct 17, 2023 
+
+ Load More 
+
+ The Ash Center for Democratic Governance and Innovation develops ideas and fosters practices for equal and inclusive, multiracial and multiethnic democracy and self-government.
+
+ Careers & Fellowships 
+
+ Contact Us 
+
+ Harvard Kennedy School Homepage 
+
+ Land Acknowledgement 
+
+ Sign up for our newsletters for the latest updates
+
+ Email Address 
+
+ Submit 
+
+ facebook 
+
+ x 
+
+ linkedin 
+
+ youtube 
+
+ instagram 
+
+ © Copyright 2026 The President and Fellows of Harvard College
+
+ Privacy Policy 
+
+ Accessibility 
+
+ Digital Accessibility 
+
+ EU/EEA Privacy Disclosure 
+
+ Open Access Policy

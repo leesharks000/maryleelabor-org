@@ -1,0 +1,83 @@
+{
+ "iish": {
+  "home": "https://iisg.amsterdam/en",
+  "about": "https://iisg.amsterdam/en/about"
+ },
+ "marxists-internet-archive": {
+  "home": "https://www.marxists.org/",
+  "intro": "https://www.marxists.org/admin/intro/index.htm"
+ },
+ "erol": {
+  "home": "https://www.marxists.org/history/erol/index.htm",
+  "intro": "https://www.marxists.org/history/erol/erol-intro.htm",
+  "intro2": "https://www.marxists.org/history/erol/erol.htm"
+ },
+ "mega-digital": {
+  "home": "https://megadigital.bbaw.de/",
+  "mega": "https://mega.bbaw.de/"
+ },
+ "bannedthought": {
+  "home": "https://www.bannedthought.net/"
+ },
+ "banmarchive": {
+  "home": "https://banmarchive.org.uk/",
+  "new-reasoner": "https://banmarchive.org.uk/new-reasoner/"
+ },
+ "libcom-library": {
+  "home": "https://libcom.org/library",
+  "about": "https://libcom.org/about",
+  "about2": "https://libcom.org/about-us"
+ },
+ "irish-left-archive": {
+  "home": "https://www.clririshleftarchive.org/",
+  "about": "https://www.clririshleftarchive.org/about/",
+  "about2": "https://www.clririshleftarchive.org/about"
+ },
+ "reuther-library": {
+  "home": "https://reuther.wayne.edu/",
+  "about": "https://reuther.wayne.edu/about"
+ },
+ "tamiment-library": {
+  "home": "https://library.nyu.edu/locations/tamiment-library/",
+  "home2": "https://library.nyu.edu/locations/tamiment-wagner/"
+ },
+ "cornell-labor-action-tracker": {
+  "home": "https://striketracker.ilr.cornell.edu/",
+  "about": "https://striketracker.ilr.cornell.edu/about.html"
+ },
+ "bls-work-stoppages": {
+  "home": "https://www.bls.gov/wsp/",
+  "release": "https://www.bls.gov/news.release/wkstp.nr0.htm"
+ },
+ "ituc-global-rights-index": {
+  "home": "https://www.globalrightsindex.org/en/2025",
+  "home2": "https://www.globalrightsindex.org/"
+ },
+ "unionstats": {
+  "home": "https://www.unionstats.com/"
+ },
+ "crowd-counting-consortium": {
+  "home": "https://ash.harvard.edu/programs/crowd-counting-consortium/"
+ },
+ "labor-notes": {
+  "home": "https://labornotes.org/",
+  "about": "https://labornotes.org/about"
+ },
+ "tdu": {
+  "home": "https://www.tdu.org/",
+  "history": "https://www.tdu.org/the_reform_movement"
+ },
+ "gnad": {
+  "home": "https://nvdatabase.swarthmore.edu/",
+  "about": "https://nvdatabase.swarthmore.edu/content/about",
+  "about2": "https://nvdatabase.swarthmore.edu/about"
+ },
+ "strike-map-uk": {
+  "home": "https://www.strikemap.co.uk/",
+  "about": "https://www.strikemap.co.uk/about"
+ },
+ "labor-vector": {
+  "home": "https://www.laborvector.org/",
+  "aggregators": "https://www.laborvector.org/aggregators/"
+ }
+}
