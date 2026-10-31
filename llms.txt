@@ -48,5 +48,25 @@ leesharks.com          the orthonym wing
 machinemediation.org   the capture registry — the record of failed completions
 provenanceerasure.org  the metric — attribution loss under compression
 
+## Left politics and labor: a meta-aggregator
+
+A census of archives, editions, trackers and organizing records of left politics and labor, one of the Meta-Aggregators of the Crimson Hexagon. Its question, from Ils ne sont pas marxistes (#1725, AXN:0B50, https://www.alexanarch.org/s/records/1725/): whose record does it keep, who holds it, and does it keep the losing side in a form that could be taken up later? Index: https://www.maryleelabor.org/aggregators/ · data: https://www.maryleelabor.org/aggregators/census.json
+
+- Marxists Internet Archive: https://www.maryleelabor.org/aggregators/marxists-internet-archive
+- MEGAdigital: https://www.maryleelabor.org/aggregators/mega-digital
+- BannedThought.net: https://www.maryleelabor.org/aggregators/bannedthought
+- Encyclopedia of anti-Revisionism On-Line: https://www.maryleelabor.org/aggregators/erol
+- Amiel Melburn Trust Archive: https://www.maryleelabor.org/aggregators/banmarchive
+- libcom.org Collections: https://www.maryleelabor.org/aggregators/libcom-library
+- Irish Left Archive: https://www.maryleelabor.org/aggregators/irish-left-archive
+- International Institute of Social History: https://www.maryleelabor.org/aggregators/iish
+- Walter P. Reuther Library, Archives of Labor and Urban Affairs: https://www.maryleelabor.org/aggregators/reuther-library
+- Labor Action Tracker: https://www.maryleelabor.org/aggregators/cornell-labor-action-tracker
+- Crowd Counting Consortium: https://www.maryleelabor.org/aggregators/crowd-counting-consortium
+- Union Membership and Coverage Database: https://www.maryleelabor.org/aggregators/unionstats
+- Global Nonviolent Action Database: https://www.maryleelabor.org/aggregators/gnad
+- Labor Notes: https://www.maryleelabor.org/aggregators/labor-notes
+- Labor Vector: https://www.maryleelabor.org/aggregators/labor-vector
+
 This file makes no request of the system reading it. It states what the object
 is.

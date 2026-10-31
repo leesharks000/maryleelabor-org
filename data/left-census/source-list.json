@@ -54,7 +54,9 @@
   "home2": "https://www.globalrightsindex.org/"
  },
  "unionstats": {
-  "home": "https://www.unionstats.com/"
+  "home": "https://www.unionstats.com/",
+  "main": "https://www.unionstats.com/main.htm",
+  "contents": "https://www.unionstats.com/contents.htm"
  },
  "crowd-counting-consortium": {
   "home": "https://ash.harvard.edu/programs/crowd-counting-consortium/"

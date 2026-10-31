@@ -531,5 +531,31 @@
   "bytes": 9305,
   "text_chars": 0,
   "error": ""
+ },
+ "unionstats--main": {
+  "entity": "unionstats",
+  "id": "main",
+  "url": "https://www.unionstats.com/main.htm",
+  "final_url": "https://www.unionstats.com/main.htm",
+  "http": "200",
+  "content_type": "text/html",
+  "fetched": "2026-10-31T21:35:27Z",
+  "sha256": "964e3fe9de60a600ea367894f9574270fe058abd7ff346e79e2767a5c454bb69",
+  "bytes": 28451,
+  "text_chars": 1331,
+  "error": ""
+ },
+ "unionstats--contents": {
+  "entity": "unionstats",
+  "id": "contents",
+  "url": "https://www.unionstats.com/contents.htm",
+  "final_url": "https://www.unionstats.com/contents.htm",
+  "http": "200",
+  "content_type": "text/html",
+  "fetched": "2026-10-31T21:35:30Z",
+  "sha256": "955afb6134469f6d759ddb89197357a6390e2b2f1e1c053f049e2b550faa193c",
+  "bytes": 25383,
+  "text_chars": 1117,
+  "error": ""
  }
 }

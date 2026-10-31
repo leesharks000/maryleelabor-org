@@ -1,0 +1,3114 @@
+{
+ "name": "Mary Lee Labor meta-aggregator census: left politics and labor",
+ "compiled": "2026-10-31",
+ "schema_version": "1.0",
+ "editor": "Lee Sharks",
+ "family": "Meta-Aggregators of the Crimson Hexagon",
+ "schema_note": "The MMRS, provenance and Labor Vector census core (slug, name, aka, url, operator, kind, unit, count, lifecycle, version_and_time, negative_tags, evidence, relations, unchecked, sources) extended for left politics and labor: areas (one or more of six), evidence_kind, record_object (what it records), record (keeps: whose record; holder: who holds it and on what terms; losing_side: whether and how it keeps minority positions, splits, expulsions and dissent, as the resource itself shows, or 'not recorded'), method, coverage, holdings, stated_limits, answers and does_not_answer, and ml_reading (where it meets the question of #1725: the archive's reading, kept apart from the resource's own terms). Every quote is verbatim from a saved source.",
+ "organizing_question": "Whose record does it keep, who holds it, and does it keep the losing side in a form that could be taken up later?",
+ "anchor": {
+  "deposit": 1725,
+  "axn": "AXN:0B50",
+  "title": "Ils ne sont pas marxistes: r/LeftistsForAI, Marx's Legacy, and the Left's Lost Capacity for Internal Critique",
+  "url": "https://www.alexanarch.org/s/records/1725/"
+ },
+ "areas": {
+  "texts-of-the-tradition": "Texts of the tradition: primary writings of Marx, Engels and the socialist movements, in editions and translations",
+  "movement-documents": "Movement and party documents: programmes, polemics, internal bulletins, periodicals, the record of splits",
+  "archives-and-custody": "Archives and custody: collections of papers and records of labor and the left, held for later readers",
+  "labor-action": "Labor action: strikes, stoppages and protest events, counted and described",
+  "worker-power": "Worker power measured: membership, coverage, rights, and the organizing that builds it",
+  "meta-aggregation": "Meta-aggregation: a resource that itself gathers and reads other resources"
+ },
+ "evidence_kinds": [
+  "primary text",
+  "scholarly edition",
+  "movement document",
+  "periodical run",
+  "archival collection",
+  "event dataset",
+  "official statistics",
+  "rating against standards",
+  "survey estimate",
+  "case record",
+  "organizing resource",
+  "census of resources"
+ ],
+ "unread_sources": {
+  "erol--intro": {
+   "url": "https://www.marxists.org/history/erol/erol-intro.htm",
+   "http": "404",
+   "fetched": "2026-10-31T21:27:48Z"
+  },
+  "libcom-library--about": {
+   "url": "https://libcom.org/about",
+   "http": "404",
+   "fetched": "2026-10-31T21:27:52Z"
+  },
+  "irish-left-archive--about": {
+   "url": "https://www.clririshleftarchive.org/about/",
+   "http": "404",
+   "fetched": "2026-10-31T21:27:56Z"
+  },
+  "tamiment-library--home": {
+   "url": "https://library.nyu.edu/locations/tamiment-library/",
+   "http": "404",
+   "fetched": "2026-10-31T21:27:57Z"
+  },
+  "bls-work-stoppages--home": {
+   "url": "https://www.bls.gov/wsp/",
+   "http": "403",
+   "fetched": "2026-10-31T21:27:58Z"
+  },
+  "ituc-global-rights-index--home": {
+   "url": "https://www.globalrightsindex.org/en/2025",
+   "http": "503",
+   "fetched": "2026-10-31T21:27:58Z"
+  },
+  "tdu--home": {
+   "url": "https://www.tdu.org/",
+   "http": "403",
+   "fetched": "2026-10-31T21:28:02Z"
+  },
+  "tdu--history": {
+   "url": "https://www.tdu.org/the_reform_movement",
+   "http": "403",
+   "fetched": "2026-10-31T21:28:02Z"
+  },
+  "gnad--about": {
+   "url": "https://nvdatabase.swarthmore.edu/content/about",
+   "http": "000",
+   "fetched": "2026-10-31T21:28:12Z"
+  },
+  "strike-map-uk--home": {
+   "url": "https://www.strikemap.co.uk/",
+   "http": "200",
+   "fetched": "2026-10-31T21:28:13Z"
+  },
+  "libcom-library--about2": {
+   "url": "https://libcom.org/about-us",
+   "http": "404",
+   "fetched": "2026-10-31T21:30:38Z"
+  },
+  "irish-left-archive--about2": {
+   "url": "https://www.clririshleftarchive.org/about",
+   "http": "404",
+   "fetched": "2026-10-31T21:30:40Z"
+  },
+  "tamiment-library--home2": {
+   "url": "https://library.nyu.edu/locations/tamiment-wagner/",
+   "http": "404",
+   "fetched": "2026-10-31T21:30:41Z"
+  },
+  "bls-work-stoppages--release": {
+   "url": "https://www.bls.gov/news.release/wkstp.nr0.htm",
+   "http": "403",
+   "fetched": "2026-10-31T21:30:41Z"
+  },
+  "ituc-global-rights-index--home2": {
+   "url": "https://www.globalrightsindex.org/",
+   "http": "503",
+   "fetched": "2026-10-31T21:30:42Z"
+  },
+  "gnad--about2": {
+   "url": "https://nvdatabase.swarthmore.edu/about",
+   "http": "404",
+   "fetched": "2026-10-31T21:30:42Z"
+  },
+  "strike-map-uk--about": {
+   "url": "https://www.strikemap.co.uk/about",
+   "http": "200",
+   "fetched": "2026-10-31T21:30:43Z"
+  }
+ },
+ "pending": [
+  "bls-work-stoppages",
+  "ituc-global-rights-index",
+  "tdu",
+  "strike-map-uk",
+  "tamiment-library"
+ ],
+ "rows": [
+  {
+   "slug": "marxists-internet-archive",
+   "name": "Marxists Internet Archive",
+   "aka": [
+    "MIA",
+    "marxists.org"
+   ],
+   "url": "https://www.marxists.org/",
+   "operator": "the Marxists Internet Archive, an all-volunteer non-profit with a Steering Committee and an Admin Committee; 76 active volunteers from several dozen countries (July 2025)",
+   "kind": "all-volunteer, non-profit public library",
+   "areas": [
+    "texts-of-the-tradition",
+    "archives-and-custody"
+   ],
+   "evidence_kind": [
+    "primary text"
+   ],
+   "unit": "a document: a writing by an archived author, transcribed by a volunteer and filed in one of 83 language sections",
+   "record_object": "the writings of close to 1000 authors 'representing a complete spectrum of political, philosophical, and scientific thought', generally spanning the past 200 years; its aim is any and all writings which are Marxist or relevant to the understanding of Marxism and can be lawfully published",
+   "record": {
+    "keeps": "the writings of close to 1000 authors, Marxist or relevant to the understanding of Marxism, in 83 languages",
+    "holder": "the MIA itself, an all-volunteer non-profit bound by a seven-tenet Charter (always 100% free, non-profit, democratic decision making, full disclosure, politically independent, does not 'judge' writers, priority on archival information); material is public domain unless noted, MIA-created material under a Creative Commons License",
+    "losing_side": "the introduction states that the MIA does not 'judge' writers, ended in 2007 its practice of dividing all writers into Marxists and non-Marxists, does not filter out a writer's distasteful views, and endorses none of the views it archives; the saved introduction names no section for splits or expelled tendencies (EROL, an anti-revisionist section, is served under its History path; see relations)"
+   },
+   "method": "volunteer transcription; inclusion bounded by the availability of a willing volunteer and by intellectual property law",
+   "coverage": {
+    "geography": "83 language sections; volunteers from several dozen countries",
+    "period": "writings generally spanning the past 200 years; the archive in its present form since 1998"
+   },
+   "count": {
+    "value": "over 400,000 documents, 1.1 TB of data, close to 1000 authors, 83 languages",
+    "as_of": "April 2026 (documents and data, as the introduction states)"
+   },
+   "holdings": [
+    "over 400,000 documents and 1.1 TB of data (April 2026)",
+    "writings of close to 1000 authors",
+    "83 languages",
+    "an index of Selected Marxist Writers in most language sections",
+    "a Student's Section; eBooks and Audio Books"
+   ],
+   "stated_limits": [
+    "'within the limits imposed by the availability of a willing volunteer to transcribe the works and the impact of intellectual property laws'",
+    "only writings that 'can be lawfully published'",
+    "'The MIA does not endorse any of the views expressed by any of the writers included here'",
+    "a page titled 'Why some writer is missing' (unread here)"
+   ],
+   "answers": [
+    "whether a named author's writing is transcribed in the MIA, and in which language sections",
+    "how the MIA governs itself and on what terms it holds its texts (Charter, license)",
+    "the MIA's own scale: documents, data, authors, languages, volunteers, visitors"
+   ],
+   "does_not_answer": [
+    "whether the MIA's holdings of an author are complete (inclusion depends on a willing volunteer and on intellectual property law)",
+    "the critical state of a text (the method is transcription; the saved sources state no editorial apparatus)",
+    "which positions lost within any party (the saved introduction names no such section)"
+   ],
+   "ml_reading": "An independent holder: the Charter keeps the archive politically independent and its sixth tenet, 'We do not judge writers', together with the 2007 end of the Marxist/non-Marxist division, keeps a writer in the record regardless of the verdict any party passed on them. The archive's reading is that this is the holder condition of #1725 without a route: the text stays available to be quoted, and what is kept depends on a volunteer willing to transcribe it.",
+   "data_access": "free public website; eBooks and Audio Books; mirrors; a site search, a text index and a site map (listed in the introduction)",
+   "license": "'All material within these Archives, unless noted otherwise, is public domain . MIA-created material is protected by the Creative Commons License'",
+   "lifecycle": {
+    "state": "active",
+    "detail": "established in its present form in 1998, with an earlier history on its history page (unread); the introduction was last updated on 21 April 2026 and gives holdings as of April 2026 and volunteers as of July 2025"
+   },
+   "founded": "1998 (present form)",
+   "version_and_time": {
+    "intro_updated": "2026-04-21",
+    "holdings": "April 2026",
+    "volunteers": "July 2025",
+    "visitors": "2022",
+    "read": "2026-10-31"
+   },
+   "negative_tags": [
+    "NOT a party or tendency organ: its Charter commits it to remaining politically independent",
+    "NOT an endorsement of the writers it holds",
+    "NOT a scholarly edition: its texts are volunteer transcriptions",
+    "NOT complete for any author by its own statement: inclusion depends on a willing volunteer and on intellectual property law",
+    "NOT limited to Marxist writers since 2007: it indexes Selected Marxist Writers and holds writings relevant to the understanding of Marxism"
+   ],
+   "evidence": {
+    "self_description": {
+     "src": "marxists-internet-archive--intro",
+     "basis": "operator",
+     "quote": "The Marxists Internet Archive (MIA, http://www.marxists.org/) is an all-volunteer, non-profit public library, established in its present form in 1998"
+    },
+    "visitors": {
+     "src": "marxists-internet-archive--intro",
+     "basis": "operator",
+     "quote": "In 2022, MIA averaged 3.3 million visitors per month, downloading 27.5 million files per month."
+    },
+    "volunteers": {
+     "src": "marxists-internet-archive--intro",
+     "basis": "operator",
+     "quote": "As of July 2025, MIA has 76 active volunteers from several dozen countries ."
+    },
+    "record_object": {
+     "src": "marxists-internet-archive--intro",
+     "basis": "operator",
+     "quote": "MIA contains the writings of close to 1000 authors representing a complete spectrum of political, philosophical, and scientific thought, generally spanning the past 200 years."
+    },
+    "count": {
+     "src": "marxists-internet-archive--intro",
+     "basis": "operator",
+     "quote": "MIA contains these writings in 83 different languages , comprising a total size of over 400,000 documents and 1.1 TB of data (April 2026), all created through the work of volunteers around the world."
+    },
+    "charter": {
+     "src": "marxists-internet-archive--intro",
+     "basis": "operator",
+     "quote": "MIA abides by seven fundamental tenets found in our Charter : (1) We will always be 100% Free; (2) We will always be a non-profit organization; (3) We will always be based on democratic decision making; (4) We will always have full disclosure; (5) We will always remain politically independent; (6) We do not ‘judge’ writers; (7) Our priority is to provide archival information."
+    },
+    "losing_side_2007": {
+     "src": "marxists-internet-archive--intro",
+     "basis": "operator",
+     "quote": "In 2007, we terminated our former practice of dividing all writers into Marxists and non-Marxists , and instead offer an index of Selected Marxist Writers in most language sections."
+    },
+    "aim": {
+     "src": "marxists-internet-archive--intro",
+     "basis": "operator",
+     "quote": "The MIA aims to maintain an archive of any and all writings which are Marxist or relevant to the understanding of Marxism and can be lawfully published."
+    },
+    "no_filter": {
+     "src": "marxists-internet-archive--intro",
+     "basis": "operator",
+     "quote": "The MIA generally does not “filter out” such views; if we are archiving the work of a writer, any and all of that writer’s work may be included"
+    },
+    "limit_volunteer": {
+     "src": "marxists-internet-archive--intro",
+     "basis": "operator",
+     "quote": "within the limits imposed by the availability of a willing volunteer to transcribe the works and the impact of intellectual property laws."
+    },
+    "no_endorsement": {
+     "src": "marxists-internet-archive--intro",
+     "basis": "operator",
+     "quote": "The MIA does not endorse any of the views expressed by any of the writers included here, which are provided solely for the information of the reader."
+    },
+    "governance": {
+     "src": "marxists-internet-archive--intro",
+     "basis": "operator",
+     "quote": "We do this believing in the importance of organisational transparency to ensure our internal democracy remains strong"
+    },
+    "steering": {
+     "src": "marxists-internet-archive--intro",
+     "basis": "operator",
+     "quote": "Steering Committee"
+    },
+    "admin": {
+     "src": "marxists-internet-archive--intro",
+     "basis": "operator",
+     "quote": "Contact the Marxists Internet Archive Admin Committee for further information"
+    },
+    "license": {
+     "src": "marxists-internet-archive--intro",
+     "basis": "operator",
+     "quote": "All material within these Archives, unless noted otherwise, is public domain . MIA-created material is protected by the Creative Commons License ."
+    },
+    "missing_writer": {
+     "src": "marxists-internet-archive--intro",
+     "basis": "operator",
+     "quote": "Why some writer is missing"
+    },
+    "student_section": {
+     "src": "marxists-internet-archive--intro",
+     "basis": "operator",
+     "quote": "If you have basic questions about Marxism and all that relates to it, start in our Student's Section ."
+    },
+    "access": {
+     "src": "marxists-internet-archive--intro",
+     "basis": "operator",
+     "quote": "Audio Books"
+    },
+    "updated": {
+     "src": "marxists-internet-archive--intro",
+     "basis": "operator",
+     "quote": "Last updated on 21 April 2026"
+    }
+   },
+   "relations": [
+    {
+     "rel": "has_part",
+     "target": "erol",
+     "note": "the Encyclopedia of anti-Revisionism On-Line is served under www.marxists.org/history/erol/ (the saved source URLs); the MIA introduction saved here does not name it"
+    }
+   ],
+   "unchecked": [
+    "the home page (marxists-internet-archive--home): saved text is navigation only (126 characters), unread and unquoted",
+    "the history, Charter, Steering Committee, budget and 'Why some writer is missing' pages linked from the introduction",
+    "the Periodicals section and any section on parties or splits",
+    "the Creative Commons License version"
+   ],
+   "sources": {
+    "marxists-internet-archive--intro": {
+     "url": "https://www.marxists.org/admin/intro/index.htm",
+     "read": "2026-10-31",
+     "sha256": "dbee9868c094836b76d68d8d95371ec0af816eee30a56d1fe124b5247430f60e",
+     "http": "200"
+    }
+   },
+   "observed": {
+    "on": "2026-10-31",
+    "fetch": "read"
+   }
+  },
+  {
+   "slug": "mega-digital",
+   "name": "MEGAdigital",
+   "aka": [
+    "Marx-Engels-Gesamtausgabe (MEGA)",
+    "MEGA",
+    "Online-Abteilung der historisch-kritischen Gesamtausgabe von Karl Marx und Friedrich Engels"
+   ],
+   "url": "https://megadigital.bbaw.de/",
+   "operator": "Berlin-Brandenburgische Akademie der Wissenschaften (BBAW), as an Akademienvorhaben (academy project), Jägerstr. 22/23, Berlin; the MEGA page also lists IMES",
+   "kind": "Online-Abteilung (online division) of the historisch-kritische Ausgabe (historical-critical edition) of Marx and Engels, the Marx-Engels-Gesamtausgabe (MEGA)",
+   "areas": [
+    "texts-of-the-tradition"
+   ],
+   "evidence_kind": [
+    "scholarly edition",
+    "primary text"
+   ],
+   "unit": "a MEGA volume (Band) in one of four divisions (Abteilungen): I works, articles, drafts; II Das Kapital and preparatory works; III letters; IV excerpts and notes; online, the edited text of a volume, a letter or an excerpt",
+   "record_object": "all publications, manuscripts and drafts, and the correspondence, of Karl Marx and Friedrich Engels ('sämtlicher Veröffentlichungen, Manuskripte und Entwürfe sowie des Briefwechsels'); online, ten volumes of Abteilung II, letters to and from Marx and Engels from 1866, and a large part of the excerpts and notes",
+   "record": {
+    "keeps": "the complete record of Marx and Engels: published works, manuscripts, drafts, excerpts, notes, and letters to and from them",
+    "holder": "the Berlin-Brandenburg Academy of Sciences and Humanities, as an academy project; volumes © BBAW; print volumes carry ISBNs; begun in the 1970s in Berlin and Moscow and continued after 1989 at the urging of scholars, politicians and publishers from many European countries, Japan and the USA",
+    "losing_side": "not recorded as such; the edition keeps Marx's and Engels's own drafts, excerpts and correspondence, including letters to them from others, and the saved page names no apparatus for rival tendencies"
+   },
+   "method": "scholarly edition: historical-critical edition, published in print volumes and, for a growing part (Abteilungen III and IV), online on MEGAdigital",
+   "coverage": {
+    "geography": "not stated as a geography (the writings and correspondence of Marx and Engels)",
+    "period": "the writings of Marx and Engels; the edition begun in the 1970s; latest listed volume August 2026"
+   },
+   "count": {
+    "value": "edited texts of ten MEGA volumes of Abteilung II online; letters from the year 1866 onward (Abteilung III); a large part of the excerpts and notes (Abteilung IV)",
+    "as_of": "the MEGA page as read 2026-10-31 (© 2018-2026)"
+   },
+   "holdings": [
+    "Abteilung II online: the edited texts of ten volumes ('Das Kapital' and preparatory works)",
+    "Abteilung III online: letters from and to Marx and Engels from 1866",
+    "Abteilung IV online: a large part of the excerpts and notes",
+    "latest: IV/24, excerpts and notes 1876, online August 2026; I/9 in print December 2025 (XIII + 1414 pages)"
+   ],
+   "stated_limits": [
+    "only a growing part of the edition (Abteilungen III and IV) continues digitally; Abteilung I appears in print (I/9, December 2025)",
+    "letters are online from the year 1866 onward",
+    "Abteilung IV is online for 'einen Großteil' (a large part) of the excerpts and notes"
+   ],
+   "answers": [
+    "what Marx and Engels wrote, drafted, excerpted and received, in an edited text faithful to the originals",
+    "where a passage of Das Kapital or its preparatory works stands in the edited text of Abteilung II",
+    "which MEGA volumes have appeared, in print or online, and when"
+   ],
+   "does_not_answer": [
+    "the reception of Marx and Engels in later movements and parties",
+    "the writings of other socialists except as correspondents in letters to Marx and Engels",
+    "the full text of volumes published only in print (from the saved sources)"
+   ],
+   "ml_reading": "#1725 places Marx's practice turned on his own programme and texts on the side of sublation; the archive reads a complete edition of drafts, excerpts and letters as the record of that self-revision, kept with the stages the published text superseded. The page quotes Die Zeit (1999) on the edition's beginning, failure and resurrection and on opening the work 'originalgetreu, das heißt unzensiert', so the edition's own history is a case of a holder changing after 1989.",
+   "data_access": "online texts on MEGAdigital (megadigital.bbaw.de); print volumes, present in all major libraries of the world by the page's statement",
+   "license": "not stated in the saved sources ('MEGA-Bände (© BBAW)'; '© 2018-2026')",
+   "lifecycle": {
+    "state": "active",
+    "detail": "begun in the 1970s in Berlin and Moscow; continued after 1989; a growing part now continued digitally; the page quotes a 1999 Die Zeit forecast of completion around 2025, and volumes continued to appear in December 2025 (print) and August 2026 (online)"
+   },
+   "founded": "1970s (begun in Berlin and Moscow)",
+   "version_and_time": {
+    "latest_online": "IV/24, August 2026",
+    "latest_print": "I/9, December 2025",
+    "site_copyright": "2018-2026",
+    "read": "2026-10-31"
+   },
+   "negative_tags": [
+    "NOT a library of the Marxist tradition: it edits Marx and Engels only",
+    "NOT complete online: Abteilung I and part of the edition appear in print",
+    "NOT a reading edition or translation: a historical-critical edition"
+   ],
+   "evidence": {
+    "self_description": {
+     "src": "mega-digital--mega",
+     "basis": "operator",
+     "quote": "Die Marx-Engels-Gesamtausgabe (MEGA) ist die historisch-kritische Ausgabe sämtlicher Veröffentlichungen, Manuskripte und Entwürfe sowie des Briefwechsels von Karl Marx und Friedrich Engels."
+    },
+    "kind": {
+     "src": "mega-digital--mega",
+     "basis": "operator",
+     "quote": "Online-Abteilung der historisch-kritischen Gesamtausgabe von Karl Marx und Friedrich Engels"
+    },
+    "operator": {
+     "src": "mega-digital--mega",
+     "basis": "operator",
+     "quote": "Berlin-Brandenburgische Akademie der Wissenschaften"
+    },
+    "academy_project": {
+     "src": "mega-digital--mega",
+     "basis": "operator",
+     "quote": "Akademienvorhaben"
+    },
+    "imes": {
+     "src": "mega-digital--mega",
+     "basis": "operator",
+     "quote": "IMES"
+    },
+    "address": {
+     "src": "mega-digital--mega",
+     "basis": "operator",
+     "quote": "Jägerstr. 22/23"
+    },
+    "divisions": {
+     "src": "mega-digital--mega",
+     "basis": "operator",
+     "quote": "MEGA-Bände I. Abteilung II. Abteilung III. Abteilung IV. Abteilung"
+    },
+    "holdings_online": {
+     "src": "mega-digital--mega",
+     "basis": "operator",
+     "quote": "In der digitalen Ausgabe der MEGA sind die edierten Texte von zehn MEGA-Bänden der II. Abteilung (\"Das Kapital\" und Vorarbeiten) online abrufbar. Ab dem Jahrgang 1866 werden dort ebenfalls die Briefe von und an Marx und Engels digital dargeboten (III. Abteilung). Dies gilt auch für einen Großteil der Exzerpte und Notizen (IV. Abteilung)."
+    },
+    "latest_online": {
+     "src": "mega-digital--mega",
+     "basis": "operator",
+     "quote": "IV/24: M: Exzerpte und Notizen. 1876 | Aug. 2026 | Online-Veröffentlichung auf MEGAdigital"
+    },
+    "latest_print": {
+     "src": "mega-digital--mega",
+     "basis": "operator",
+     "quote": "I/9 M/E : Werke, Artikel, Entwürfe. März bis Juni 1849 | Print Dez. 2025 | XIII + 1414 S. | 13 Abb. | ISBN 978–3–11–070012–1"
+    },
+    "letters_1871": {
+     "src": "mega-digital--mega",
+     "basis": "operator",
+     "quote": "III/17 + III/18 + III/19 M/E: Briefjahrgang 1871 | April 2025 | Online-Veröffentlichung auf MEGAdigital"
+    },
+    "copyright_volumes": {
+     "src": "mega-digital--mega",
+     "basis": "operator",
+     "quote": "MEGA-Bände (© BBAW)"
+    },
+    "founded": {
+     "src": "mega-digital--mega",
+     "basis": "operator",
+     "quote": "Die Marx-Engels-Gesamtausgabe wurde in den 1970er Jahren in Berlin und Moskau begonnen. Sie erwarb in Fachkreisen hohes Ansehen und ist in allen großen Bibliotheken der Welt präsent."
+    },
+    "after_1989": {
+     "src": "mega-digital--mega",
+     "basis": "operator",
+     "quote": "Nach 1989 haben sich Wissenschaftler, Politiker und Verleger aus vielen europäischen Ländern, Japan und den USA nachdrücklich für die Fortführung der Ausgabe eingesetzt."
+    },
+    "limit_digital": {
+     "src": "mega-digital--mega",
+     "basis": "operator",
+     "quote": "Ein wachsender Teil der Edition (III. und IV. Abteilung) wird inzwischen digital weitergeführt."
+    },
+    "die_zeit_history": {
+     "src": "mega-digital--mega",
+     "basis": "operator",
+     "quote": "ihr Anfang, ihr Scheitern und ihr Wiederauferstehen spiegeln geradezu paradigmatisch die geschichtlichen Tragödien des 20. Jahrhunderts wider."
+    },
+    "die_zeit_forecast": {
+     "src": "mega-digital--mega",
+     "basis": "operator",
+     "quote": "Wenn sie, wie der Editionsfahrplan vorsieht, um das Jahr 2025 abgeschlossen sein wird, werden es ziemlich exakt hundert Jahre gewesen sein, die nötig waren, um das Werk von Marx und Engels der lesenden Öffentlichkeit originalgetreu, das heißt unzensiert, zu erschließen.“ (Die Zeit, 25. Februar 1999)"
+    },
+    "site_copyright": {
+     "src": "mega-digital--mega",
+     "basis": "operator",
+     "quote": "© 2018-2026"
+    }
+   },
+   "relations": [],
+   "unchecked": [
+    "the MEGAdigital home page (mega-digital--home): the saved .txt is undecoded compressed bytes, so it is unread and unquoted; this row rests on the MEGA project page at mega.bbaw.de",
+    "the Projektbeschreibung, the volume lists per Abteilung, Publikationen and IMES pages",
+    "MEGAdigital's own statements of license, access terms and editorial guidelines",
+    "the IMES expansion (not given on the saved page)"
+   ],
+   "sources": {
+    "mega-digital--mega": {
+     "url": "https://mega.bbaw.de/",
+     "read": "2026-10-31",
+     "sha256": "968047cb9ba5d5b0540c84bce779b329509aa88835770b5fdea97eb708e821bf",
+     "http": "200"
+    }
+   },
+   "observed": {
+    "on": "2026-10-31",
+    "fetch": "read"
+   }
+  },
+  {
+   "slug": "bannedthought",
+   "name": "BannedThought.net",
+   "aka": [
+    "BANNEDTHOUGHT.NET"
+   ],
+   "url": "https://www.bannedthought.net/",
+   "operator": "not named in the saved source; the site states it is independent and unaffiliated with any political party (contact freespeech@bannedthought.net)",
+   "kind": "web site that exists 'to struggle against the fascist-like suppression of progressive ideas'; it publicizes suppression and posts documents and publications suppressed elsewhere",
+   "areas": [
+    "movement-documents",
+    "texts-of-the-tradition"
+   ],
+   "evidence_kind": [
+    "movement document",
+    "periodical run",
+    "primary text"
+   ],
+   "unit": "a posted document or publication: a party document or statement, an issue of a party magazine or bulletin, a pamphlet, filed by country and by party",
+   "record_object": "documents and publications of revolutionary and Maoist parties and movements, by country (Afghanistan to Yugoslavia), with deep sections on India (CPI (Maoist) and CPI (M-L) parties and their magazines), Nepal (CPN (RM) and CPN (Maoist Centre)) and China (writings of Mao, the Cultural Revolution, the Sino-Soviet 'Great Debate'), plus international associations (RIM, ICL, CCOMPOSA, Comintern) and MLM theory",
+   "record": {
+    "keeps": "the documents of parties and movements it judges progressive and suppressed, chiefly Maoist parties, in their own words",
+    "holder": "the site itself, independent and unaffiliated with any political party by its notice; it is banned in India and some other countries by its own account; the operator, license and terms are not stated on the saved page",
+    "losing_side": "the site files rival parties of one tradition side by side: both parties of the Nepal split, the CPN (Revolutionary Maoist) [formerly CPN Maoist] and the CPN (Maoist Centre) [formerly UCPN (Maoist)], each with its documents and statements; several CPI (M-L) parties (the original 1969 party, People's War, Naxalbari, Satyanaran Singh / PCC) and 'Other Parties and Groups Espousing Mao Tsetung Thought'; 'The Views of Various UCPN(M) Leaders'; the Sino-Soviet 'Great Debate'; and a 'Two Lines Struggle Journal'. Its own criterion is suppression by governments, and it names its sections in its own terms ('Revisionist', 'Social-Imperialist')"
+   },
+   "method": "posting of documents and publications suppressed elsewhere, with reader submissions invited; usually English-language items",
+   "coverage": {
+    "geography": "about fifty country sections and international associations, by the home page's list",
+    "period": "not stated as a span; sections run from the Chinese Revolution up to 1949 and the early history of the Indian communist movement to contemporary statements; latest dated item on the saved page an addendum of 5 May 2022"
+   },
+   "count": {
+    "value": "not stated in the saved source",
+    "as_of": "2026-10-31"
+   },
+   "holdings": [
+    "country sections from Afghanistan to Yugoslavia and Balkans Region",
+    "India: CPI (Maoist) documents and statements, Information Bulletin, People's War and a dozen party magazines; CPI (M-L) parties' documents; Vanguard magazine",
+    "Nepal: CPN (RM) and UCPN (M) party documents, the Maoist Information Bulletin, The Worker, The Red Star",
+    "China: writings of Mao, magazines, the Cultural Revolution, the Great Debate with the Soviet Union",
+    "international: CCOMPOSA, RIM, ICL, Comintern, Red Path, Maoist Road, Two Lines Struggle Journal"
+   ],
+   "stated_limits": [
+    "'because of our own language deficiencies, we are usually only posting items in English'",
+    "'Additional pages for other specific countries will be added as becomes necessary'",
+    "its goal is 'simply to expose attempts to censor or suppress progressive ideas and to make available publications and documents which have been suppressed'"
+   ],
+   "answers": [
+    "what a named Maoist party (in India, Nepal and elsewhere) stated in its own documents and magazines, where the site holds them",
+    "how rival parties of one tradition, including both sides of the Nepal split, stated their positions",
+    "which governments the site records as suppressing these documents, including its own ban in India"
+   ],
+   "does_not_answer": [
+    "whether its holdings for any party are complete",
+    "the provenance and date of each posted document (unchecked here)",
+    "the documents of tendencies the site does not count as progressive or suppressed"
+   ],
+   "ml_reading": "A holder independent of every party whose documents it posts, which keeps the statements of both sides of a split (Nepal's CPN (RM) and CPN (Maoist Centre)) and of several rival CPI (M-L) parties in their own words. Its organizing question is suppression by states, which #1725 names as an outside accelerant; the archive reads its record of internal division as a by-product of that question, kept in the parties' own terms.",
+   "data_access": "free public web site; a Google search box for the site; a New Postings list",
+   "license": "not stated in the saved source",
+   "lifecycle": {
+    "state": "active",
+    "detail": "the home page carries a New Postings list and announces further country pages; the latest date on the saved page is an addendum of 5 May 2022 on its ban in India; the dates of recent postings are unchecked"
+   },
+   "version_and_time": {
+    "india_ban_addendum": "2022-05-05",
+    "read": "2026-10-31"
+   },
+   "negative_tags": [
+    "NOT affiliated with any political party, by its notice",
+    "NOT a neutral library of the left: its sympathies are stated, and it posts what it counts as progressive and suppressed",
+    "NOT multilingual by design: it usually posts items in English",
+    "NOT a party organ, though most of what it holds is party documents"
+   ],
+   "evidence": {
+    "self_description": {
+     "src": "bannedthought--home",
+     "basis": "operator",
+     "quote": "This site exists to struggle against the fascist-like suppression of progressive ideas and thought by reactionary governments and their agents anywhere in the world. We will attempt to publicize such suppression and—when possible—to post documents and publications that have been suppressed elsewhere."
+    },
+    "independent": {
+     "src": "bannedthought--home",
+     "basis": "operator",
+     "quote": "BANNEDTHOUGHT.NET is independent and unaffiliated with any political party. While our sympathies are of course with the struggles of the oppressed and exploited peoples of the world, our goal here is simply to expose attempts to censor or suppress progressive ideas and to make available publications and documents which have been suppressed in one or more countries."
+    },
+    "banned": {
+     "src": "bannedthought--home",
+     "basis": "operator",
+     "quote": "Ironically, BannedThought.net is Itself Now Banned in India and Some Other Countries!"
+    },
+    "ban_addendum": {
+     "src": "bannedthought--home",
+     "basis": "operator",
+     "quote": "And a recent addendum (May 5, 2022)."
+    },
+    "limit_language": {
+     "src": "bannedthought--home",
+     "basis": "operator",
+     "quote": "At present, and because of our own language deficiencies, we are usually only posting items in English."
+    },
+    "limit_pages": {
+     "src": "bannedthought--home",
+     "basis": "operator",
+     "quote": "Additional pages for other specific countries will be added as becomes necessary."
+    },
+    "submissions": {
+     "src": "bannedthought--home",
+     "basis": "operator",
+     "quote": "If you know of progressive publications or documents which are banned or suppressed anywhere in the world, please let us know about them so that we may inform others of this and possibly post them on this site."
+    },
+    "contact": {
+     "src": "bannedthought--home",
+     "basis": "operator",
+     "quote": "freespeech@bannedthought.net"
+    },
+    "nepal_rm": {
+     "src": "bannedthought--home",
+     "basis": "operator",
+     "quote": "The Communist Party of Nepal (Revolutionary Maoist) [Formerly: CPN Maoist]:"
+    },
+    "nepal_centre": {
+     "src": "bannedthought--home",
+     "basis": "operator",
+     "quote": "The Communist Party of Nepal (Maoist Centre) [Formerly: Unified Communist Party of Nepal (Maoist)]:"
+    },
+    "nepal_leaders": {
+     "src": "bannedthought--home",
+     "basis": "operator",
+     "quote": "The Views of Various UCPN(M) Leaders"
+    },
+    "cpiml_original": {
+     "src": "bannedthought--home",
+     "basis": "operator",
+     "quote": "CPI(M-L) [Original Party formed in 1969]"
+    },
+    "cpiml_pw": {
+     "src": "bannedthought--home",
+     "basis": "operator",
+     "quote": "Communist Party of India (Marxist-Leninist) [People’s War]"
+    },
+    "cpiml_ss": {
+     "src": "bannedthought--home",
+     "basis": "operator",
+     "quote": "CPI(M-L) [Satyanaran Singh] / PCC-CPI(M-L)"
+    },
+    "other_parties": {
+     "src": "bannedthought--home",
+     "basis": "operator",
+     "quote": "Other Parties and Groups Espousing Mao Tsetung Thought"
+    },
+    "cpi_maoist": {
+     "src": "bannedthought--home",
+     "basis": "operator",
+     "quote": "CPI(Maoist) Documents and Statements"
+    },
+    "great_debate": {
+     "src": "bannedthought--home",
+     "basis": "operator",
+     "quote": "The Great Debate between Revolutionary China and the Revisionist and Social-Imperialist Soviet Union"
+    },
+    "ussr": {
+     "src": "bannedthought--home",
+     "basis": "operator",
+     "quote": "U.S.S.R. (Socialist & Revisionist Periods)"
+    },
+    "two_lines": {
+     "src": "bannedthought--home",
+     "basis": "operator",
+     "quote": "Two Lines Struggle Journal"
+    },
+    "international": {
+     "src": "bannedthought--home",
+     "basis": "operator",
+     "quote": "Revolutionary Internationalist Movement [RIM]"
+    },
+    "mao": {
+     "src": "bannedthought--home",
+     "basis": "operator",
+     "quote": "Writings of Mao and Other Individuals"
+    },
+    "theory": {
+     "src": "bannedthought--home",
+     "basis": "operator",
+     "quote": "MLM Theory: Politics, Political Economy and Philosophy"
+    },
+    "new_postings": {
+     "src": "bannedthought--home",
+     "basis": "operator",
+     "quote": "List of recent postings on BannedThought.net."
+    },
+    "search": {
+     "src": "bannedthought--home",
+     "basis": "operator",
+     "quote": "You may search the BannedThought.net web site using the Google search box at the bottom of this page."
+    }
+   },
+   "relations": [],
+   "unchecked": [
+    "the About BannedThought.net page (operator, founding date, terms)",
+    "the New Postings list and the dates of recent postings",
+    "the country and party pages themselves and the documents they hold",
+    "the letter from the Indian government censorship agency and the 2022 addendum"
+   ],
+   "sources": {
+    "bannedthought--home": {
+     "url": "https://www.bannedthought.net/",
+     "read": "2026-10-31",
+     "sha256": "afcdb2bf751d80c8241fd8ff0dace45686958bc2154e8f204af68d796d681e11",
+     "http": "200"
+    }
+   },
+   "observed": {
+    "on": "2026-10-31",
+    "fetch": "read"
+   }
+  },
+  {
+   "slug": "erol",
+   "name": "Encyclopedia of anti-Revisionism On-Line",
+   "aka": [
+    "EROL"
+   ],
+   "url": "https://www.marxists.org/history/erol/erol.htm",
+   "operator": "an EROL Administrator (named only as such on the saved page), within the Marxists Internet Archive's History section by its URL",
+   "kind": "online encyclopedia of information on, and primary documents from, anti-revisionist movements, organizations and parties, by country",
+   "areas": [
+    "movement-documents",
+    "texts-of-the-tradition"
+   ],
+   "evidence_kind": [
+    "movement document",
+    "periodical run",
+    "primary text"
+   ],
+   "unit": "a primary document of an anti-revisionist movement, organization or party, filed by country and by period subsection; periodicals listed by country",
+   "record_object": "the anti-revisionist movements, organizations and parties of 26 countries, with representative materials from China and Albania; the United States in waves from 1946 and the New Communist Movement to its collapse; Canada 1964 to 1983; the United Kingdom from post-war antecedents to decline and dissolution",
+   "record": {
+    "keeps": "the anti-revisionist movements, organizations and parties: their primary documents and periodicals, in the encyclopedia's own periodization",
+    "holder": "an EROL Administrator, under the Marxists Internet Archive (served at www.marxists.org/history/erol/); terms are not stated on the saved EROL pages",
+    "losing_side": "the encyclopedia is organized around splits and defeat: U.S. sections titled 'Crises, Splits and More New Parties, 1977-1980', 'Birth of the Anti-Dogmatist Trend, 1976-1977', 'Anti-Dogmatists Unable to Unite, 1978-1980', 'Collapse and Aftermath' and 'Major Issues and Debates'; Canada's 'Crisis and Collapse, 1982-1983'; the UK's 'Ebbing Tide: Decline and Dissolution'. The tendency it records is itself a minority defined against 'revisionism'"
+   },
+   "method": "collection and posting of primary documents and information by country and period, with an alphabetical index to the U.S. New Communist Movement subsections (the gathering method is not described on the saved page)",
+   "coverage": {
+    "geography": "26 country sections (United States, Canada, United Kingdom, and 23 others from Australia to Switzerland), counted here from the contents page; representative materials from China and Albania",
+    "period": "from 1946 (the U.S. First Wave of Anti-Revisionism, 1946-1950) to the 1980s (Canada's Crisis and Collapse, 1982-1983)"
+   },
+   "count": {
+    "value": "26 country sections (counted here from the contents page); document counts not stated",
+    "as_of": "2026-10-31"
+   },
+   "holdings": [
+    "United States: three waves of anti-revisionism (1946-1970) and the New Communist Movement from origins (1969) to collapse, with major issues and debates and an alphabetical index",
+    "Canada: 1964-1983, with a post-war antecedent (Fergus McKean)",
+    "United Kingdom: early 1960s to decline and dissolution",
+    "23 further country sections",
+    "Anti-Revisionist Periodicals, Magazines and Newspapers by Country"
+   ],
+   "stated_limits": [
+    "not stated on the saved pages"
+   ],
+   "answers": [
+    "what an anti-revisionist organization in a covered country stated in its own documents",
+    "how the encyclopedia periodizes a national movement's waves, splits and collapse",
+    "which anti-revisionist periodicals it lists by country"
+   ],
+   "does_not_answer": [
+    "the completeness of its holdings for any organization",
+    "how its documents were gathered (unchecked here)",
+    "the record of tendencies outside anti-revisionism"
+   ],
+   "ml_reading": "An organ that keeps a defeated tendency's record in that tendency's own documents, sectioned by its splits and its collapse, so each faction of a split stays stated after the organization that housed it ended. The archive reads its 'Anti-Dogmatists Unable to Unite' and 'Major Issues and Debates' sections as the losing side of the losing side kept for later readers, held by an archive independent of every party it records.",
+   "data_access": "free public web pages at www.marxists.org/history/erol/",
+   "license": "not stated on the saved EROL pages; the Marxists Internet Archive introduction states that all material within its archives, unless noted otherwise, is public domain",
+   "lifecycle": {
+    "state": "active",
+    "detail": "served live under marxists.org; the saved contents page carries no date of update; the movements it records ended or dissolved by its own section titles"
+   },
+   "version_and_time": {
+    "contents_page": "undated",
+    "read": "2026-10-31"
+   },
+   "negative_tags": [
+    "NOT an organ of any party it records",
+    "NOT a general encyclopedia of Marxism: its subject is anti-revisionist movements, organizations and parties",
+    "NOT a living movement's site: its sections record the movements' collapse and dissolution"
+   ],
+   "evidence": {
+    "self_description": {
+     "src": "erol--intro2",
+     "basis": "operator",
+     "quote": "INFORMATION ON AND PRIMARY DOCUMENTS FROM ANTI-REVISIONIST MOVEMENTS, ORGANIZATIONS AND PARTIES BY COUNTRY"
+    },
+    "name": {
+     "src": "erol--intro2",
+     "basis": "operator",
+     "quote": "Encyclopedia of anti-Revisionism On-Line"
+    },
+    "definition": {
+     "src": "erol--intro2",
+     "basis": "operator",
+     "quote": "A Brief definition of Anti-Revisionism"
+    },
+    "china_albania": {
+     "src": "erol--intro2",
+     "basis": "operator",
+     "quote": "Representative Anti-Revisionist Materials from China Representative Anti-Revisionist Materials from Albania"
+    },
+    "us_first_wave": {
+     "src": "erol--intro2",
+     "basis": "operator",
+     "quote": "The First Wave of Anti-Revisionism, 1946-1950"
+    },
+    "us_ncm_origins": {
+     "src": "erol--intro2",
+     "basis": "operator",
+     "quote": "The New Communist Movement: Origins and Early Groups, 1969-1974"
+    },
+    "anti_dogmatist": {
+     "src": "erol--intro2",
+     "basis": "operator",
+     "quote": "The New Communist Movement: Birth of the Anti-Dogmatist Trend, 1976-1977"
+    },
+    "splits": {
+     "src": "erol--intro2",
+     "basis": "operator",
+     "quote": "The New Communist Movement: Crises, Splits and More New Parties, 1977-1980"
+    },
+    "unable_to_unite": {
+     "src": "erol--intro2",
+     "basis": "operator",
+     "quote": "The New Communist Movement: Anti-Dogmatists Unable to Unite, 1978-1980"
+    },
+    "collapse": {
+     "src": "erol--intro2",
+     "basis": "operator",
+     "quote": "The New Communist Movement: Collapse and Aftermath"
+    },
+    "debates": {
+     "src": "erol--intro2",
+     "basis": "operator",
+     "quote": "The New Communist Movement: Major Issues and Debates"
+    },
+    "index": {
+     "src": "erol--intro2",
+     "basis": "operator",
+     "quote": "Alphabetical Index to All Subsections in the U.S. New Communist Movement Pages"
+    },
+    "canada": {
+     "src": "erol--intro2",
+     "basis": "operator",
+     "quote": "Post-World War II Antecedent – Fergus McKean The First Wave of Anti-Revisionism, 1964-1970 The Second Wave of Anti-Revisionism, 1971-1981 Crisis and Collapse, 1982-1983"
+    },
+    "uk_decline": {
+     "src": "erol--intro2",
+     "basis": "operator",
+     "quote": "Ebbing Tide: Decline and Dissolution"
+    },
+    "uk_high_tide": {
+     "src": "erol--intro2",
+     "basis": "operator",
+     "quote": "High Tide: The Consolidation of Maoism by the Late 1970’s"
+    },
+    "last_country": {
+     "src": "erol--intro2",
+     "basis": "operator",
+     "quote": "Anti-Revisionism in Switzerland"
+    },
+    "periodicals": {
+     "src": "erol--intro2",
+     "basis": "operator",
+     "quote": "Anti-Revisionist Periodicals, Magazines and Newspapers by Country"
+    },
+    "administrator": {
+     "src": "erol--intro2",
+     "basis": "operator",
+     "quote": "Contact EROL Administrator"
+    },
+    "mia_license": {
+     "src": "marxists-internet-archive--intro",
+     "basis": "operator",
+     "quote": "All material within these Archives, unless noted otherwise, is public domain ."
+    }
+   },
+   "relations": [
+    {
+     "rel": "part_of",
+     "target": "marxists-internet-archive",
+     "note": "EROL is served under www.marxists.org/history/erol/ (the saved source URLs); the saved contents page does not state the relation in prose"
+    }
+   ],
+   "unchecked": [
+    "the EROL entry page (erol--home): saved text is title and an 'Enter EROL' link only (112 characters), unquoted",
+    "the EROL introduction at erol-intro.htm (erol--intro): HTTP 404, unread",
+    "the 'Brief definition of Anti-Revisionism' page and the document pages themselves",
+    "who the EROL Administrator is, and how documents were gathered"
+   ],
+   "sources": {
+    "erol--intro2": {
+     "url": "https://www.marxists.org/history/erol/erol.htm",
+     "read": "2026-10-31",
+     "sha256": "64595c569e84b11adadf28c983509dd00d95a7c4193a99c7b43f750e3329cb9e",
+     "http": "200"
+    },
+    "marxists-internet-archive--intro": {
+     "url": "https://www.marxists.org/admin/intro/index.htm",
+     "read": "2026-10-31",
+     "sha256": "dbee9868c094836b76d68d8d95371ec0af816eee30a56d1fe124b5247430f60e",
+     "http": "200"
+    }
+   },
+   "observed": {
+    "on": "2026-10-31",
+    "fetch": "read"
+   }
+  },
+  {
+   "slug": "banmarchive",
+   "name": "Amiel Melburn Trust Archive",
+   "aka": [
+    "Amiel Melburn Archive",
+    "Amiel Melburne Trust Archive",
+    "banmarchive"
+   ],
+   "url": "https://banmarchive.org.uk/",
+   "operator": "the Barry Amiel and Norman Melburn Trust, Registered Charity No. 281239, London; site by Common Knowledge",
+   "kind": "an online database of socialist and radical writings",
+   "areas": [
+    "movement-documents",
+    "archives-and-custody"
+   ],
+   "evidence_kind": [
+    "periodical run",
+    "movement document"
+   ],
+   "unit": "an issue of a digitized periodical (or a pamphlet in the Socialist History Society series), searchable by word and phrase",
+   "record_object": "thirteen British socialist and radical periodicals and series, 1956 onward, among them The Reasoner, New Reasoner, Universities & Left Review, Marxism Today, Black Dwarf, Red Rag, 7 Days, Soundings and Socialist History Society Pamphlets",
+   "record": {
+    "keeps": "the runs of British socialist and radical periodicals, including the journals of the 1956 Communist dissidents (The Reasoner and New Reasoner) and the New Left (Universities & Left Review)",
+    "holder": "the Barry Amiel and Norman Melburn Trust, a registered charity (© Barry Amiel and Norman Melburn Trust); terms of use and license not stated on the saved pages",
+    "losing_side": "the New Reasoner page records the case directly: The Reasoner was critical of what its editors saw as the Communist Party of Great Britain's dogmatism; E.P. Thompson and John Saville refused the leadership's instruction to close it, were suspended, resigned in protest at the Soviet invasion of Hungary, and relaunched as the New Reasoner, which ran ten issues and later merged with Universities and Left Review to become New Left Review. The archive holds The Reasoner (3 issues, 1956) and all ten New Reasoner issues"
+   },
+   "method": "digitization of periodical runs into a searchable database, with an introduction to each publication (New Reasoner's by Peter Worsley with Dorothy Thompson and Stuart Hall)",
+   "coverage": {
+    "geography": "Britain (the publications held; the Trust is in London)",
+    "period": "1956 (The Reasoner) to 2024 (New University, as listed)"
+   },
+   "count": {
+    "value": "13 publications, 335 issues summed here from the home page's list",
+    "as_of": "2026-10-31"
+   },
+   "holdings": [
+    "Marxism Today: 145 issues, 1978–1998",
+    "Socialist History Society Pamphlets: 38 issues, 1956–1976",
+    "Soundings: 30 issues, 1995–2000",
+    "Black Dwarf: 26 issues, 1968–1969",
+    "7 Days: 22 issues, 1971–1972",
+    "Red Rag: 14 issues, 1972–1979",
+    "New University: 13 issues, 1960–2024",
+    "VIEWS: 11 issues, 1963–1966",
+    "New Reasoner: 10 issues, 1957–1959",
+    "New Formations: 10 issues, 1987–1990",
+    "Universities & Left Review: 7 issues, 1957–1959",
+    "Race & Class Articles: 6 issues, 1998–2005",
+    "The Reasoner: 3 issues, 1956"
+   ],
+   "stated_limits": [
+    "not stated on the saved pages"
+   ],
+   "answers": [
+    "what The Reasoner and New Reasoner printed, issue by issue, after the editors refused the CPGB leadership's order to close",
+    "where a word or phrase appears across the held runs of British socialist and radical periodicals",
+    "which issues of each held publication are in the database"
+   ],
+   "does_not_answer": [
+    "the Communist Party leadership's own account of the 1956 dispute (no party records appear in the saved holdings list)",
+    "the full runs of publications held only in part where the span exceeds the issues listed (New University: 13 issues, 1960–2024)",
+    "the terms on which the texts may be reused"
+   ],
+   "ml_reading": "This holds the organ a defeated critique built for itself: #1725 cites the Reasoner and New Reasoner (1956–59) as the case where the party failed to hold the critics and the critique kept an organ and found a wider field, and here both runs are held whole, ten New Reasoner issues and three of The Reasoner. The holder is a charitable trust with standing independent of the party criticized, and the New Reasoner page states the route ran through the merger into New Left Review.",
+   "data_access": "free online search and browsing by publication, with phrase search and an advanced search; access terms not stated",
+   "license": "not stated in the saved sources ('© Barry Amiel and Norman Melburn Trust')",
+   "lifecycle": {
+    "state": "active",
+    "detail": "the database is live with search, lectures and a link to the Trust's website; the date it was founded is not stated on the saved pages"
+   },
+   "version_and_time": {
+    "home": "undated",
+    "read": "2026-10-31"
+   },
+   "negative_tags": [
+    "NOT the Communist Party of Great Britain's archive, though it holds the dissidents' journals and Marxism Today",
+    "NOT New Left Review: it holds the New Reasoner and Universities & Left Review that merged into it",
+    "NOT a general library of the left: thirteen periodicals and series"
+   ],
+   "evidence": {
+    "self_description": {
+     "src": "banmarchive--home",
+     "basis": "operator",
+     "quote": "Amiel Melburn Archive: an online database of socialist and radical writings."
+    },
+    "holder": {
+     "src": "banmarchive--home",
+     "basis": "operator",
+     "quote": "© Barry Amiel and Norman Melburn Trust"
+    },
+    "charity": {
+     "src": "banmarchive--home",
+     "basis": "operator",
+     "quote": "Registered Charity No. 281239"
+    },
+    "site_by": {
+     "src": "banmarchive--home",
+     "basis": "operator",
+     "quote": "Site by Common Knowledge"
+    },
+    "search": {
+     "src": "banmarchive--home",
+     "basis": "operator",
+     "quote": "Putting two or more words in quotation marks will prompt a search for that exact phrase."
+    },
+    "filters": {
+     "src": "banmarchive--home",
+     "basis": "operator",
+     "quote": "Whole Archive 7 Days Black Dwarf Marxism Today New Formations New Reasoner New University Race & Class Articles Red Rag Socialist History Society Pamphlets Soundings The Reasoner Universities & Left Review VIEWS"
+    },
+    "h_7days": {
+     "src": "banmarchive--home",
+     "basis": "operator",
+     "quote": "7 Days 22 issues 1971–1972"
+    },
+    "h_black_dwarf": {
+     "src": "banmarchive--home",
+     "basis": "operator",
+     "quote": "Black Dwarf 26 issues 1968–1969"
+    },
+    "h_new_reasoner": {
+     "src": "banmarchive--home",
+     "basis": "operator",
+     "quote": "New Reasoner 10 issues 1957–1959"
+    },
+    "h_marxism_today": {
+     "src": "banmarchive--home",
+     "basis": "operator",
+     "quote": "Marxism Today 145 issues 1978–1998"
+    },
+    "h_new_university": {
+     "src": "banmarchive--home",
+     "basis": "operator",
+     "quote": "New University 13 issues 1960–2024"
+    },
+    "h_red_rag": {
+     "src": "banmarchive--home",
+     "basis": "operator",
+     "quote": "Red Rag 14 issues 1972–1979"
+    },
+    "h_new_formations": {
+     "src": "banmarchive--home",
+     "basis": "operator",
+     "quote": "New Formations 10 issues 1987–1990"
+    },
+    "h_soundings": {
+     "src": "banmarchive--home",
+     "basis": "operator",
+     "quote": "Soundings 30 issues 1995–2000"
+    },
+    "h_ulr": {
+     "src": "banmarchive--home",
+     "basis": "operator",
+     "quote": "Universities & Left Review 7 issues 1957–1959"
+    },
+    "h_shs": {
+     "src": "banmarchive--home",
+     "basis": "operator",
+     "quote": "Socialist History Society Pamphlets 38 issues 1956–1976"
+    },
+    "h_race_class": {
+     "src": "banmarchive--home",
+     "basis": "operator",
+     "quote": "Race & Class Articles 6 issues 1998–2005"
+    },
+    "h_reasoner": {
+     "src": "banmarchive--home",
+     "basis": "operator",
+     "quote": "The Reasoner 3 issues 1956–1956"
+    },
+    "h_views": {
+     "src": "banmarchive--home",
+     "basis": "operator",
+     "quote": "VIEWS 11 issues 1963–1966"
+    },
+    "lectures": {
+     "src": "banmarchive--home",
+     "basis": "operator",
+     "quote": "Lectures"
+    },
+    "reasoner_case": {
+     "src": "banmarchive--new-reasoner",
+     "basis": "operator",
+     "quote": "When E.P. Thompson and John Saville were instructed by the leadership of the Communist Party of Great Britain to close down their journal The Reasoner , which had been critical of what the editors saw as the Party’s dogmatism, they refused. Suspended form the party, from which they soon resigned in protest at the Soviet invasion of Hungary, they relaunched with the New Reasoner ."
+    },
+    "humanist_socialism": {
+     "src": "banmarchive--new-reasoner",
+     "basis": "operator",
+     "quote": "The magazine urged a reconsideration of the longer traditions of radical politics and began to lay out the basis of the sort of humanist socialism for which Thompson remains so well known."
+    },
+    "merger": {
+     "src": "banmarchive--new-reasoner",
+     "basis": "operator",
+     "quote": "Running to ten issues, the New Reasoner would later merge with the Universities and Left Review and become New Left Review ."
+    },
+    "introduction": {
+     "src": "banmarchive--new-reasoner",
+     "basis": "operator",
+     "quote": "by Peter Worsley, assisted by Dorothy Thompson and Stuart Hall"
+    },
+    "nr_first": {
+     "src": "banmarchive--new-reasoner",
+     "basis": "operator",
+     "quote": "Summer 1957 issue 1"
+    },
+    "nr_last": {
+     "src": "banmarchive--new-reasoner",
+     "basis": "operator",
+     "quote": "Autumn 1959 issue 10"
+    }
+   },
+   "relations": [],
+   "unchecked": [
+    "the About page (founding, terms of use, how the runs were digitized)",
+    "the Peter Worsley introduction to the New Reasoner",
+    "the Lectures page and the Amiel & Melburn Trust website",
+    "the issues themselves and the search's live output",
+    "the 1960–2024 span listed for New University with 13 issues (recorded as stated)"
+   ],
+   "sources": {
+    "banmarchive--home": {
+     "url": "https://banmarchive.org.uk/",
+     "read": "2026-10-31",
+     "sha256": "d3c117ad8594c6dfac3aee8b0671539742a28afca72368267a6d9c7428ebe8e2",
+     "http": "200"
+    },
+    "banmarchive--new-reasoner": {
+     "url": "https://banmarchive.org.uk/new-reasoner/",
+     "read": "2026-10-31",
+     "sha256": "33438e937349fc15d856cd2ef2e886c8bed7389604a69614f0885b3a760be5d4",
+     "http": "200"
+    }
+   },
+   "observed": {
+    "on": "2026-10-31",
+    "fetch": "read"
+   }
+  },
+  {
+   "slug": "libcom-library",
+   "name": "libcom.org Collections",
+   "aka": [
+    "libcom.org",
+    "libcom library"
+   ],
+   "url": "https://libcom.org/collections",
+   "operator": "not stated in the saved text; the site's pages are submitted under the account 'libcom', and the About pages saved answered 404",
+   "kind": "a website's collections index, organised under the tabs Tags, Archives, Authors, Reading guides, Blogs and Galleries",
+   "areas": [
+    "movement-documents",
+    "texts-of-the-tradition",
+    "labor-action"
+   ],
+   "evidence_kind": [
+    "primary text",
+    "movement document"
+   ],
+   "unit": "a page (a text, article, biography or gallery) filed under one or more tags; the saved index lists tags",
+   "record_object": "as the saved tag list shows: strikes (the 1926 general strike, the 1934 Minneapolis Teamsters strike, the Flint sit-down strike), movements and organisations (Abahlali baseMjondolo, Anti Fascist Action, the CNT, the civil rights movement, France 1968), and writers (Amadeo Bordiga, Anton Pannekoek, Antonio Negri, CLR James, Emma Goldman, Gilles Dauvé, Guy Debord); related-content blocks on the 404 pages show a Solidarity (London) pamphlet by Cornelius Castoriadis and an article edited from News and Letters",
+   "record": {
+    "keeps": "writings and accounts of anarchism, strikes and social movements, as the tag list names them; whose record beyond the tag list is not stated in the saved text",
+    "holder": "not stated in the saved text: the About pages answered 404; the index carries Donate and Help out links and a user account (Log in / Register)",
+    "losing_side": "not recorded as a policy; the tag list names writers of tendencies apart from the party traditions (Amadeo Bordiga, Anton Pannekoek, Gilles Dauvé) and the related content carries a pamphlet by Solidarity (London), without the saved text saying how the site treats splits or dissent"
+   },
+   "method": "not stated in the saved text; pages are submitted by site accounts ('Submitted by libcom on October 14, 2006') and carry user comments",
+   "coverage": {
+    "geography": "not stated; the tags range from Bangladesh and Egypt to Gwangju, France, Spain, South Africa and the UK",
+    "period": "not stated; the tags range from the 8-hour day and 1926 to the Black Lives Matter movement and the Grenfell fire"
+   },
+   "count": {
+    "value": "not stated in the saved text (the tag list ends at 'Load More')",
+    "as_of": "2026-10-31"
+   },
+   "holdings": [
+    "a featured and an all-tags index of the collections, cut off at 'Load More' in the saved text",
+    "tabs for Archives, Authors, Reading guides, Blogs and Galleries",
+    "an Other languages link in the footer"
+   ],
+   "stated_limits": [
+    "on its 404 page: 'libcom.org has been running for several years on a lot of different software, so it's likely the page you want exists, but doesn't live here any more'"
+   ],
+   "answers": [
+    "which subjects, strikes, organisations and writers the collections are tagged under (as far as the saved index runs)"
+   ],
+   "does_not_answer": [
+    "who runs the site and on what terms (the About pages were unread)",
+    "how many texts the collections hold",
+    "how texts are selected, transcribed or edited",
+    "the licence of the texts"
+   ],
+   "ml_reading": "none stated. The archive reads the tag index as holding writers of anti-party and left-communist tendencies next to strike histories, which would make it an organ for positions the parties lost; the saved text does not state that as its purpose, and the reading waits on its About page.",
+   "data_access": "public web pages; a user account for registration and comments",
+   "license": "not stated in the saved text",
+   "lifecycle": {
+    "state": "active",
+    "detail": "the collections index served on 2026-10-31; the 404 page is dated October 14, 2006 and carries a comment of December 9, 2022; the site states it has run on several kinds of software"
+   },
+   "version_and_time": {
+    "site_note": "2006-10-14",
+    "latest_comment_seen": "2022-12-09",
+    "read": "2026-10-31"
+   },
+   "negative_tags": [
+    "NOT a library in the saved text's own words: the address /library redirects to /collections",
+    "NOT described in the saved sources as to operator, method or licence",
+    "NOT a dataset of strikes: strikes appear as tags on texts"
+   ],
+   "evidence": {
+    "kind": {
+     "src": "libcom-library--home",
+     "basis": "operator",
+     "quote": "Collections Primary tabs Tags Archives Authors Reading guides Blogs Galleries"
+    },
+    "tags_strikes": {
+     "src": "libcom-library--home",
+     "basis": "operator",
+     "quote": "1926 general strike 1934 Minneapolis Teamsters strike 8-hour day"
+    },
+    "tags_flint": {
+     "src": "libcom-library--home",
+     "basis": "operator",
+     "quote": "Flint sit-down strike"
+    },
+    "tags_writers": {
+     "src": "libcom-library--home",
+     "basis": "operator",
+     "quote": "Amadeo Bordiga Ambalavaner Sivanandan anarchism Anti Fascist Action (AFA)"
+    },
+    "tags_pannekoek": {
+     "src": "libcom-library--home",
+     "basis": "operator",
+     "quote": "Anton Pannekoek Antonio Negri"
+    },
+    "tags_cnt": {
+     "src": "libcom-library--home",
+     "basis": "operator",
+     "quote": "Confederación Nacional del Trabajo (CNT)"
+    },
+    "tags_dauve": {
+     "src": "libcom-library--home",
+     "basis": "operator",
+     "quote": "Gilles Dauvé"
+    },
+    "tags_debord": {
+     "src": "libcom-library--home",
+     "basis": "operator",
+     "quote": "Guy Debord"
+    },
+    "tags_recent": {
+     "src": "libcom-library--home",
+     "basis": "operator",
+     "quote": "Black Lives Matter movement"
+    },
+    "tags_grenfell": {
+     "src": "libcom-library--home",
+     "basis": "operator",
+     "quote": "Grenfell fire"
+    },
+    "load_more": {
+     "src": "libcom-library--home",
+     "basis": "operator",
+     "quote": "housework Load More"
+    },
+    "footer": {
+     "src": "libcom-library--home",
+     "basis": "operator",
+     "quote": "Donate Help out Other languages Site notes"
+    },
+    "account": {
+     "src": "libcom-library--home",
+     "basis": "operator",
+     "quote": "Log in / Register"
+    },
+    "site_note": {
+     "src": "libcom-library--about",
+     "basis": "operator",
+     "quote": "Submitted by libcom on October 14, 2006"
+    },
+    "limit": {
+     "src": "libcom-library--about",
+     "basis": "operator",
+     "quote": "libcom.org has been running for several years on a lot of different software, so it's likely the page you want exists, but doesn't live here any more."
+    },
+    "comment": {
+     "src": "libcom-library--about",
+     "basis": "operator",
+     "quote": "Submitted by adri on December 9, 2022"
+    },
+    "solidarity": {
+     "src": "libcom-library--about",
+     "basis": "operator",
+     "quote": "A talk given by 'Paul Cardan' (Cornelius Castoriadis). Issued as a pamphlet by Solidarity (London) a month later in June 1965."
+    },
+    "news_and_letters": {
+     "src": "libcom-library--about2",
+     "basis": "operator",
+     "quote": "An article, edited from News and Letters, outlining the uprising at the Gulag in Vorkuta in 1953."
+    }
+   },
+   "relations": [],
+   "unchecked": [
+    "libcom.org/about and libcom.org/about-us both answered 404 (saved as the site's 'Whoops, something broke' page); operator, method and licence are unread",
+    "the tag list past 'Load More'",
+    "the Archives, Authors and Reading guides tabs",
+    "the texts themselves"
+   ],
+   "sources": {
+    "libcom-library--home": {
+     "url": "https://libcom.org/library",
+     "read": "2026-10-31",
+     "sha256": "c0657ee58d4cee2dc81140e9afb8a92a8e6d648ca9fd7433702ba77707bc9bac",
+     "http": "200"
+    },
+    "libcom-library--about": {
+     "url": "https://libcom.org/about",
+     "read": "2026-10-31",
+     "sha256": "07ab80424004e61d1a6af3bb83675bd5c14510850394efc2ae2f7e5516cd626b",
+     "http": "404"
+    },
+    "libcom-library--about2": {
+     "url": "https://libcom.org/about-us",
+     "read": "2026-10-31",
+     "sha256": "5763a6366eb70344e0de3aff23efc9dd0ec39573ee41fa0cf05b80e28033a47a",
+     "http": "404"
+    }
+   },
+   "observed": {
+    "on": "2026-10-31",
+    "fetch": "read"
+   }
+  },
+  {
+   "slug": "irish-left-archive",
+   "name": "Irish Left Archive",
+   "aka": [
+    "Digital Archive of Irish Left Politics",
+    "ILA",
+    "CLR Irish Left Archive (clririshleftarchive.org)"
+   ],
+   "url": "https://www.leftarchive.ie/",
+   "operator": "not named beyond its origin: the archive states it was initiated by the Cedar Lounge Revolution; podcast episodes and commentary are posted by Aonrud",
+   "kind": "an online archive of materials relating to Irish left politics, freely accessible and easy to download and reproduce",
+   "areas": [
+    "movement-documents",
+    "archives-and-custody",
+    "labor-action"
+   ],
+   "evidence_kind": [
+    "movement document",
+    "periodical run"
+   ],
+   "unit": "a document (a periodical issue, pamphlet, statement or leaflet) attributed to the organisation that issued it and dated; also organisation, publication and person records, demonstration records, collections, articles and personal accounts",
+   "record_object": "materials of Irish left politics: documents of organisations and parties (the Communist Party of Ireland, the Socialist Workers' Party, the Irish Workers' Party, the League for a Workers Republic, the Irish Republican Socialist Party, People Before Profit among those shown), the British left's documents on Ireland, documents from demonstrations, and first-hand accounts of activists; a timeline of Irish left organisations and parties from 1900 to the present",
+   "record": {
+    "keeps": "the documents of Irish left organisations, parties and campaigns, and of British left groups writing on Ireland, as their issuers published them",
+    "holder": "the Irish Left Archive, initiated by the Cedar Lounge Revolution; freely accessible; content is submitted through a Content Submissions route; the terms are on a Copyright page that was not saved",
+    "losing_side": "it keeps rival organisations' documents side by side under their own names: the saved home page shows the Communist Party of Ireland and the Socialist Workers' Party, The Leninist group (CPGB) and the Communist Party of Great Britain (Provisional Central Committee), the British and Irish Communist Organisation; a collection 'shows some of the positions taken by the British left'; a timeline records organisations and parties from 1900; participants add accounts and comments (one commenter states they were one of the five who produced Focalín). The saved text does not describe splits or expulsions as a category"
+   },
+   "method": "online archive built from submitted materials (Content Submissions) and personal accounts invited from participants, with organisation, publication and person records updated over time and comments open on records",
+   "coverage": {
+    "geography": "Ireland, with the British left on Ireland",
+    "period": "1900 to the present (the timeline); documents on the home page date from 1967 to 2026"
+   },
+   "count": {
+    "value": "1231 documents, 436 organisations, 47 internationals, 217 publications, 875 people, 20 demonstrations, 10 collections, 12 articles",
+    "as_of": "2026-10-31"
+   },
+   "holdings": [
+    "1231 documents from 436 organisations, 217 publications and 875 people",
+    "an interactive timeline of Irish left organisations and parties from 1900 to the present",
+    "a bibliography of Irish left periodicals",
+    "Snapshots of Political Action, documents from demonstrations, with Irish Election Literature",
+    "collections: The British Left on Ireland, Wood Quay Protests, The Hunger Strikes",
+    "personal accounts and a podcast (episode 72 on 30 October 2026)"
+   ],
+   "stated_limits": [
+    "the personal accounts depend on contribution: 'The Irish Left Archive hopes to collate first-hand political reminiscences or observations from people involved in Irish Left political activity over the years'"
+   ],
+   "answers": [
+    "what a named Irish left organisation published, in its own documents, and when",
+    "which organisations and parties existed on the Irish left from 1900, as the timeline records them",
+    "what positions British left groups took on Ireland, in their own documents"
+   ],
+   "does_not_answer": [
+    "how complete any organisation's run of documents is",
+    "membership or electoral strength of the organisations",
+    "how a dispute between organisations was settled, beyond what their documents say"
+   ],
+   "ml_reading": "The archive reads it as an organ in #1725's sense at the scale of a national left: it keeps defeated and splinter organisations' documents under their own names next to their rivals', with a timeline of the organisations and participants' own accounts, so a position can be read later in its own words. The holder is an independent online archive outside any of the organisations it keeps.",
+   "data_access": "free online access with documents to download and reproduce; advanced search by section and years",
+   "license": "not stated in the saved text; a Copyright page is linked",
+   "lifecycle": {
+    "state": "active",
+    "detail": "records updated on 26 October 2026 and 23 October 2026; podcast episode 72 on 30 October 2026; the former address clririshleftarchive.org redirects to leftarchive.ie"
+   },
+   "version_and_time": {
+    "latest_update": "2026-10-26",
+    "podcast_episode_72": "2026-10-30",
+    "read": "2026-10-31"
+   },
+   "negative_tags": [
+    "NOT the archive of one party: it holds documents of hundreds of organisations side by side",
+    "NOT a record of membership or votes",
+    "NOT a counted dataset of protests: its demonstrations section holds documents from 20 demonstrations"
+   ],
+   "evidence": {
+    "kind": {
+     "src": "irish-left-archive--home",
+     "basis": "operator",
+     "quote": "The Irish Left Archive is an online archive of materials relating to Irish left politics , freely accessible and easy to download and reproduce ."
+    },
+    "operator": {
+     "src": "irish-left-archive--home",
+     "basis": "operator",
+     "quote": "It was initiated by the Cedar Lounge Revolution ."
+    },
+    "count": {
+     "src": "irish-left-archive--home",
+     "basis": "operator",
+     "quote": "1231 Documents 436 Organisations 47 Internationals 217 Publications 875 People 20 Demonstrations 10 Collections 12 Articles"
+    },
+    "timeline": {
+     "src": "irish-left-archive--home",
+     "basis": "operator",
+     "quote": "An interactive timeline of Irish Left organisations and parties from 1900 to the present."
+    },
+    "bibliography": {
+     "src": "irish-left-archive--home",
+     "basis": "operator",
+     "quote": "Bibliography of Irish Left Publications A list of left periodicals in Ireland"
+    },
+    "doc_cpi": {
+     "src": "irish-left-archive--home",
+     "basis": "operator",
+     "quote": "Irish Socialist, No. 123 January 1973, from the Communist Party of Ireland."
+    },
+    "doc_swp": {
+     "src": "irish-left-archive--home",
+     "basis": "operator",
+     "quote": "Socialist Worker, Vol. 2, No. 146 Socialist Workers’ Party, 2001"
+    },
+    "doc_iwp": {
+     "src": "irish-left-archive--home",
+     "basis": "operator",
+     "quote": "Essays from the 50th Anniversary of the 1916 Rising, from the Irish Workers’ Party"
+    },
+    "doc_lwr": {
+     "src": "irish-left-archive--home",
+     "basis": "operator",
+     "quote": "Workers' Republic, Vol. 1, No. 1 (1969) League for a Workers Republic"
+    },
+    "doc_1967": {
+     "src": "irish-left-archive--home",
+     "basis": "operator",
+     "quote": "Joint Memorandum on Citizens’ Rights in Northern Ireland (1967) Irish Congress of Trade Unions, Northern Ireland Labour Party"
+    },
+    "doc_pbp": {
+     "src": "irish-left-archive--home",
+     "basis": "operator",
+     "quote": "House Sick: TCDSU's Transition from Protest to PR (2025) People Before Profit"
+    },
+    "doc_2026": {
+     "src": "irish-left-archive--home",
+     "basis": "operator",
+     "quote": "Silence = Death (2026) Conradh na Saoirse Náisiúnta"
+    },
+    "rivals_irsp": {
+     "src": "irish-left-archive--home",
+     "basis": "operator",
+     "quote": "Irish Republican Socialist Party, The Leninist group (CPGB)"
+    },
+    "rivals_cpgb": {
+     "src": "irish-left-archive--home",
+     "basis": "operator",
+     "quote": "Updated: Communist Party of Great Britain (Provisional Central Committee) Organisation | 26th October 2026"
+    },
+    "rivals_bico": {
+     "src": "irish-left-archive--home",
+     "basis": "operator",
+     "quote": "Cathy Winch on \"British and Irish Communist Organisation\" | 1st August 2026, 08:02"
+    },
+    "british_left": {
+     "src": "irish-left-archive--home",
+     "basis": "operator",
+     "quote": "This collection shows some of the positions taken by the British left over the course of the last several decades."
+    },
+    "collections": {
+     "src": "irish-left-archive--home",
+     "basis": "operator",
+     "quote": "The Hunger Strikes Materials relating to the Hunger Strikes of 1980/1 in the archive."
+    },
+    "demonstrations": {
+     "src": "irish-left-archive--home",
+     "basis": "operator",
+     "quote": "Snapshots of Political Action A project from Irish Election Literature and the Irish Left Archive Documents from demonstrations"
+    },
+    "personal_accounts": {
+     "src": "irish-left-archive--home",
+     "basis": "operator",
+     "quote": "The Irish Left Archive hopes to collate first-hand political reminiscences or observations from people involved in Irish Left political activity over the years."
+    },
+    "participant_comment": {
+     "src": "irish-left-archive--home",
+     "basis": "operator",
+     "quote": "I was one of the 5 who produced Focalín."
+    },
+    "submissions": {
+     "src": "irish-left-archive--home",
+     "basis": "operator",
+     "quote": "Content Submissions Copyright Privacy"
+    },
+    "podcast": {
+     "src": "irish-left-archive--home",
+     "basis": "operator",
+     "quote": "Episode 72 Kevin Rooney: IrishBorderPoll.com Fri, 30 Oct 2026"
+    },
+    "podcast_author": {
+     "src": "irish-left-archive--home",
+     "basis": "operator",
+     "quote": "ILA Podcast #72: Kevin Rooney: IrishBorderPoll.com By: Aonrud ⚘ | Fri, 30 Oct 2026 10:54:35"
+    },
+    "latest_update": {
+     "src": "irish-left-archive--home",
+     "basis": "operator",
+     "quote": "Updated: Independents 4 Change Organisation | 23rd October 2026"
+    },
+    "search": {
+     "src": "irish-left-archive--home",
+     "basis": "operator",
+     "quote": "Select All Deselect All Years: From to"
+    }
+   },
+   "relations": [],
+   "unchecked": [
+    "the About page: /about/ and /about both answered 404 at leftarchive.ie, so the operator's own account of the archive, its submission terms and its copyright terms are unread",
+    "the timeline, the organisation records and the documents themselves",
+    "the Copyright and Content Submissions pages"
+   ],
+   "sources": {
+    "irish-left-archive--home": {
+     "url": "https://www.clririshleftarchive.org/",
+     "read": "2026-10-31",
+     "sha256": "908865463c70f088886f58bfcbcb931a51b99198590ec465c54c6baf369cf017",
+     "http": "200"
+    }
+   },
+   "observed": {
+    "on": "2026-10-31",
+    "fetch": "read"
+   }
+  },
+  {
+   "slug": "iish",
+   "name": "International Institute of Social History",
+   "aka": [
+    "IISH",
+    "IISG"
+   ],
+   "url": "https://iisg.amsterdam/en",
+   "operator": "the International Institute of Social History, an Institute of the Royal Netherlands Academy of Arts and Sciences (KNAW), in its Humanities Cluster",
+   "kind": "research institute holding collections in socio-economic history, and a data centre on socio-economic history",
+   "areas": [
+    "archives-and-custody",
+    "movement-documents"
+   ],
+   "evidence_kind": [
+    "archival collection"
+   ],
+   "unit": "not stated in the saved text; the collections are archives, publications and audiovisual collections, and the data are datasets",
+   "record_object": "organisations and persons in the field of labour and social and emancipatory movements (the collections); demography, wages, life courses, inequality, prices and labour relations (the datasets)",
+   "record": {
+    "keeps": "the archives, publications and audiovisual records of organisations and persons in labour and social and emancipatory movements",
+    "holder": "the IISH, an institute of the Royal Netherlands Academy of Arts and Sciences; collections made available online and in the reading room as much as possible; a License page is linked, unsaved",
+    "losing_side": "not recorded"
+   },
+   "method": "collection development and preservation of archives, publications and audiovisual material (menu items Collection Development and Preservation & Management); datasets compiled under a research programme",
+   "coverage": {
+    "geography": "not stated in the saved text",
+    "period": "not stated in the saved text; the institute's history goes back to the 1920s"
+   },
+   "count": {
+    "value": "collections of more than 50 kilometres; thousands of datasets",
+    "as_of": "2026-10-31"
+   },
+   "holdings": [
+    "archives, publications and audiovisual collections of more than 50 kilometres",
+    "thousands of datasets on demography, wages, life courses, inequality, prices and labour relations",
+    "Linked Open Data and the HSNDB (menu items)"
+   ],
+   "stated_limits": [
+    "collections are made available online and in the reading room 'as much as possible'",
+    "the reading room is open Monday to Thursday, 09:00 to 17:00"
+   ],
+   "answers": [
+    "whether the IISH holds collections on a named organisation or person in labour and social movements (through its catalogue, unsaved here)",
+    "which datasets it holds on wages, prices and labour relations"
+   ],
+   "does_not_answer": [
+    "which collections it holds, from the saved text (the catalogue was not read)",
+    "whether it keeps the records of minority tendencies, splits or expulsions, from the saved text"
+   ],
+   "ml_reading": "The archive reads it as a holder in #1725's sense: an academy institute that keeps the records of organisations and persons of labour and emancipatory movements outside the bodies that produced them. The saved text states no policy on the losing side.",
+   "data_access": "online catalogue (Search the catalogue), scan ordering, a reading room in Amsterdam, datasets and Linked Open Data",
+   "license": "not stated in the saved text; a License page is linked in the footer",
+   "lifecycle": {
+    "state": "active",
+    "detail": "officially established in 1935, with a history going back to the 1920s; reading room open; current research clusters and annual reports listed"
+   },
+   "founded": "1935",
+   "version_and_time": {
+    "established": "1935",
+    "read": "2026-10-31"
+   },
+   "negative_tags": [
+    "NOT a party or movement archive: an institute of the Royal Netherlands Academy of Arts and Sciences",
+    "NOT only an archive: also a data centre on socio-economic history and a research institute",
+    "NOT described in the saved text as keeping any particular tendency's papers"
+   ],
+   "evidence": {
+    "collections": {
+     "src": "iish--home",
+     "basis": "operator",
+     "quote": "The IISH manages a rich collection in the field of socio-economic history that is made available online and in the reading room as much as possible. The archives, publications and audiovisual collections cover more than 50 kilometres and offer (historical) information on organisations and persons in the field of labour and social and emancipatory movements."
+    },
+    "data": {
+     "src": "iish--home",
+     "basis": "operator",
+     "quote": "View our thousands of datasets on demography, wages, life courses, inequality, prices, and labour relations here. The IISH is one of the world's leading data centres on socio-economic history."
+    },
+    "operator": {
+     "src": "iish--home",
+     "basis": "operator",
+     "quote": "An Institute of the Royal Netherlands Academy of Arts and Sciences"
+    },
+    "cluster": {
+     "src": "iish--home",
+     "basis": "operator",
+     "quote": "Annual Reports KNAW Humanities Cluster"
+    },
+    "research": {
+     "src": "iish--home",
+     "basis": "operator",
+     "quote": "our four research clusters Global Labour Relations, Commodities, Environment and Labour, Social and Economic Inequality and Individual and Collective Action."
+    },
+    "method": {
+     "src": "iish--home",
+     "basis": "operator",
+     "quote": "Collection Development Preservation & Management"
+    },
+    "data_access": {
+     "src": "iish--home",
+     "basis": "operator",
+     "quote": "Visit & Use Search & Browse Ordering Scans"
+    },
+    "lod": {
+     "src": "iish--home",
+     "basis": "operator",
+     "quote": "Datasets HSNDB Linked Open Data About our data"
+    },
+    "catalogue": {
+     "src": "iish--home",
+     "basis": "operator",
+     "quote": "Search the catalogue"
+    },
+    "reading_room": {
+     "src": "iish--home",
+     "basis": "operator",
+     "quote": "The Reading Room is open Monday - Thursday: 09:00 to 17:00"
+    },
+    "license_link": {
+     "src": "iish--home",
+     "basis": "operator",
+     "quote": "FAQ | Privacy | Cookies | License |"
+    },
+    "founded": {
+     "src": "iish--about",
+     "basis": "operator",
+     "quote": "The IISH was officially established in 1935, but its history goes back to the 1920s."
+    }
+   },
+   "relations": [],
+   "unchecked": [
+    "the catalogue and its collection descriptions",
+    "the Mission, Organisation, Foundation and History pages (only their teasers are in the saved About page)",
+    "the License page",
+    "the datasets"
+   ],
+   "sources": {
+    "iish--home": {
+     "url": "https://iisg.amsterdam/en",
+     "read": "2026-10-31",
+     "sha256": "0a0832bcc211eecfaf0368a77f8834fc6a7e811a717b2cca1d0117b1bef474be",
+     "http": "200"
+    },
+    "iish--about": {
+     "url": "https://iisg.amsterdam/en/about",
+     "read": "2026-10-31",
+     "sha256": "771d5f1882c1747da8f6ad9f00f3558f34f660aacd7572246b676cac8b3c7bb1",
+     "http": "200"
+    }
+   },
+   "observed": {
+    "on": "2026-10-31",
+    "fetch": "read"
+   }
+  },
+  {
+   "slug": "reuther-library",
+   "name": "Walter P. Reuther Library, Archives of Labor and Urban Affairs",
+   "aka": [
+    "Reuther Library",
+    "Labor History Archives (1960 name)"
+   ],
+   "url": "https://reuther.wayne.edu/",
+   "operator": "Wayne State University (the library is the Walter P. Reuther Library, Archives of Labor and Urban Affairs, Wayne State University, Detroit)",
+   "kind": "labor archives; the largest labor archives in North America, in its own words; also home of the Wayne State University Archives",
+   "areas": [
+    "archives-and-custody",
+    "movement-documents"
+   ],
+   "evidence_kind": [
+    "archival collection"
+   ],
+   "unit": "an archival collection described by a finding aid (ArchivesSpace), with digital collections, image galleries, audiovisual collections and oral histories",
+   "record_object": "original source materials relating to the development of the American labor movement: the collections of numerous unions and labor-related organizations (categories AFSCME, AFT, ALPA, IWW, NALC, SEIU, UAW, UFW among them); the political and community life of urban and metropolitan Detroit, the civil rights movement in Michigan and nationally, and women's struggles in the workplace",
+   "record": {
+    "keeps": "the records of unions and labor-related organizations, with Detroit's political and community life, civil rights and women's workplace struggles",
+    "holder": "Wayne State University; the 1975 building was funded by the UAW and a Department of Health, Education, and Welfare grant, and a later UAW gift funded the Leonard Woodcock Wing (1991); collections freely open to the public; donations under a Collection Policy (PDF, unsaved)",
+    "losing_side": "not recorded"
+   },
+   "method": "deposit and donation of organizational records and papers under a collection policy; finding aids; oral history",
+   "coverage": {
+    "geography": "the American labor movement; urban and metropolitan Detroit; the civil rights movement in Michigan and nationally",
+    "period": "not stated in the saved text; collecting since 1960"
+   },
+   "count": {
+    "value": "not stated in the saved text",
+    "as_of": "2026-10-31"
+   },
+   "holdings": [
+    "the collections of numerous unions and labor-related organizations",
+    "the Wayne State University Archives (established 1958)",
+    "an addition to the UAW Education Department Records opened in August 2026",
+    "digital collections, image galleries, audiovisual collections, oral history and podcasts"
+   ],
+   "stated_limits": [
+    "reading room hours Monday to Friday 9:30am to noon and 1pm to 3:30pm, closed weekends and university holidays",
+    "QuickSearch was retired on 17 August 2026; collections are searched separately through a tabbed search box while discovery is integrated into Summon"
+   ],
+   "answers": [
+    "whether a named union or labor organization's records are held, through the finding aids",
+    "what the library holds for a union in its browse categories (AFSCME, AFT, IWW, UAW, UFW and the rest)"
+   ],
+   "does_not_answer": [
+    "the size of the holdings, from the saved text",
+    "whether the collections keep the records of union opposition caucuses, dissent or expulsions, from the saved text"
+   ],
+   "ml_reading": "none stated. The archive reads it as a university holder whose building was funded by the union whose records it keeps; whether a defeated caucus's papers are held beside an executive's is a question for its finding aids, unread here.",
+   "data_access": "collections freely open to the public; reading room without appointment; finding aids in ArchivesSpace, digital collections and the library catalogue",
+   "license": "not stated in the saved text; a Copyright and Privacy Policy page is linked; the site footer reads 'All rights reserved'",
+   "lifecycle": {
+    "state": "active",
+    "detail": "established 1960 as the Labor History Archives at Wayne State University; building 1975; Woodcock Wing 1991; collection addition announced 13 August 2026; closed 3 November 2026 for Election Day"
+   },
+   "founded": "1960",
+   "version_and_time": {
+    "established": "1960",
+    "building": "1975",
+    "woodcock_wing": "1991",
+    "quicksearch_retired": "2026-08-17",
+    "latest_post": "2026-10-27",
+    "read": "2026-10-31"
+   },
+   "negative_tags": [
+    "NOT the UAW's own archive: a Wayne State University library, though the UAW funded its building",
+    "NOT a strike dataset: its podcast and subject headings discuss strikes, and its unit is the archival collection",
+    "NOT limited to labor: it also holds the Wayne State University Archives and Detroit urban affairs"
+   ],
+   "evidence": {
+    "history": {
+     "src": "reuther-library--about",
+     "basis": "operator",
+     "quote": "The Walter P. Reuther Library, Archives of Labor and Urban Affairs was established as the Labor History Archives at Wayne State University in 1960, with the goal of collecting and preserving original source materials relating to the development of the American labor movement."
+    },
+    "building": {
+     "src": "reuther-library--about",
+     "basis": "operator",
+     "quote": "In 1975, the Walter P. Reuther Library was constructed with funds given to Wayne State University by the United Automobile, Aerospace, and Agricultural Implement Workers of America, and through a supplementary grant from the Department of Health, Education, and Welfare."
+    },
+    "wing": {
+     "src": "reuther-library--about",
+     "basis": "operator",
+     "quote": "A later gift from the UAW funded the construction of the library's Leonard Woodcock Wing, completed in 1991."
+    },
+    "kind": {
+     "src": "reuther-library--about",
+     "basis": "operator",
+     "quote": "The Reuther Library is the largest labor archives in North America and is home to the collections of numerous unions and labor-related organizations."
+    },
+    "strengths": {
+     "src": "reuther-library--about",
+     "basis": "operator",
+     "quote": "Its collection strengths extend to the political and community life of urban and metropolitan Detroit, the civil rights movement in Michigan and nationally, and women's struggles in the workplace."
+    },
+    "university_archives": {
+     "src": "reuther-library--about",
+     "basis": "operator",
+     "quote": "The Reuther Library is also the home of the Wayne State University Archives, established by the Board of Governors in 1958"
+    },
+    "access": {
+     "src": "reuther-library--about",
+     "basis": "operator",
+     "quote": "The collections housed in the Reuther Library are freely open to the public. Appointments are not required"
+    },
+    "hours": {
+     "src": "reuther-library--about",
+     "basis": "operator",
+     "quote": "Monday – Friday 9:30am–noon, 1pm-3:30pm CLOSED Saturday, Sunday, & all University Holidays"
+    },
+    "policy": {
+     "src": "reuther-library--about",
+     "basis": "operator",
+     "quote": "The Reuther Library collects and facilitates access to historical documentary evidence in order to inspire academic research, serve the information needs of the community, and build knowledge at Wayne State University."
+    },
+    "policy_pdf": {
+     "src": "reuther-library--about",
+     "basis": "operator",
+     "quote": "CollectionPolicy_20141216.pdf"
+    },
+    "categories": {
+     "src": "reuther-library--home",
+     "basis": "operator",
+     "quote": "AFSCME AFT ALPA Damon J. Keith IWW JCA MDA NALC SEIU SWE UAW UFW WSU"
+    },
+    "finding_aids": {
+     "src": "reuther-library--home",
+     "basis": "operator",
+     "quote": "Finding aids are descriptions of archival collections that help researchers locate relevant materials."
+    },
+    "access_tools": {
+     "src": "reuther-library--home",
+     "basis": "operator",
+     "quote": "ArchivesSpace Digital Collections Library Catalog"
+    },
+    "operator": {
+     "src": "reuther-library--home",
+     "basis": "operator",
+     "quote": "Walter P. Reuther Library, Archives of Labor and Urban Affairs, Wayne State University — 5401 Cass Ave, Detroit, MI 48202"
+    },
+    "quicksearch": {
+     "src": "reuther-library--home",
+     "basis": "operator",
+     "quote": "On Monday, August 17, the Reuther Library QuickSearch is being retired."
+    },
+    "quicksearch_2": {
+     "src": "reuther-library--home",
+     "basis": "operator",
+     "quote": "our collections can be searched separately using the tabbed search box near the top of our website."
+    },
+    "uaw_addition": {
+     "src": "reuther-library--home",
+     "basis": "operator",
+     "quote": "The Walter P. Reuther Library is excited to announce the opening of an addition to the UAW Education Department Records , one of the most essential collections from the union’s archival holdings."
+    },
+    "uaw_addition_date": {
+     "src": "reuther-library--home",
+     "basis": "operator",
+     "quote": "Posted August 13th, 2026 by gstrassel"
+    },
+    "closure": {
+     "src": "reuther-library--home",
+     "basis": "operator",
+     "quote": "The Reuther Library will be closed on Tuesday, November 3, 2026, for Election Day."
+    },
+    "latest_post": {
+     "src": "reuther-library--home",
+     "basis": "operator",
+     "quote": "Posted October 27th, 2026 by krouan"
+    },
+    "podcast_strike": {
+     "src": "reuther-library--home",
+     "basis": "operator",
+     "quote": "[Podcast] Organizing Associational Power: A Strikers’ Inquiry Into the 2022 UAW Strike Against the University of California"
+    },
+    "rights": {
+     "src": "reuther-library--home",
+     "basis": "operator",
+     "quote": "Wayne State University . All rights reserved."
+    },
+    "menu": {
+     "src": "reuther-library--home",
+     "basis": "operator",
+     "quote": "Donating Materials"
+    },
+    "oral_history": {
+     "src": "reuther-library--home",
+     "basis": "operator",
+     "quote": "Oral History"
+    }
+   },
+   "relations": [],
+   "unchecked": [
+    "the Collection Policy PDF and the Mission, Vision, and Values statements (linked, unsaved)",
+    "the finding aids in ArchivesSpace",
+    "the Copyright and Privacy Policy page"
+   ],
+   "sources": {
+    "reuther-library--about": {
+     "url": "https://reuther.wayne.edu/about",
+     "read": "2026-10-31",
+     "sha256": "3bf1b8f31218a971ca007e9317dc7d3231674cbe8bf75c9ab99a02e96485c6fe",
+     "http": "200"
+    },
+    "reuther-library--home": {
+     "url": "https://reuther.wayne.edu/",
+     "read": "2026-10-31",
+     "sha256": "db9d0069e69ea80076b832b15e6ca15e313adbf392acf8716207d5224b90a921",
+     "http": "200"
+    }
+   },
+   "observed": {
+    "on": "2026-10-31",
+    "fetch": "read"
+   }
+  },
+  {
+   "slug": "cornell-labor-action-tracker",
+   "name": "Labor Action Tracker",
+   "aka": [
+    "Cornell ILR Labor Action Tracker",
+    "ILR Labor Action Tracker"
+   ],
+   "url": "https://striketracker.ilr.cornell.edu/",
+   "operator": "Cornell University's ILR School and the University of Illinois' LER School (a collaboration since January 2024); project director Johnnie Kallas, Assistant Professor at Illinois LER",
+   "kind": "database (tracker) of strike and labor protest activity across the United States, with a map",
+   "areas": [
+    "labor-action"
+   ],
+   "evidence_kind": [
+    "event dataset"
+   ],
+   "unit": "a strike or a labor protest; the map counts locations, so a strike at five locations appears five times",
+   "record_object": "strikes (documented from late 2020) and labor protests (from early 2021) in the United States; a member collects data on strike outcomes since August 2025",
+   "record": {
+    "keeps": "the record of strikes and labor protests in the United States, as reported in public sources",
+    "holder": "a university research project (Cornell ILR and Illinois LER), funded at its start by the ILR School and staffed by faculty, graduate and undergraduate research assistants; the spreadsheet version of the data is had by emailing the project director",
+    "losing_side": "not recorded"
+   },
+   "method": "news-derived event coding: information gathered from public sources and entered by hand, following a methodology document of definitions, protocols and variables (unread here); a Report a Strike link takes submissions",
+   "coverage": {
+    "geography": "United States",
+    "period": "strikes from late 2020, labor protests from early 2021; the strike database is most accurate as of 2021"
+   },
+   "count": {
+    "value": "not stated in the saved sources",
+    "as_of": "2026-10-31"
+   },
+   "holdings": [
+    "a database of strike and labor protest activity across the United States",
+    "a map of strike and labor protest locations",
+    "reports (listed in the navigation, unread)"
+   ],
+   "stated_limits": [
+    "'we aim to provide a general understanding of labor protest activity rather than achieve a complete count'",
+    "'our map generates the total number of strike and/or labor protest locations, which is more than the total number of individual strikes and/or protests'",
+    "'Our database of strikes is most accurate as of 2021.'"
+   ],
+   "answers": [
+    "where and when strikes occurred in the United States since 2021, from public reports",
+    "the general pattern of labor protest activity in the United States since early 2021"
+   ],
+   "does_not_answer": [
+    "a complete count of labor protests",
+    "strikes that left no trace in public sources",
+    "the positions, factions or internal disputes inside the unions and workforces that struck"
+   ],
+   "ml_reading": "none stated. The archive reads the tracker as a record of action held by a university outside the unions it counts; it records that a strike happened and keeps nothing of the arguments inside the movement over whether or how to strike.",
+   "data_access": "map and listing on the site; a spreadsheet version of the data on request by email to the project director",
+   "license": "not stated in the saved sources",
+   "lifecycle": {
+    "state": "active",
+    "detail": "originated at the ILR School in late 2020; public on 1 May 2021 as the Cornell ILR Labor Action Tracker; a Cornell ILR and Illinois LER collaboration, rebranded the Labor Action Tracker, since January 2024; current members joined as recently as August 2026"
+   },
+   "founded": "late 2020 (public 1 May 2021)",
+   "version_and_time": {
+    "public_launch": "2021-05-01",
+    "rebrand": "2024-01",
+    "read": "2026-10-31"
+   },
+   "negative_tags": [
+    "NOT a complete count of labor protests: it aims at a general understanding",
+    "NOT a count of strikes on its map: the map counts locations",
+    "NOT official statistics: it is a university project coding public reports",
+    "NOT a record of dissent inside unions"
+   ],
+   "evidence": {
+    "self_description": {
+     "src": "cornell-labor-action-tracker--about",
+     "basis": "operator",
+     "quote": "The Tracker provides a comprehensive database of strike and labor protest activity across the United States to better inform and support labor movement activists, policymakers, and scholars."
+    },
+    "operator": {
+     "src": "cornell-labor-action-tracker--about",
+     "basis": "operator",
+     "quote": "Welcome to the Labor Action Tracker, a collaboration between Cornell University's ILR School and the University of Illinois' LER School."
+    },
+    "director": {
+     "src": "cornell-labor-action-tracker--about",
+     "basis": "operator",
+     "quote": "Johnnie Kallas is an Assistant Professor at the School of Labor and Employment Relations at the University of Illinois."
+    },
+    "founded": {
+     "src": "cornell-labor-action-tracker--about",
+     "basis": "operator",
+     "quote": "Our project originated at the ILR School in late 2020 and went public on May 1, 2021, as the Cornell ILR Labor Action Tracker thanks to generous funding from the ILR School."
+    },
+    "rebrand": {
+     "src": "cornell-labor-action-tracker--about",
+     "basis": "operator",
+     "quote": "In January 2024, the Tracker became a collaborative effort between Cornell ILR and Illinois LER and was rebranded the Labor Action Tracker."
+    },
+    "coverage_period": {
+     "src": "cornell-labor-action-tracker--about",
+     "basis": "operator",
+     "quote": "We began documenting strikes in late-2020 and labor protests in early-2021."
+    },
+    "limit_accuracy": {
+     "src": "cornell-labor-action-tracker--about",
+     "basis": "operator",
+     "quote": "Our database of strikes is most accurate as of 2021."
+    },
+    "confidence": {
+     "src": "cornell-labor-action-tracker--about",
+     "basis": "operator",
+     "quote": "We have a relatively high degree of confidence in our ability to comprehensively capture strike activity."
+    },
+    "limit_protest": {
+     "src": "cornell-labor-action-tracker--about",
+     "basis": "operator",
+     "quote": "Due to the high number of labor protests across the United States, we aim to provide a general understanding of labor protest activity rather than achieve a complete count."
+    },
+    "limit_map": {
+     "src": "cornell-labor-action-tracker--about",
+     "basis": "operator",
+     "quote": "Please note that our map generates the total number of strike and/or labor protest locations, which is more than the total number of individual strikes and/or protests (e.g. a single strike at five locations will appear five times on our map)."
+    },
+    "method": {
+     "src": "cornell-labor-action-tracker--about",
+     "basis": "operator",
+     "quote": "Information we gather is from public sources and manually inputted into our tracker."
+    },
+    "methodology": {
+     "src": "cornell-labor-action-tracker--about",
+     "basis": "operator",
+     "quote": "Please see our methodology document for a more detailed description of our definitions, protocols, and variables."
+    },
+    "data_access": {
+     "src": "cornell-labor-action-tracker--about",
+     "basis": "operator",
+     "quote": "For any questions, or to access a spreadsheet version of our project's data, please email Johnnie Kallas"
+    },
+    "outcomes": {
+     "src": "cornell-labor-action-tracker--about",
+     "basis": "operator",
+     "quote": "She joined the Labor Action Tracker in August 2025, collecting data on strike outcomes."
+    },
+    "recent_member": {
+     "src": "cornell-labor-action-tracker--about",
+     "basis": "operator",
+     "quote": "Adriana Vink (BSILR ’27) has worked on the Labor Action Tracker since August 2026, assisting with finding and classifying protest data."
+    },
+    "inspiration": {
+     "src": "cornell-labor-action-tracker--about",
+     "basis": "operator",
+     "quote": "We also thank the staff of the China Labour Bulletin for inspiring and encouraging us to develop this project."
+    }
+   },
+   "relations": [],
+   "unchecked": [
+    "the home page (saved text is navigation only: About Us, Methodology, Reports, Report a Strike, How to cite)",
+    "the methodology document",
+    "the reports",
+    "the map and its live counts",
+    "the spreadsheet (by email request)"
+   ],
+   "sources": {
+    "cornell-labor-action-tracker--about": {
+     "url": "https://striketracker.ilr.cornell.edu/about.html",
+     "read": "2026-10-31",
+     "sha256": "adc5e7da8e924765075ce392b50ebd637434d243b7f252baa60b51965b0ea043",
+     "http": "200"
+    }
+   },
+   "observed": {
+    "on": "2026-10-31",
+    "fetch": "read"
+   }
+  },
+  {
+   "slug": "crowd-counting-consortium",
+   "name": "Crowd Counting Consortium",
+   "aka": [
+    "CCC",
+    "crowdcounting.org"
+   ],
+   "url": "https://ash.harvard.edu/programs/crowd-counting-consortium/",
+   "operator": "Harvard Kennedy School and the University of Connecticut (joint project), part of the Nonviolent Action Lab at the Ash Center; begun by Jeremy Pressman (UConn) and Erica Chenoweth (HKS)",
+   "kind": "a public interest and scholarly project documenting protests and demonstrations in the United States, publishing an event dataset",
+   "areas": [
+    "labor-action"
+   ],
+   "evidence_kind": [
+    "event dataset"
+   ],
+   "unit": "a political protest event reported in the United States, with crowd numbers",
+   "record_object": "political protest events in the United States from 2017: rallies, marches, demonstrations, riots and acts of civil disobedience; it excludes crowds at meetings, teach-ins, workshops, panels, fundraisers and town halls",
+   "record": {
+    "keeps": "the record of political crowds in the United States: occurrence, themes and scale, as publicly reported or submitted with a verifiable source",
+    "holder": "a university project (Harvard Kennedy School and UConn), funded by foundations and university centres; data published monthly on the Harvard Dataverse",
+    "losing_side": "not recorded. The data are used to study protest, counter-protest and state response; the saved page shows nothing of the positions, splits or dissent inside the movements counted"
+   },
+   "method": "news-derived event coding: publicly available reports of protest events, records submitted by the public and posted only when confirmed by fact-checking, and a collaboration with countlove.org's webcrawler",
+   "coverage": {
+    "geography": "United States",
+    "period": "2017 to the present, in three phases: 2017-2020, 2021-2024, 2025 to the present"
+   },
+   "count": {
+    "value": "not stated as a total in the saved source; a dated subset: nearly 12,400 pro-Palestine and over 2,000 pro-Israel protests recorded from 7 October 2023 to 7 June 2024",
+    "as_of": "2026-10-31 (page read); the subset from the article of 23 October 2024"
+   },
+   "holdings": [
+    "protest event data in three phases, downloadable from the Harvard Dataverse",
+    "Crowd Counting Commentary and analysis pieces",
+    "Israel/Palestine protest dashboards",
+    "more than 600 scholarly citations of the team's articles and essays since 2017"
+   ],
+   "stated_limits": [
+    "'We only post records that we can confirm and verify through fact-checking.'",
+    "'We do not count crowds at meetings, teach-ins or academic workshops, panel discussions, fundraisers, or town halls.'",
+    "'We will never post, release, or share identifying information that has not already been reported in the public domain.'"
+   ],
+   "answers": [
+    "how many protests on a theme occurred in the United States in a period, and where",
+    "the size and spread of named mobilizations (the 2017 Women's March, the 2020 protests after George Floyd's murder, No Kings in 2025)",
+    "whether protests in a wave were broadly nonviolent, as the data record"
+   ],
+   "does_not_answer": [
+    "labor action as such: it counts political crowds of all kinds",
+    "protests that were never publicly reported or verified",
+    "the positions argued inside a movement, or which tendency organized an event"
+   ],
+   "ml_reading": "none stated. The archive reads the dataset as a holder independent of the movements and governments it counts, whose record has been used against prevailing narratives (that the 2020 uprising was violent; that there was 'no resistance' in 2025). It keeps the crowd and leaves the internal argument of the movement unrecorded.",
+   "data_access": "public download from the Harvard Dataverse (dataverse.harvard.edu/dataverse/crowdcountingconsortium/), published monthly; a public submission form",
+   "license": "not stated in the saved source (page footer: © Copyright 2026 The President and Fellows of Harvard College)",
+   "lifecycle": {
+    "state": "active",
+    "detail": "begun with the Women's March of 21 January 2017; expanded to near-real-time information; third phase from 2025 to the present; data published monthly"
+   },
+   "founded": "2017",
+   "version_and_time": {
+    "origin_event": "2017-01-21",
+    "phases": "2017-2020, 2021-2024, 2025-present",
+    "latest_listed_commentary": "2025-08-15",
+    "read": "2026-10-31"
+   },
+   "negative_tags": [
+    "NOT a labor dataset: it records political protest of every kind, and labor action only as part of it",
+    "NOT human subjects research, by the determinations of the University of Denver and UConn",
+    "NOT a record of crowds at meetings, teach-ins or town halls"
+   ],
+   "evidence": {
+    "self_description": {
+     "src": "crowd-counting-consortium--home",
+     "basis": "operator",
+     "quote": "A public interest and scholarly project to document protests and demonstrations in the United States."
+    },
+    "operator": {
+     "src": "crowd-counting-consortium--home",
+     "basis": "operator",
+     "quote": "The Crowd Counting Consortium (CCC) is a joint project of Harvard Kennedy School and the University of Connecticut that collects publicly available data on political protest events reported in the United States, including rallies, marches, demonstrations, and acts of civil disobedience."
+    },
+    "part_of": {
+     "src": "crowd-counting-consortium--home",
+     "basis": "operator",
+     "quote": "Part of Nonviolent Action Lab"
+    },
+    "founded": {
+     "src": "crowd-counting-consortium--home",
+     "basis": "operator",
+     "quote": "The CCC first emerged from a collaborative effort by Jeremy Pressman (UConn) and Erica Chenoweth (HKS) to estimate the number of participants in the Women’s March on Washington (and its affiliated sister marches nationwide) on January 21, 2017."
+    },
+    "expanded": {
+     "src": "crowd-counting-consortium--home",
+     "basis": "operator",
+     "quote": "Since then, the project has expanded to provide near-real-time information on trends in the occurrence, themes, and scale of American protest activity."
+    },
+    "data_access": {
+     "src": "crowd-counting-consortium--home",
+     "basis": "operator",
+     "quote": "CCC data are published monthly on a publicly accessible Dataverse, for use by scholars, journalists, movement leaders, and others."
+    },
+    "phases": {
+     "src": "crowd-counting-consortium--home",
+     "basis": "operator",
+     "quote": "Protest event data from CCC’s three phases — 2017-2020, 2021-2024, and 2025 to the present — can be downloaded from the project’s Dataverse."
+    },
+    "dataverse": {
+     "src": "crowd-counting-consortium--home",
+     "basis": "operator",
+     "quote": "https://dataverse.harvard.edu/dataverse/crowdcountingconsortium/"
+    },
+    "unit": {
+     "src": "crowd-counting-consortium--home",
+     "basis": "operator",
+     "quote": "We collect publicly available data on political crowds reported in the United States, including marches, protests, demonstrations, riots, and other actions."
+    },
+    "limit_excluded": {
+     "src": "crowd-counting-consortium--home",
+     "basis": "operator",
+     "quote": "We do not count crowds at meetings, teach-ins or academic workshops, panel discussions, fundraisers, or town halls."
+    },
+    "limit_verified": {
+     "src": "crowd-counting-consortium--home",
+     "basis": "operator",
+     "quote": "We only post records that we can confirm and verify through fact-checking."
+    },
+    "limit_identity": {
+     "src": "crowd-counting-consortium--home",
+     "basis": "operator",
+     "quote": "We will never post, release, or share identifying information that has not already been reported in the public domain."
+    },
+    "goal": {
+     "src": "crowd-counting-consortium--home",
+     "basis": "operator",
+     "quote": "Our goal is to make the aggregate data on crowd numbers publicly available for each event."
+    },
+    "countlove": {
+     "src": "crowd-counting-consortium--home",
+     "basis": "operator",
+     "quote": "We have collaborated with countlove.org , a volunteer group that developed a webcrawler to identify protests and demonstrations on a daily basis."
+    },
+    "irb": {
+     "src": "crowd-counting-consortium--home",
+     "basis": "operator",
+     "quote": "The University of Denver’s Office of Research Integrity and Education determined that the project does not qualify as human subjects research"
+    },
+    "counter_protest": {
+     "src": "crowd-counting-consortium--home",
+     "basis": "operator",
+     "quote": "Academics routinely turn to the CCC data to study protest, counter-protest, and state response."
+    },
+    "citations": {
+     "src": "crowd-counting-consortium--home",
+     "basis": "operator",
+     "quote": "Articles and essays published by the CCC team since 2017 have collectively garnered more than 600 scholarly citations so far."
+    },
+    "count_subset": {
+     "src": "crowd-counting-consortium--home",
+     "basis": "operator",
+     "quote": "From 7 October 2023 to 7 June 2024, the Crowd Counting Consortium recorded nearly 12,400 pro-Palestine protests and over 2,000 pro-Israel protests in the United States."
+    },
+    "count_subset_date": {
+     "src": "crowd-counting-consortium--home",
+     "basis": "operator",
+     "quote": "Oct 23, 2024"
+    },
+    "no_resistance": {
+     "src": "crowd-counting-consortium--home",
+     "basis": "operator",
+     "quote": "Most recently, the CCC data have been used to rebut the narrative that there is “no resistance” to the second Trump administration."
+    },
+    "peaceful_2020": {
+     "src": "crowd-counting-consortium--home",
+     "basis": "operator",
+     "quote": "CCC data support the claim that the 2020 Black Lives Matter uprising was overwhelmingly peaceful"
+    },
+    "no_kings": {
+     "src": "crowd-counting-consortium--home",
+     "basis": "operator",
+     "quote": "The CCC data also demonstrated that the No Kings protests in June and October of 2025 were among the largest single-day demonstrations in US history."
+    },
+    "latest_commentary": {
+     "src": "crowd-counting-consortium--home",
+     "basis": "operator",
+     "quote": "Aug 15, 2025"
+    },
+    "funding": {
+     "src": "crowd-counting-consortium--home",
+     "basis": "operator",
+     "quote": "Funding is made possible in part by the Freedom Together Foundation, New Venture Fund, Humanity United, the John T. and Catherine D. MacArthur Foundation"
+    },
+    "aka": {
+     "src": "crowd-counting-consortium--home",
+     "basis": "operator",
+     "quote": "Crowd Counting Consortium, crowdcounting.org, accessed September 17, 2021."
+    },
+    "copyright": {
+     "src": "crowd-counting-consortium--home",
+     "basis": "operator",
+     "quote": "© Copyright 2026 The President and Fellows of Harvard College"
+    }
+   },
+   "relations": [],
+   "unchecked": [
+    "the dataset on the Harvard Dataverse and its codebook",
+    "the dataset's licence (not on the saved page)",
+    "the crowdcounting.org site named in the citation form",
+    "the commentary and articles listed on the page"
+   ],
+   "sources": {
+    "crowd-counting-consortium--home": {
+     "url": "https://ash.harvard.edu/programs/crowd-counting-consortium/",
+     "read": "2026-10-31",
+     "sha256": "bd7b38580b7baa3e24d065e1644e44dd4668d76a31eed6edf7784c3345242b72",
+     "http": "200"
+    }
+   },
+   "observed": {
+    "on": "2026-10-31",
+    "fetch": "read"
+   }
+  },
+  {
+   "slug": "unionstats",
+   "name": "Union Membership and Coverage Database",
+   "aka": [
+    "Unionstats.com",
+    "Union Membership, Coverage, and Earnings from the CPS"
+   ],
+   "url": "https://www.unionstats.com/",
+   "operator": "Barry Hirsch (Andrew Young School of Policy Studies, Georgia State University), David Macpherson (Department of Economics, Trinity University) and William Even (Department of Economics, Miami University)",
+   "kind": "an Internet data resource of union membership, coverage and density estimates, published as historical tables",
+   "areas": [
+    "worker-power"
+   ],
+   "evidence_kind": [
+    "survey estimate"
+   ],
+   "unit": "an estimate of union membership, coverage, density and employment (and union and nonunion wages) for a cell: a sector by demographic group, state, metropolitan area, industry or occupation, by year",
+   "record_object": "private and public sector labor union membership, coverage and density in the United States, and union wages, nonunion wages and union wage gaps, compiled from the monthly household Current Population Survey",
+   "record": {
+    "keeps": "the measured extent of union membership and coverage among wage and salary workers surveyed in the CPS",
+    "holder": "three academic economists, who compile and update the tables annually; use of the data requires citation",
+    "losing_side": "not recorded"
+   },
+   "method": "survey microdata: estimates compiled from the monthly household Current Population Survey (CPS) using BLS methods",
+   "coverage": {
+    "geography": "United States: economy-wide, by state, by metropolitan area, by industry and occupation",
+    "period": "economy-wide from 1973; state, industry and occupation from 1983; metropolitan area from 1986; through 2025"
+   },
+   "count": {
+    "value": "not stated as a count of tables or estimates",
+    "as_of": "compilations from the 2025 CPS completed 2026-01-23"
+   },
+   "holdings": [
+    "historical tables of union membership, density and employment by sector and demographic group (1973-2025), by sector and state (1983-2025), by sector and metropolitan area (1986-2025), by industry (1983-2025) and by occupation (1983-2025)",
+    "historical tables of union wages, nonunion wages and union wage gaps by sector and demographic group (headed 1973-2022, its table listed as 1973-2025)",
+    "CPS information and supporting documentation"
+   ],
+   "stated_limits": [
+    "'CPS sample sizes are very small for some cells. Use such estimates cautiously.'"
+   ],
+   "answers": [
+    "what share of workers in a sector, state, metropolitan area, industry, occupation or demographic group were union members or covered by a contract in a year",
+    "how union density has changed since 1973 (economy-wide) or 1983 (by state)",
+    "the union wage gap by sector and demographic group"
+   ],
+   "does_not_answer": [
+    "which unions the members belong to",
+    "strikes or other labor action",
+    "what members think of their unions, or any dissent or division inside them"
+   ],
+   "ml_reading": "none stated. The archive reads the database as the measure of the base a labor organization stands on, held by independent academics outside any union; it counts members and keeps none of their positions.",
+   "data_access": "historical tables on unionstats.com; use of data requires citation (Hirsch, Macpherson and Even 2026); email for support",
+   "license": "not stated as a licence; '© 2026. Use of data requires citation.'",
+   "lifecycle": {
+    "state": "active",
+    "detail": "created in 2002 and updated annually; compilations from the 2025 CPS completed 23 January 2026"
+   },
+   "founded": "2002",
+   "version_and_time": {
+    "latest_compilation": "2026-01-23 (2025 CPS)",
+    "citation_year": "2026",
+    "read": "2026-10-31"
+   },
+   "negative_tags": [
+    "NOT official BLS statistics: it is compiled by academics from the CPS using BLS methods",
+    "NOT reliable for small cells, by its own note",
+    "NOT a record of labor action or of opinion inside unions"
+   ],
+   "evidence": {
+    "self_description": {
+     "src": "unionstats--main",
+     "basis": "operator",
+     "quote": "is an Internet data resource providing private and public sector labor union membership, coverage, and density estimates compiled from the monthly household Current Population Survey (CPS) using BLS methods."
+    },
+    "title": {
+     "src": "unionstats--main",
+     "basis": "operator",
+     "quote": "Documentation for the Union Membership and Coverage Database"
+    },
+    "aka": {
+     "src": "unionstats--main",
+     "basis": "operator",
+     "quote": "Union Membership, Coverage, and Earnings from the CPS"
+    },
+    "coverage_period": {
+     "src": "unionstats--main",
+     "basis": "operator",
+     "quote": "Economy-wide estimates are provided beginning in 1973; estimates by state, detailed industry, and detailed occupation begin in 1983; and estimates by metropolitan area begin in 1986."
+    },
+    "operator": {
+     "src": "unionstats--main",
+     "basis": "operator",
+     "quote": "constructed by Barry Hirsch (Andrew Young School of Policy Studies, Georgia State University), David Macpherson (Department of Economics, Trinity University), and William Even (Department of Economics, Miami University),was created in 2002 and is updated annually."
+    },
+    "latest": {
+     "src": "unionstats--main",
+     "basis": "operator",
+     "quote": "Union data compilations from the 2025 CPS completed January 23, 2026."
+    },
+    "limit_cells": {
+     "src": "unionstats--main",
+     "basis": "operator",
+     "quote": "CPS sample sizes are very small for some cells. Use such estimates cautiously."
+    },
+    "tables_demographic": {
+     "src": "unionstats--contents",
+     "basis": "operator",
+     "quote": "By Sector and Demographic Group: 1973-2025"
+    },
+    "tables_state": {
+     "src": "unionstats--contents",
+     "basis": "operator",
+     "quote": "By Sector and State: 1983-2025"
+    },
+    "tables_metro": {
+     "src": "unionstats--contents",
+     "basis": "operator",
+     "quote": "By Sector and Metropolitan Area: 1986-2025"
+    },
+    "tables_industry": {
+     "src": "unionstats--contents",
+     "basis": "operator",
+     "quote": "By Industry: 1983-2025"
+    },
+    "tables_occupation": {
+     "src": "unionstats--contents",
+     "basis": "operator",
+     "quote": "By Occupation: 1983-2025"
+    },
+    "tables_membership": {
+     "src": "unionstats--contents",
+     "basis": "operator",
+     "quote": "I. Historical Tables: Union Membership, Density and Employment"
+    },
+    "tables_wages": {
+     "src": "unionstats--contents",
+     "basis": "operator",
+     "quote": "II. Historical Tables: Union Wages, Nonunion Wages, and Union Wage Gaps, 1973-2022"
+    },
+    "documentation": {
+     "src": "unionstats--contents",
+     "basis": "operator",
+     "quote": "III. CPS Information and Supporting Documentation."
+    },
+    "citation_required": {
+     "src": "unionstats--contents",
+     "basis": "operator",
+     "quote": "Use of data requires citation."
+    },
+    "citation": {
+     "src": "unionstats--contents",
+     "basis": "operator",
+     "quote": "Hirsch, Barry T., David A. Macpherson, and William E. Even (2026). Union Membership, Coverage, and Earnings from the CPS."
+    },
+    "support": {
+     "src": "unionstats--contents",
+     "basis": "operator",
+     "quote": "Email for support or questions"
+    }
+   },
+   "relations": [],
+   "unchecked": [
+    "the home page itself (a frameset with almost no text; its content is in the two frames read here)",
+    "the historical tables and their figures",
+    "the CPS information and supporting documentation pages",
+    "the definitions of membership and coverage used (not in the saved frames)"
+   ],
+   "sources": {
+    "unionstats--main": {
+     "url": "https://www.unionstats.com/main.htm",
+     "read": "2026-10-31",
+     "sha256": "964e3fe9de60a600ea367894f9574270fe058abd7ff346e79e2767a5c454bb69",
+     "http": "200"
+    },
+    "unionstats--contents": {
+     "url": "https://www.unionstats.com/contents.htm",
+     "read": "2026-10-31",
+     "sha256": "955afb6134469f6d759ddb89197357a6390e2b2f1e1c053f049e2b550faa193c",
+     "http": "200"
+    }
+   },
+   "observed": {
+    "on": "2026-10-31",
+    "fetch": "read"
+   }
+  },
+  {
+   "slug": "gnad",
+   "name": "Global Nonviolent Action Database",
+   "aka": [
+    "GNAD",
+    "nvdatabase.swarthmore.edu"
+   ],
+   "url": "https://nvdatabase.swarthmore.edu/",
+   "operator": "Swarthmore College, including the Peace and Conflict Studies Program, the Peace Collection, and the Lang Center for Civic and Social Responsibility",
+   "kind": "database of case studies of nonviolent action campaigns, browsable by case, tag, method and map",
+   "areas": [
+    "labor-action"
+   ],
+   "evidence_kind": [
+    "case record"
+   ],
+   "unit": "a case: a nonviolent action campaign (a menu page is titled 'Campaigns, Not Movements'), linked to the methods it used",
+   "record_object": "nonviolent action campaigns across 100+ countries and 400+ years; featured cases include a labor strike (Guatemalan workers at Lunafil), a student sit-in against sweatshop apparel (Macalester, 2000) and a transgender activists' campaign on Philadelphia public transit",
+   "record": {
+    "keeps": "the record of nonviolent campaigns, written up as cases",
+    "holder": "Swarthmore College; licensed CC BY-NC-ND 4.0 unless otherwise noted; the public can suggest a case",
+    "losing_side": "not recorded. A 'Limitations of the Database' page and coding definitions are listed and were not read; the saved pages do not show whether failed campaigns or splits inside campaigns are recorded"
+   },
+   "method": "written case studies coded against definitions (a Coding Definitions page, unread); the public can suggest a case; how cases are researched and written is not recorded in the saved text",
+   "coverage": {
+    "geography": "100+ countries",
+    "period": "400+ years"
+   },
+   "count": {
+    "value": "1,200+ cases",
+    "as_of": "2026-10-31 (home page read)"
+   },
+   "holdings": [
+    "1,200+ cases",
+    "100+ countries",
+    "400+ years covered",
+    "a browse of methods of nonviolent action",
+    "a map of campaigns"
+   ],
+   "stated_limits": [
+    "a page titled 'Limitations of the Database' is listed in the navigation; its text was not read"
+   ],
+   "answers": [
+    "how a named nonviolent campaign was conducted, as the case writes it up",
+    "which campaigns used a given method, through the methods browse"
+   ],
+   "does_not_answer": [
+    "the frequency of nonviolent action in any country or period (the cases are written up one by one)",
+    "strikes or campaigns that have no case",
+    "the positions argued inside a campaign (not shown in the saved pages)"
+   ],
+   "ml_reading": "none stated. The archive reads the case as the unit that carries a campaign's course in prose, which an event count does not; whether a case keeps a defeated tactic or a split inside the campaign is not shown in the saved pages.",
+   "data_access": "public browse and search of cases, tags, methods and map; registered users can log in",
+   "license": "Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International, unless otherwise noted",
+   "lifecycle": {
+    "state": "active",
+    "detail": "the site answered on 2026-10-31 and takes case suggestions; update dates are not recorded in the saved text"
+   },
+   "version_and_time": {
+    "read": "2026-10-31"
+   },
+   "negative_tags": [
+    "NOT a labor dataset: labor cases are one part of a database of nonviolent action of every kind",
+    "NOT a database of movements: its unit is the campaign",
+    "NOT an event count"
+   ],
+   "evidence": {
+    "operator": {
+     "src": "gnad--home",
+     "basis": "operator",
+     "quote": "The Global Nonviolent Action Database is a project of Swarthmore College, including the Peace and Conflict Studies Program, the Peace Collection, and the Lang Center for Civic and Social Responsibility."
+    },
+    "license": {
+     "src": "gnad--home",
+     "basis": "operator",
+     "quote": "The Global Nonviolent Action Database is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International license unless otherwise noted."
+    },
+    "tagline": {
+     "src": "gnad--home",
+     "basis": "operator",
+     "quote": "Powering Learning about Nonviolent Action"
+    },
+    "count_cases": {
+     "src": "gnad--home",
+     "basis": "operator",
+     "quote": "1,200+ cases"
+    },
+    "count_countries": {
+     "src": "gnad--home",
+     "basis": "operator",
+     "quote": "100+ countries"
+    },
+    "count_years": {
+     "src": "gnad--home",
+     "basis": "operator",
+     "quote": "400+ years covered"
+    },
+    "unit": {
+     "src": "gnad--home",
+     "basis": "operator",
+     "quote": "Campaigns, Not Movements"
+    },
+    "limits_page": {
+     "src": "gnad--home",
+     "basis": "operator",
+     "quote": "Limitations of the Database"
+    },
+    "coding": {
+     "src": "gnad--home",
+     "basis": "operator",
+     "quote": "Coding Definitions"
+    },
+    "suggest": {
+     "src": "gnad--home",
+     "basis": "operator",
+     "quote": "Suggest a Case"
+    },
+    "methods": {
+     "src": "gnad--home",
+     "basis": "operator",
+     "quote": "Browse Methods"
+    },
+    "map": {
+     "src": "gnad--home",
+     "basis": "operator",
+     "quote": "View Campaigns on the Map"
+    },
+    "labor_case": {
+     "src": "gnad--home",
+     "basis": "operator",
+     "quote": "Guatemalan workers at Lunafil strike"
+    },
+    "case_sweatshop": {
+     "src": "gnad--home",
+     "basis": "operator",
+     "quote": "Macalester students stage sit-in to oppose sweatshop apparel, 2000"
+    },
+    "case_transit": {
+     "src": "gnad--home",
+     "basis": "operator",
+     "quote": "Transgender activists end policy of gender markers on Philadelphia public transit"
+    },
+    "login": {
+     "src": "gnad--home",
+     "basis": "operator",
+     "quote": "Registered users can login to the website."
+    }
+   },
+   "relations": [],
+   "unchecked": [
+    "the About page (content/about: connection reset, nothing saved)",
+    "the /about address (http 404; its saved text is the site's not-found page and is not quoted)",
+    "the Limitations of the Database, Coding Definitions, Campaigns, Not Movements and Who Made the Database? pages",
+    "the cases themselves",
+    "how many cases concern labor"
+   ],
+   "sources": {
+    "gnad--home": {
+     "url": "https://nvdatabase.swarthmore.edu/",
+     "read": "2026-10-31",
+     "sha256": "c4ecffa2e4ca662a6b1cd3a7674507e09f99e24c0ab5a0636b2cf131736325a9",
+     "http": "200"
+    }
+   },
+   "observed": {
+    "on": "2026-10-31",
+    "fetch": "read"
+   }
+  },
+  {
+   "slug": "labor-notes",
+   "name": "Labor Notes",
+   "aka": [
+    "Labor Education and Research Project"
+   ],
+   "url": "https://labornotes.org/",
+   "operator": "Labor Notes; the site footer names the Labor Education and Research Project as copyright holder",
+   "kind": "a media and organizing project: monthly magazine, website, books, conferences and workshops, and a network of rank-and-file members, local union leaders and labor activists",
+   "areas": [
+    "movement-documents",
+    "worker-power",
+    "labor-action"
+   ],
+   "evidence_kind": [
+    "periodical run",
+    "organizing resource"
+   ],
+   "unit": "an article in the magazine or on the website; also a book or pamphlet, a conference, a Troublemakers School",
+   "record_object": "union and workplace struggles from the side of union activists and rank-and-file members: organizing tactics, contract campaigns, strikes, fights over union democracy, and workers' struggles abroad, since 1979",
+   "record": {
+    "keeps": "the voice of union activists and rank-and-file members, including their critique of union leaderships",
+    "holder": "Labor Notes as an independent publication, supported by subscriptions, book sales and tax-deductible donations; reprints welcome with credit to author and Labor Notes",
+    "losing_side": "kept as its sources show: an independent publication that states it is 'free to include the voices who say we could be doing better', whose about page criticizes union leaders ('doing a poor job of navigating us through the crisis'), and whose current stories report members contesting their own locals ('Members Alarmed by End-Run around Democracy at Buffalo Health Care Local'; 'UFCW Members Protect Local Election After Sham Merger Attempt'). Whether it keeps the record of positions after they lose is not shown in the saved pages"
+   },
+   "method": "reporting and writing by staff and contributing writers (writer guidelines, unread); books and pamphlets; biennial national conferences; Troublemakers Schools organized with local unions and community groups",
+   "coverage": {
+    "geography": "United States mainly, with workers' struggles abroad; about a tenth of conference attendees from other countries",
+    "period": "1979 to the present"
+   },
+   "count": {
+    "value": "not stated as a count of articles or issues; it states tens of thousands of strategy manuals sold and hundreds of monthly donors",
+    "as_of": "2026-10-31"
+   },
+   "holdings": [
+    "the monthly magazine Labor Notes (subscription $30 for 11 issues)",
+    "articles online",
+    "books and pamphlets including A Troublemaker's Handbook 2, Democracy Is Power, Secrets of a Successful Organizer and How to Jump-Start Your Union",
+    "Robert M. Schwartz's Work Rights Press books",
+    "a national conference every two years",
+    "a podcast and the Troublemakers Blog",
+    "an Archives link in the footer (unread)"
+   ],
+   "stated_limits": [
+    "none stated in the saved pages"
+   ],
+   "answers": [
+    "how union activists and rank-and-file members describe a named campaign, strike or fight over union democracy",
+    "what tactics and strategies the rank-and-file current around Labor Notes recommends"
+   ],
+   "does_not_answer": [
+    "counts of strikes, members or campaigns",
+    "the account given by the union leaderships it criticizes, except as its stories report them",
+    "what became of a dissenting position after it lost (not shown in the saved pages)"
+   ],
+   "ml_reading": "The archive reads Labor Notes as an organ independent of the union executives it criticizes, of the kind #1725 finds holding critique: a publication, a network and a conference through which a rank-and-file position keeps being stated and can be taken up later. In its own terms it exists to 'put the movement back in the labor movement' and promotes 'unions that are run by their members'.",
+   "data_access": "articles free online; magazine by subscription; books in the store; an archives section (unread)",
+   "license": "not stated as a licence; the reprint policy asks credit to the author and Labor Notes and, online, a link to the original story",
+   "lifecycle": {
+    "state": "active",
+    "detail": "publishing since 1979; stories dated to 29 October 2026 on the home page; the about page still announces the June 12-14, 2026 Chicago conference as 'next', so that page is not current; the footer copyright reads 2005-2023"
+   },
+   "founded": "1979",
+   "version_and_time": {
+    "latest_story": "2026-10-29",
+    "about_page_conference": "2026-06-12 to 2026-06-14 (announced as next)",
+    "footer_copyright": "2005-2023",
+    "read": "2026-10-31"
+   },
+   "negative_tags": [
+    "NOT a union: a media and organizing project and network",
+    "NOT a neutral record of labor: it states a position for member-run unions and against business-as-usual leadership",
+    "NOT a strike dataset"
+   ],
+   "evidence": {
+    "self_description": {
+     "src": "labor-notes--about",
+     "basis": "operator",
+     "quote": "Labor Notes is a media and organizing project that has been the voice of union activists who want to put the movement back in the labor movement since 1979."
+    },
+    "what_we_promote": {
+     "src": "labor-notes--about",
+     "basis": "operator",
+     "quote": "Through our magazine, website, books, conferences, and workshops, we promote organizing, aggressive strategies to take on employers, labor-community solidarity, and unions that are run by their members."
+    },
+    "network": {
+     "src": "labor-notes--about",
+     "basis": "operator",
+     "quote": "Labor Notes is also a network of rank-and-file members, local union leaders, and labor activists who know the labor movement is worth fighting for."
+    },
+    "critique_leaders": {
+     "src": "labor-notes--about",
+     "basis": "operator",
+     "quote": "For the most part, our leaders are doing a poor job of navigating us through the crisis."
+    },
+    "critique_unions": {
+     "src": "labor-notes--about",
+     "basis": "operator",
+     "quote": "Some can’t get beyond business-as-usual; others see the need to organize by the millions, but don't believe that workers themselves need to have a say in their unions."
+    },
+    "years": {
+     "src": "labor-notes--about",
+     "basis": "operator",
+     "quote": "With 45 years of movement building behind us"
+    },
+    "magazine": {
+     "src": "labor-notes--about",
+     "basis": "operator",
+     "quote": "Labor Notes is best known for our monthly magazine of the same name."
+    },
+    "independent": {
+     "src": "labor-notes--about",
+     "basis": "operator",
+     "quote": "And as an independent publication, we’re free to include the voices who say we could be doing better—and tell how."
+    },
+    "workers_view": {
+     "src": "labor-notes--about",
+     "basis": "operator",
+     "quote": "We report news about workers that the mainstream media doesn't find worth printing—from workers’ point of view."
+    },
+    "abroad": {
+     "src": "labor-notes--about",
+     "basis": "operator",
+     "quote": "You'll read sometimes shocking stories of workers’ struggles abroad, and inspiring stories of solidarity."
+    },
+    "online": {
+     "src": "labor-notes--about",
+     "basis": "operator",
+     "quote": "Articles are available online, along with subscription information ."
+    },
+    "books": {
+     "src": "labor-notes--about",
+     "basis": "operator",
+     "quote": "They include best-sellers like A Troublemaker's Handbook 2 and Democracy Is Power , as well as our newest books Secrets of a Successful Organizer and How to Jump-Start Your Union: Lessons from the Chicago Teachers ."
+    },
+    "manuals_sold": {
+     "src": "labor-notes--about",
+     "basis": "operator",
+     "quote": "Over the years we’ve sold tens of thousands of these strategy manuals"
+    },
+    "work_rights_press": {
+     "src": "labor-notes--about",
+     "basis": "operator",
+     "quote": "We are now also the publisher of Robert M. Schwartz’s Work Rights Press books"
+    },
+    "conference": {
+     "src": "labor-notes--about",
+     "basis": "operator",
+     "quote": "Every two years Labor Notes holds a national conference that attracts thousands of activists, about a tenth of them from other countries."
+    },
+    "conference_next": {
+     "src": "labor-notes--about",
+     "basis": "operator",
+     "quote": "Our next conference is scheduled to take place from June 12-14, 2026, in Chicago, Illinois."
+    },
+    "schools": {
+     "src": "labor-notes--about",
+     "basis": "operator",
+     "quote": "Labor Notes works with local unions and community groups to organize Troublemakers Schools"
+    },
+    "donors": {
+     "src": "labor-notes--about",
+     "basis": "operator",
+     "quote": "Hundreds of Labor Notes supporters have signed up as monthly donors."
+    },
+    "donation": {
+     "src": "labor-notes--about",
+     "basis": "operator",
+     "quote": "Please help us out with a tax-deductible donation !"
+    },
+    "reprint": {
+     "src": "labor-notes--about",
+     "basis": "operator",
+     "quote": "We are always happy to see Labor Notes stories reprinted. We just ask that you credit both the author and Labor Notes, and if the reprint will be online, include a link to the original story on our site."
+    },
+    "subscription": {
+     "src": "labor-notes--about",
+     "basis": "operator",
+     "quote": "Labor news from labor's point of view. $30 for 11 issues."
+    },
+    "story_democracy": {
+     "src": "labor-notes--home",
+     "basis": "operator",
+     "quote": "Members Alarmed by End-Run around Democracy at Buffalo Health Care Local"
+    },
+    "story_democracy_date": {
+     "src": "labor-notes--home",
+     "basis": "operator",
+     "quote": "October 29, 2026 / Sarah Hughes"
+    },
+    "story_ufcw": {
+     "src": "labor-notes--home",
+     "basis": "operator",
+     "quote": "UFCW Members Protect Local Election After Sham Merger Attempt"
+    },
+    "story_strike": {
+     "src": "labor-notes--home",
+     "basis": "operator",
+     "quote": "State Workers Strike Across California"
+    },
+    "operator": {
+     "src": "labor-notes--home",
+     "basis": "operator",
+     "quote": "Labor Education and Research Project © 2005-2023."
+    }
+   },
+   "relations": [],
+   "unchecked": [
+    "the Archives section (footer link)",
+    "the staff and board page",
+    "the writer guidelines",
+    "the articles themselves",
+    "the Resources and Podcast pages"
+   ],
+   "sources": {
+    "labor-notes--about": {
+     "url": "https://labornotes.org/about",
+     "read": "2026-10-31",
+     "sha256": "321d1dc3289118f7aafee8a34d0b7e72ef4627a4f894f4105af0c54a9f0ad620",
+     "http": "200"
+    },
+    "labor-notes--home": {
+     "url": "https://labornotes.org/",
+     "read": "2026-10-31",
+     "sha256": "ccc7ce712d6e262a44cbf009ae43320ef78a274952b0855ab9afce86e5597949",
+     "http": "200"
+    }
+   },
+   "observed": {
+    "on": "2026-10-31",
+    "fetch": "read"
+   }
+  },
+  {
+   "slug": "labor-vector",
+   "name": "Labor Vector",
+   "aka": [
+    "laborvector.org",
+    "Labor and AI: the meta-aggregator",
+    "Directionality of Semantic Labor (DSL)"
+   ],
+   "url": "https://www.laborvector.org/",
+   "operator": "Lee Sharks (Semantic Economy Institute / Crimson Hexagonal Archive), the editor of this census",
+   "kind": "the canonical definition surface for Directionality of Semantic Labor and the interoperable metric program, carrying a meta-aggregator on labor and AI (a census of 15 resources)",
+   "areas": [
+    "meta-aggregation",
+    "worker-power"
+   ],
+   "evidence_kind": [
+    "census of resources"
+   ],
+   "unit": "in the meta-aggregator: a resource that observes an intersection of labor and AI, formalized as an entity and tagged by intersection and kind of evidence; on the home page: a DSL reading of a transcript",
+   "record_object": "resources that observe the intersections of labor and AI, from data workers' own inquiries and contract inventories to employment trackers and records of how people use AI systems, read for who supplies the labor, who directs it and who receives its gains, and on what evidence",
+   "record": {
+    "keeps": "the census's records of 15 labor-and-AI resources (Data Workers' Inquiry, Turkopticon, Fairwork Cloudwork Ratings, Negotiating Tech, the ILO platform policy tracker and others), each with its own unit, operator and evidence kind",
+    "holder": "Lee Sharks, under CC BY 4.0; the census is published as data (census.json and questions.json) with every saved source",
+    "losing_side": "not recorded: its organizing question is who supplies, directs and receives the gains of labor, and each record states what its resource cannot answer"
+   },
+   "method": "a census compiled from saved sources, each resource formalized as an entity and read against one question; worked questions name the resources that hold the evidence and what none of them records",
+   "coverage": {
+    "geography": "not stated as a scope; the resources range from global trackers to U.S. contract inventories",
+    "period": "compiled 2026-10-29"
+   },
+   "count": {
+    "value": "15 resources across five intersections",
+    "as_of": "2026-10-29"
+   },
+   "holdings": [
+    "15 resource records across five intersections (labor producing AI, AI governing labor, labor performed with AI, gains and losses, worker power) and twelve kinds of evidence",
+    "worked questions with the resources that answer them and what none of them records",
+    "the DSL metric and its interoperable program on the home page"
+   ],
+   "stated_limits": [
+    "'A record states only what its resource measures or reports.'",
+    "'No record in the census measures the distribution of productivity gains between workers, employers, platforms and model providers.'"
+   ],
+   "answers": [
+    "which labor-and-AI resources hold which kind of evidence (exposure estimate, employment outcome, worker testimony, negotiated provision and the rest)",
+    "which resources record organizing and negotiated protections (its worker power intersection)"
+   ],
+   "does_not_answer": [
+    "how a left organization holds or loses internal critique",
+    "the record of left movements, parties or strikes outside labor and AI"
+   ],
+   "ml_reading": "none stated. The operator named it as a possible aggregator source for this page; the archive reads its worker power intersection (organizing, refusal, contestation, enforceable protections) as where it meets the left census. It shares this census's editor, so it is no independent holder in #1725's sense.",
+   "data_access": "public pages; the census as data (census.json, questions.json) with saved sources",
+   "license": "CC BY 4.0",
+   "lifecycle": {
+    "state": "active",
+    "detail": "the DSL surface deposit #771; the meta-aggregator compiled 2026-10-29 with 15 resources"
+   },
+   "founded": "2026 (DSL defined by Lee Sharks)",
+   "version_and_time": {
+    "meta_aggregator_compiled": "2026-10-29",
+    "home_surface_observed_at": "2026-08-15",
+    "read": "2026-10-31"
+   },
+   "negative_tags": [
+    "NOT labor economics: its page reads 'DSL measures semantic, not wage, labor'",
+    "NOT a census of left politics: its census covers labor and AI",
+    "NOT independent of this census: it has the same editor"
+   ],
+   "evidence": {
+    "kind": {
+     "src": "labor-vector--home",
+     "basis": "operator",
+     "quote": "Labor Vector · laborvector.org — canonical definition surface for Directionality of Semantic Labor and the interoperable metric program."
+    },
+    "operator": {
+     "src": "labor-vector--home",
+     "basis": "operator",
+     "quote": "Defined by Lee Sharks (2026) · ORCID · Semantic Economy Institute / Crimson Hexagonal Archive"
+    },
+    "license": {
+     "src": "labor-vector--home",
+     "basis": "operator",
+     "quote": "© Lee Sharks 2026 · CC BY 4.0 · ORCID 0009-0000-1599-0703"
+    },
+    "distinct": {
+     "src": "labor-vector--home",
+     "basis": "operator",
+     "quote": "Distinct from: labor economics (DSL measures semantic, not wage, labor)"
+    },
+    "deposit": {
+     "src": "labor-vector--home",
+     "basis": "operator",
+     "quote": "laborvector.org deposit #771"
+    },
+    "observed": {
+     "src": "labor-vector--home",
+     "basis": "operator",
+     "quote": "surface_observed_at: 2026-08-15T09:40:32Z"
+    },
+    "aggregator_home": {
+     "src": "labor-vector--home",
+     "basis": "operator",
+     "quote": "15 resources across five intersections, compiled 2026-10-29."
+    },
+    "record_object": {
+     "src": "labor-vector--aggregators",
+     "basis": "operator",
+     "quote": "The resources that observe the intersections of labor and AI, from data workers' own inquiries and contract inventories to employment trackers and records of how people use AI systems, each formalized as an entity."
+    },
+    "question": {
+     "src": "labor-vector--aggregators",
+     "basis": "operator",
+     "quote": "Every record answers one question: who supplies the labor, who directs it, and who receives its gains — and what kind of evidence does this resource bring to that question?"
+    },
+    "count": {
+     "src": "labor-vector--aggregators",
+     "basis": "operator",
+     "quote": "15 resources, compiled 2026-10-29."
+    },
+    "worker_power": {
+     "src": "labor-vector--aggregators",
+     "basis": "operator",
+     "quote": "Worker power : bargaining, organizing, consent, refusal, contestation and enforceable protections"
+    },
+    "limit_record": {
+     "src": "labor-vector--aggregators",
+     "basis": "operator",
+     "quote": "A record states only what its resource measures or reports."
+    },
+    "limit_gains": {
+     "src": "labor-vector--aggregators",
+     "basis": "operator",
+     "quote": "No record in the census measures the distribution of productivity gains between workers, employers, platforms and model providers."
+    },
+    "data": {
+     "src": "labor-vector--aggregators",
+     "basis": "operator",
+     "quote": "The census as data: census.json and questions.json , with every saved source in data/labor-census/sources ."
+    },
+    "intersections": {
+     "src": "labor-vector--aggregators",
+     "basis": "operator",
+     "quote": "Five intersections Labor producing AI"
+    }
+   },
+   "relations": [],
+   "unchecked": [
+    "census.json and questions.json themselves (not among the saved sources)",
+    "the Questions and Captures pages"
+   ],
+   "sources": {
+    "labor-vector--home": {
+     "url": "https://www.laborvector.org/",
+     "read": "2026-10-31",
+     "sha256": "68b21e12c0668d46669ae3c7b8bd2f50b7a743af1ae260b91b92e7c4960af3f5",
+     "http": "200"
+    },
+    "labor-vector--aggregators": {
+     "url": "https://www.laborvector.org/aggregators/",
+     "read": "2026-10-31",
+     "sha256": "912d0e8aafbf93ba20b187aa685c803e7bb87b6368926258f210fef53d9ae104",
+     "http": "200"
+    }
+   },
+   "observed": {
+    "on": "2026-10-31",
+    "fetch": "read"
+   }
+  }
+ ]
+}

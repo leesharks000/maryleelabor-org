@@ -1,0 +1,70 @@
+I 
+
+ Amy Kluttz 
+ Barry Hirsch 
+ 3 
+ 4 
+ 2001-05-14T13:35:00Z 
+ 2009-11-12T15:20:00Z 
+ 1 
+ 349 
+ 9432 
+ Trinity University 
+ 78 
+ 19 
+ 9762 
+ 12.00 
+
+ Clean 
+ Clean 
+
+ false 
+ false 
+ false 
+
+ EN-US 
+ X-NONE 
+ X-NONE 
+
+ MicrosoftInternetExplorer4 
+
+ U nion Membership and Coverage Database from the CPS ( Unionstats.com ) 
+
+ Barry Hirsch , Georgia 
+State University 
+ David Macpherson , Trinity 
+University 
+ William Even , Miami 
+University 
+ Email for support or questions 
+
+ I.  Historical Tables: Union Membership, 
+ Density and Employment
+
+ By Sector 
+ and Demographic Group: 1973-2025 
+
+ By Sector and 
+ State: 1983-2025 
+
+ By Sector and 
+ Metropolitan Area: 1986-2025 
+
+ By Industry: 1983-2025 
+
+ By Occupation: 
+ 1983-2025 
+
+ II. Historical Tables: Union Wages, Nonunion Wages, and Union Wage Gaps, 1973-2022
+
+ By Sector and 
+ Demographic Group: 1973-2025 
+
+ III.  CPS Information and 
+Supporting Documentation.  
+
+ � 2026.  Use of data requires citation. 
+
+ Hirsch, Barry T., David A. Macpherson, and William E. 
+Even (2026).  Union Membership, Coverage, and Earnings from the CPS.   
+ https://unionstats.com

@@ -1,0 +1,61 @@
+Documentation for the Union Membership and Coverage Database 
+
+ Amy Kluttz 
+ Normal 
+ Barry Hirsch 
+ 39 
+ 76 
+ 2002-08-13T13:48:00Z 
+ 2009-11-12T15:22:00Z 
+ 1 
+ 343 
+ 3289 
+ Trinity University 
+ 27 
+ 7 
+ 3625 
+ 12.00 
+
+ 125 
+ Clean 
+ Clean 
+
+ false 
+ false 
+ false 
+
+ EN-US 
+ X-NONE 
+ X-NONE 
+
+ MicrosoftInternetExplorer4 
+
+ Union Membership, Coverage, and Earnings from the CPS 
+
+ Union data 
+compilations from the 2025 CPS completed January 23, 2026. 
+
+ The 
+
+ Union Membership and Coverage Database , 
+ available at 
+ www.unionstats.com , 
+is an Internet data resource providing private and public sector labor union membership, 
+coverage, and density estimates compiled from the monthly household Current Population Survey 
+(CPS) using BLS methods. � 
+ Economy-wide estimates are provided beginning 
+in 1973; estimates by state, detailed industry, and detailed occupation begin 
+in 1983; and estimates by metropolitan area begin in 1986. � 
+ The Database , 
+ constructed 
+by Barry Hirsch 
+ (Andrew Young School of Policy Studies, Georgia State 
+University), 
+ David Macpherson 
+ (Department 
+of Economics, Trinity University), and William Even 
+ (Department of Economics, Miami  University),was created in 2002 and is updated annually.
+
+   Note: 
+CPS sample sizes are very small for some cells.  Use 
+such estimates cautiously.
