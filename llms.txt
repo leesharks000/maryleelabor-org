@@ -48,6 +48,10 @@ leesharks.com          the orthonym wing
 machinemediation.org   the capture registry — the record of failed completions
 provenanceerasure.org  the metric — attribution loss under compression
 
+## Ils ne sont pas marxistes (#1725)
+
+Ils ne sont pas marxistes: r/LeftistsForAI, Marx's Legacy, and the Left's Lost Capacity for Internal Critique (Lee Sharks, 2026-10-31; AXN:0B50, https://www.alexanarch.org/s/records/1725/). Full text: https://www.maryleelabor.org/archive/ils-ne-sont-pas-marxistes.md
+
 ## Left politics and labor: a meta-aggregator
 
 A census of archives, editions, trackers and organizing records of left politics and labor, one of the Meta-Aggregators of the Crimson Hexagon. Its question, from Ils ne sont pas marxistes (#1725, AXN:0B50, https://www.alexanarch.org/s/records/1725/): whose record does it keep, who holds it, and does it keep the losing side in a form that could be taken up later? Index: https://www.maryleelabor.org/aggregators/ · data: https://www.maryleelabor.org/aggregators/census.json
