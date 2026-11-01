@@ -11,6 +11,10 @@ with contextlib.redirect_stdout(io.StringIO()):
 D = json.load(open(ROOT / "data/left-census/census.json", encoding="utf-8")); ROWS = D["rows"]; BY = {r["slug"]: r for r in ROWS}
 SITE = "https://www.maryleelabor.org"; BASE = SITE + "/aggregators/"
 OUT = ROOT / "aggregators"
+HERE = pathlib.Path(__file__).resolve().parent
+NONROWS = pathlib.Path("/home/claude/fleet/alexanarch/datasets/negative-of-the-negative/v2/rows")
+import runpy as _rp
+ARTICLES = _rp.run_path(str(HERE / "articles.py"))["ARTICLES"] if (HERE / "articles.py").exists() else {}   # entity articles derived from the /non articles (operator, 2026-11-01)
 e = lambda s: html.escape(str(s if s is not None else ""), quote=True)
 AREAS = D["areas"]
 SHORT = {"texts-of-the-tradition": "Texts of the tradition", "movement-documents": "Movement documents", "archives-and-custody": "Archives and custody",
@@ -37,6 +41,8 @@ CSS = """<style>
 .agg .neg li{color:#7a2a17}
 .agg input[type=search]{width:100%;padding:.5em;border:1px solid #ccc;border-radius:4px;font:inherit;margin:.5em 0 1em}
 .agg a{overflow-wrap:anywhere}
+.agg .kernel{font-family:'Playfair Display',Georgia,serif;font-size:1.2em;line-height:1.5;margin:.6em 0 1em}
+.agg .art p{line-height:1.7;margin:.6em 0 .2em}.agg .art .d{font-size:.8em;color:#666;margin:0 0 .8em}
 </style>"""
 
 
@@ -49,11 +55,44 @@ def chips(r):
     return "".join(f'<span class="chip">{e(SHORT.get(a, a))}</span>' for a in r["areas"]) + f'<span class="chip {c}">{e(st)}</span>'
 
 
+def nonrow(r):
+    a = ARTICLES.get(r["slug"]); return (a or {}).get("non_row") or r["slug"]
+
+
+def kernel(r):
+    a = ARTICLES.get(r["slug"]); return a["kernel"] if a else ""
+
+
+def article_html(r):
+    a = ARTICLES.get(r["slug"])
+    if not a:
+        return ""
+    row = nonrow(r); nb = f"https://www.alexanarch.org/non/{row}/"
+    src = lambda ko: ('<p class="d">From its /non article, sentence' + ("s " if len(ko) > 1 else " ")
+                      + ", ".join(f'<a href="{nb}#{row}-ks{n}">{n}</a>' for n in ko) + "</p>")
+    body = "".join(f"<h2>{e(h)}</h2>" + "".join(f"<p>{e(p)}</p>{src(k)}" for p, k in zip(ps, ks)) for (h, ps), ks in zip(a["sections"], a["ko"]))
+    return (f'<div class="art">{body}<p class="d">This article is derived from the entity\'s <a href="{nb}">/non article</a> (EA-NEGONT-02, the knowledge object '
+            f'composed under v0.9): every fact in it is stated there, and each paragraph names the sentences it rests on.</p></div>')
+
+
+def reception(r):
+    p = NONROWS / f"{nonrow(r)}.json"
+    if not p.exists():
+        return ""
+    row = json.load(open(p, encoding="utf-8")); nb = f"https://www.alexanarch.org/non/{nonrow(r)}/"
+    surf = lambda slug: "Google AI Mode" if "-aimode-" in slug else ("ChatGPT" if "-chatgpt-" in slug else "Google AI Overview")
+    caps = "".join(f'<li><a href="https://www.alexanarch.org/captures/{e(a["slug"])}/">«{e(a["address"])}» on {surf(a["slug"])}, {e(a["slug"][-8:-4])}-{e(a["slug"][-4:-2])}-{e(a["slug"][-2:])}</a>'
+                   f'<div class="src">the composition layer\'s account of the entity at its name, seated in the Capture Registry ({e(a.get("axn", "").split(".")[0])})</div></li>'
+                   for a in row.get("addresses") or [])
+    return (f'<h2>Captures: the composition layer\'s account</h2><ul>{caps}</ul>' if caps else "") + \
+           f'<h2>The /non row</h2><ul><li><a href="{nb}">its /non article (EA-NEGONT-02 v0.9, equal case)</a></li></ul>'
+
+
 def card(r):
     ls = (r.get("record") or {}).get("losing_side", "")
     return (f'<div class="card" data-s="{e((r["name"] + " " + " ".join(r.get("aka") or []) + " " + r["kind"]).lower())}">'
             f'<h3><a href="/aggregators/{e(r["slug"])}">{e(r["name"])}</a></h3><div class="k">{e(r["kind"])} · {e(r["operator"])}</div>'
-            f'<div>{chips(r)}</div><div class="ls"><strong>The losing side:</strong> {e(ls)}</div></div>')
+            f'<div>{chips(r)}</div>' + (f'<div class="ls">{e(kernel(r))}</div>' if kernel(r) else "") + f'<div class="ls"><strong>The losing side:</strong> {e(ls)}</div></div>')
 
 
 def page(path, title, desc, body, ld):
@@ -114,17 +153,17 @@ def rec_page(r):
         rel = "<h2>Relations</h2><ul>" + "".join(f'<li>{e(x["rel"])}: ' + (f'<a href="/aggregators/{e(x["target"])}">{e(BY[x["target"]]["name"])}</a>' if x.get("target") in BY else e(x.get("target") or x.get("label") or "")) + (f' — {e(x["note"])}' if x.get("note") else "") + "</li>" for x in r["relations"]) + "</ul>"
     unc = ("<h2>Unchecked</h2><p>" + lst(r.get("unchecked")) + "</p>") if r.get("unchecked") else ""
     body = (f'<p class="fam"><a href="/aggregators/">Left politics and labor</a> / {e(r["name"])}</p><h1>{e(r["name"])}</h1>'
-            f'<p><a href="{e(r["url"])}">{e(r["url"])}</a></p><div>{chips(r)}</div>'
-            f'<div class="q"><strong>The archive\'s reading.</strong> {e(r["ml_reading"])}</div>' + tbl + ans + neg + rel + ev + unc
+            f'<p><a href="{e(r["url"])}">{e(r["url"])}</a></p><div>{chips(r)}</div>' + (f'<div class="kernel">{e(kernel(r))}</div>' if kernel(r) else "")
+            + article_html(r) + f'<div class="q"><strong>The archive\'s reading.</strong> {e(r["ml_reading"])}</div>' + tbl + ans + neg + rel + reception(r) + ev + unc
             + f'<p class="src">Cite: Lee Sharks, ed. "{e(r["name"])}." Mary Lee Labor meta-aggregator: left politics and labor, maryleelabor.org, compiled {e(D["compiled"])}. {BASE}{e(r["slug"])}</p>')
     ent = {"@id": BASE + r["slug"] + "#entity", "@type": "CreativeWork", "name": r["name"], "alternateName": r.get("aka", []), "url": r["url"],
            "creator": {"@type": "Organization", "name": r["operator"]}}
     recd = {"@id": BASE + r["slug"], "@type": "WebPage", "name": f'{r["name"]} — Mary Lee Labor meta-aggregator record', "about": {"@id": ent["@id"]},
             "mainEntity": {"@id": ent["@id"]}, "dateModified": D["compiled"], "isPartOf": {"@id": BASE + "#census"},
             "editor": {"@type": "Person", "name": "Lee Sharks", "identifier": "https://orcid.org/0009-0000-1599-0703"},
-            "citation": [s["url"] for s in r["sources"].values()], "license": "https://creativecommons.org/licenses/by/4.0/"}
+            "citation": [s["url"] for s in r["sources"].values()], **({"abstract": kernel(r)} if kernel(r) else {}), "license": "https://creativecommons.org/licenses/by/4.0/"}
     ld = json.dumps({"@context": "https://schema.org", "@graph": [recd, ent]}, ensure_ascii=False).replace("</", "<\\/")
-    return page(f"/aggregators/{r['slug']}", r["name"], r["ml_reading"][:200], body, ld)
+    return page(f"/aggregators/{r['slug']}", r["name"], (kernel(r) or r["ml_reading"])[:300], body, ld)
 
 
 OUT.mkdir(exist_ok=True)
